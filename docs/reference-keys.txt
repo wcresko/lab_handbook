@@ -1,0 +1,14 @@
+fig:nice-fig
+tab:nice-tab
+prerequisites
+intro
+literature
+methods
+applications
+example-one
+example-two
+histological-protocols
+alizarin-staining
+purpose-alizarin-staining-of-fixed-adult-stickleback.
+materials
+procedure

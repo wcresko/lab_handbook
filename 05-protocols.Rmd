@@ -1,4 +1,5 @@
 # Histological Protocols
+
 ## Alizarin Staining
 
 ### PURPOSE: Alizarin staining of fixed adult stickleback.

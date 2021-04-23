@@ -11,4 +11,6 @@ link-citations: yes
 description: "This is the Cresko Laboratory Manual"
 ---
 
+# The Cresko Lab
+
 Description of our laboratory

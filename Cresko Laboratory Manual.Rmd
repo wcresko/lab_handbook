@@ -11,6 +11,8 @@ link-citations: yes
 description: "This is the Cresko Laboratory Manual"
 ---
 
+# The Cresko Lab
+
 Description of our laboratory
 
 <!--chapter:end:index.Rmd-->
@@ -41,6 +43,7 @@ descriptions of animal care IACUC protocols
 <!--chapter:end:04-IACUC.Rmd-->
 
 # Histological Protocols
+
 ## Alizarin Staining
 
 ### PURPOSE: Alizarin staining of fixed adult stickleback.

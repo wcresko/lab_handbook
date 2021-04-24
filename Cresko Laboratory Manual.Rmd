@@ -31,16 +31,285 @@ We describe our methods in this chapter.
 
 # Expectations in the Laboratory
 
-We describe our methods in this chapter.
+## Scientific Ethics and Integrity
+
+- xx
+- xx
+- xx
+
+## Authorship of Manuscripts
+
+**Recommended: At the start of each project, design your plan for authorship of the project so
+everyone knows the expectations**
+
+*Authorship criteria*:
+
+1) Makes a significant intellectual contribution to research ideas and experimental design
+
+OR
+
+2) Makes a significant contribution to data acquisition, data generation, data analysis, data
+interpretation, research coordination, and/or financial support of research
+
+AND
+
+3) Contributes to writing part of the manuscript, in addition to editing revisions before
+submission for publication
+
+AND
+
+4) Remains involved throughout the submission and revision process until final publication
+
+*Research participants not meeting the criteria should be listed in the Acknowledgments
+section of the final published manuscript
+
+*Authorship order*:
+
+Generally, the person who had the most significant contribution to the project and who does
+most of the writing will be the first author. In ecology, the last author is generally the PI of the
+lab (although not always). The remaining authors are usually listed in their order of
+contribution. However, if contributions were equivalent, then co-authors can be alphabetized
+or ordered according to their time since involvement in the project.
 
 <!--chapter:end:03-expectations.Rmd-->
+
+# CRESKO LAB SAFETY PROTOCOLS
+
+__FOR YOUR OWN SAFETY AND THE SAFETY OF OTHERS, HEED THE FOLLOWING RULES!__
+
+EMERGENCY CONTACT: dial 911 first, _AND_  6-2919 (EHS) | Mark Cell 541-505-0006
+
+**•** **Safety Shower, Eyewash, Fire Extinguishers.  Eyewashes must be flushed weekly. _Undergraduate research assistants are responsible for flushing the safety showers each week._ _Each lab member is responsible for knowing the locations of safety showers and fire extinguishers in the lab.  Safety showers and fire extinguishers are tested annually by EHS. 
+
+## Wear a lab coat** **and closed-toed shoes** **when working with the following chemicals:**
+
+- organics (e.g. phenol/chloroform, Trizol, DNAzol, formaldehyde, formamide, methanol)
+
+- strong acids and bases
+
+## Wear** **eye protection** **when working with:**
+
+- UV light (UV opaque glasses/face shield) 
+
+- phenol/chloroform, strong acids/bases, and any splash hazard with anything hazardous in it. 
+
+## Wear safety gloves when working with ANY of the reagents above.
+
+Heed the “one glove rule”: remove one glove when moving between rooms to avoid touching doorknobs with a contaminated glove. Note that glove materials differ in their permeability to different reagents. Standard nitrile gloves are adequate for our lab’s standard procedures. However, if you are planning experiments that involve more dangerous reagents, consult with Luke Sitts at EHS to select appropriate gloves.
+
+## Disposal of common hazardous reagents (EHS DISPOSAL: 6-3192)**
+
+- E. coli plates and recombinant materials: autoclave buckets or EHS biohazard incineration boxes
+
+- E. coli flasks/liquids: bleach, rinse, drain
+
+- Used alcohols, formaldehyde, and kit waste: waste containers under the thermocyclers.  
+
+- organic solvents: waste bottles in hood. 
+
+## Storage **of Hazardous Liquids**
+
+- Store flammables and strong acids in a latched METAL SAFETY CABINET UNDER THE HOOD.
+
+## Heating Liquids in the Microwave Oven**
+
+Triple check that the cap is _very_ loose or (better) remove it entirely. Remelting of gels with DNA binding dyes is forbidden.
+
+## Bunsen Burners**
+
+- Triple check that the gas is shut completely off before you leave the bench/ hood. 
+
+- keep burners far away from any flammable liquids. 
+
+## Liquid Nitrogen and Dry Ice** 
+
+- Use only in well ventilated spaces to avoid asphyxiation.  
+
+- Never store in sealed containers to avoid explosions
+
+- Wear lab coat, gloves, goggles. In case of frostbite or burn, soak affected part in tepid water, seek medical attention
+
+
+<!--chapter:end:04-lab_safety.Rmd-->
 
 # IACUC
 
 descriptions of animal care IACUC protocols
 
 
-<!--chapter:end:04-IACUC.Rmd-->
+<!--chapter:end:05-IACUC.Rmd-->
+
+# Pipefish Husbandry Protocols
+
+## Pipefish Feeding
+
+(created by M Currey 7/23/09)
+
+**Materials Needed:** 
+
+- Decapsualted Brine Shrimp (see artemia decapsulations SOP)
+- Adult Brine Shrimp
+- Live Moina
+- Frozen myisid Shrimp
+- Live mysid shrimp
+- Shrimp collector
+- Squirt Bottle
+- 
+### Fish foods for fry, juvenile and adults:
+
+- Fry - newly hatched baby brine shrimp (see hatching brine shrimp SOP), salt water copepods. Fry are fed once per day
+- Adult – newly hatched brine shrimp, Adult brine shrimp, Moina. Adults are fed once per day. Feed adult brine shrimp when we have them. Use moina when we are out of adult brine shrimp. Adult brine shrimp are from a local fish store and are only available every tow weeks. They last ~ one week and therefore adult pipefish are fed adult brine shrimp for one week and moina the next. 
+
+**Fry:**
+
+         Fry tanks are designated with an orange dot. 
+
+1. Newly hatched brine: Collect newly hatched brine and place into a squirt bottle (see brine shrimp SOP). Feed all tanks with an orange dot. 
+
+**Adults:**
+
+        Adult tanks are designated with a yellow dot. 
+
+1. Newly hatched brine: Collect newly hatched brine and place into a squirt bottle (see brine shrimp SOP). Feed all tanks with an orange dot. 
+1. Frozen Mysis: Obtain a quarter-sized piece of frozen mysis from the freezer. Place into squirt bottle and add water. Wait until mysis thaws and feed to all adult tanks. 
+1. Adult Brine shrimp: Scoop out adult brine shrimp with net. Wash into a ball and place over the top of squirt bottle. Wash ball of brine into squirt bottle and feed all adult pipefish. 
+1. Moina: Scoop out with net and wash into a ball. Invert ball over collection beaker and wash moina into beaker. Pour moina into squirt bottle and feed. 
+1. Live Mysid: See live foods SOP
+
+## **Live Food Culture, Monia and Mysid Shrimp:** 
+
+**_Moina_**
+
+**Materials:** 
+
+- 10 gallon glass tanks
+- corner sponge filter
+- Air supply
+- Rotifer diet
+- Powdered nannochloropsis 
+
+**Procedure:** 
+
+- Fill 10 gallon tank 3/4 full of stickleback system water
+- Add corner filter and activate with air. 
+- Add Moina
+- Change water once every 2-3 weeks by removing half of the water and replacing with stickleback water. 
+- DO NOT break tank down and clean as moina do not respond well to this. 
+
+**Feeding:** 
+
+- Add 15 drops of rotifer diet and 1/8 scoop of powdered nannochloropsis each day. 
+
+###### Collection and feeding to fish
+
+- See pipefish feeding SOP
+
+###### _Mysid Shrimp_
+
+For a description of the mysid generator please visit: 
+
+http://www.mblaquaculture.com/assets/docs/MBL_AQ_Mysid_Generator.pdf
+
+**Materials:** 
+
+- 10 gallon tank generator system
+- Salt water
+
+**Feeding:**
+
+- Feed newly hatched brine shrimp daily to both adults and juveniles. 
+
+**Water Change:**
+
+- 2-3 times per week empty 5 gallons of water from the system and replace with new make up water. 
+- Make new water in 5 gallon bucket by adding DI water and 2 scoops of salt. 
+
+**Juvenile Collection (Daily):**  
+
+- Turn off water to tanks. 
+- Remove collection cup, using mysid system water, rinse juveniles into plastic container. 
+- Pour juveniles into grow out tank.
+- Replace collection cup. 
+- Turn water on and start siphon. 
+
+**Adults collection and feeding to pipefish:** 
+
+Juvenile will reach adult size in three weeks. At three weeks these new adults will replace old breeding adults. The old breeding adults that are being replaced are feed to the pipefish. 
+
+- Let juveniles grow to three weeks at which point they reach adult stage
+- Siphon adults through a net and collect in a container. 
+- Siphon old adults out of one of the 10 gallon tanks and feed to pipefish
+- Clean tank, fill with water and add new adult. 
+
+## Live Food Culture, Monia and Mysid Shrimp: 
+
+**_Moina_**
+
+**Materials:** 
+
+- 10 gallon glass tanks
+- corner sponge filter
+- Air supply
+- Rotifer diet
+- Powdered nannochloropsis 
+
+**Procedure:** 
+
+- Fill 10 gallon tank 3/4 full of stickleback system water
+- Add corner filter and activate with air. 
+- Add Moina
+- Change water once every 2-3 weeks by removing half of the water and replacing with stickleback water. 
+- DO NOT break tank down and clean as moina do not respond well to this. 
+
+**Feeding:** 
+
+- Add 15 drops of rotifer diet and 1/8 scoop of powdered nannochloropsis each day. 
+
+###### Collection and feeding to fish
+
+- See pipefish feeding SOP
+
+###### _Mysid Shrimp_
+
+For a description of the mysid generator please visit: 
+
+http://www.mblaquaculture.com/assets/docs/MBL_AQ_Mysid_Generator.pdf
+
+**Materials:** 
+
+- 10 gallon tank generator system
+- Salt water
+
+**Feeding:**
+
+- Feed newly hatched brine shrimp daily to both adults and juveniles. 
+
+**Water Change:**
+
+- 2-3 times per week empty 5 gallons of water from the system and replace with new make up water. 
+- Make new water in 5 gallon bucket by adding DI water and 2 scoops of salt. 
+
+**Juvenile Collection (Daily):**  
+
+- Turn off water to tanks. 
+- Remove collection cup, using mysid system water, rinse juveniles into plastic container. 
+- Pour juveniles into grow out tank.
+- Replace collection cup. 
+- Turn water on and start siphon. 
+
+**Adults collection and feeding to pipefish:** 
+
+Juvenile will reach adult size in three weeks. At three weeks these new adults will replace old breeding adults. The old breeding adults that are being replaced are feed to the pipefish. 
+
+- Let juveniles grow to three weeks at which point they reach adult stage
+- Siphon adults through a net and collect in a container. 
+- Siphon old adults out of one of the 10 gallon tanks and feed to pipefish
+- Clean tank, fill with water and add new adult. 
+
+
+
+
+<!--chapter:end:06-pipefish_husbandry_protocols.Rmd-->
 
 # Histological Protocols
 
@@ -124,11 +393,11 @@ Without agitation
 Wild caught specimens are put in 100% EtOH in the field and then
 rehydrated and put into 4% when back in the lab.
 
-<!--chapter:end:05-protocols.Rmd-->
+<!--chapter:end:08-hist_protocols.Rmd-->
 
 `r if (knitr:::is_html_output()) '
 # References {-}
 '`
 
-<!--chapter:end:06-references.Rmd-->
+<!--chapter:end:20-references.Rmd-->
 

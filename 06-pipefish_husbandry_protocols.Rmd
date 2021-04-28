@@ -1,5 +1,7 @@
 # Pipefish Husbandry Protocols
 
+\newpage
+
 ## Pipefish Feeding
 
 (created by M Currey 7/23/09)
@@ -99,6 +101,8 @@ Juvenile will reach adult size in three weeks. At three weeks these new adults w
 - Siphon adults through a net and collect in a container. 
 - Siphon old adults out of one of the 10 gallon tanks and feed to pipefish
 - Clean tank, fill with water and add new adult. 
+
+\newpage
 
 ## Live Food Culture, Monia and Mysid Shrimp: 
 

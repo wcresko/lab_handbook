@@ -19,17 +19,21 @@ Description of our laboratory
 
 # Introduction to the Lab
 
-Description of our lab ....
+![Illustration by Dr. Allison Fuiten](images/Lab_logo.png)
+
+We are an intellectual community of geneticists who specializes in quantitative evolutionary genomics. Our laboratory studies the developmental genetic and genomic basis of evolution in natural populations. We use the threespine stickleback and zebrafish as the main animal models in the laboratory, as well as syngnathid. We have produced some of the first work that has helped develop stickleback into a model for dissecting the genetic basis of natural variation. We have developed genomic tools such as sequenced Restriction site Associated DNA (RAD) tags that help geneticists apply Next Generation Sequencing (NGS) technologies to biomedical and evolutionary genetic problems. These techniques allow for the efficient identification of thousands of single nucleotide polymorphisms (SNPs) throughout the genomes of models and non-model organisms. We produced the first SNP whole genome-scan for selection in the stickleback genome, and we developed novel Maximum Likelihood (ML) analytical tools for NGS data. Computational biologists and computer scientists in our team have produced software packages for genomic analyses that are used by laboratories around the world for the analysis of big data problems. Our laboratory has developed protocols, best practices, and tools for RNA-seq based transcriptomic functional analyses.
 
 <!--chapter:end:01-intro.Rmd-->
 
 # Mission and Vision
 
+![Willametter River](images/willamette_header.jpg)
+
 We describe our methods in this chapter.
 
 <!--chapter:end:02-mission_vision.Rmd-->
 
-# Expectations in the Laboratory
+# Lab Expectations
 
 ## Scientific Ethics and Integrity
 
@@ -132,16 +136,142 @@ Triple check that the cap is _very_ loose or (better) remove it entirely. Remelt
 
 <!--chapter:end:04-lab_safety.Rmd-->
 
+# LONE WORKER GUIDELINES FOR LABORATORY PERSONNEL
+
+The UO Laboratory Safety Advisory Committee (LSAC) feels that working alone in laboratories should be discouraged but recognizes that a prohibition would hinder the research and education missions of the UO. To advance personnel safety while also recognizing research needs, the LSAC developed this guidance document to assist lab workers in recognizing dangers and developing appropriate procedures.  
+
+The primary danger in working alone is that if an accident should occur, there will be delays in rendering aid.   
+
+Before working alone, you should:
+
+1. Ensure that you have been trained on the procedures, reviewed the safety data sheets for all associate materials, and know the emergency procedures for your lab.
+2. 	Consider whether the risk outweighs the benefits of working alone. 
+3. 	Consider whether this work can be done at a time when others are around.
+4. 	Consider using a buddy system with individuals in other labs nearby.   
+
+If you decide to proceed with hazardous procedures on your own, please use a check-in or text-in system with supervisors or peers, ensuring that they know where and when this work is done and that they have contact information readily available for campus safety personnel. 
+
+SPECIFIC GUIDELINES FOR THIS LABORATORY
+
+Examples of materials and procedures in THIS laboratory that should be avoided while working alone are provided below. Should you choose to do lone work of this nature, ensure that others know where and when this work will be performed, and when it is completed.
+
+Building & Room: _Pacific 310 & 324___ Supervisor: __Dr. William Cresko_
+
+In this laboratory these chemicals or procedures will not be used or done while working alone: 
+
+The use of phenol chloroform and the movement of glass aquariums will not be done while working alone in Pacific 310 or 324.   
+
+
+In this laboratory, these procedures will not be conducted while working alone:
+
+Procedures that require the use of phenol chloroform or the movement of glass aquariums
+
+
+Other safety considerations for working alone in this laboratory (add pages as needed):
+
+
+Emergencies – Dial 911 
+Lab Safety Coordinator: 
+Safety and Risk Services/EHS: 541-346-3192
+
+<!--chapter:end:05-lone_work.Rmd-->
+
 # IACUC
 
 descriptions of animal care IACUC protocols
 
 
-<!--chapter:end:05-IACUC.Rmd-->
+<!--chapter:end:12-IACUC.Rmd-->
+
+# Recipes
+
+![Photo by Mark Currey](images/double_head.jpg)
+
+_____________
+
+## Embryo Medium 
+
+### Material Needed: 
+- Instant Ocean Salt
+- Baking Soda
+- npH2O
+
+### Embryo Medium solution:
+1.	Add 8g Instant Ocean to 2 liters of npH2O
+2.	Add ~0.5g baking soda 
+3.	Check pH and adjust to 7.0 – 8.0
+4.	This makes 2 liters
+
+* Salt and baking soda are located in containers near the dissecting scope. Rinse 2 liter flasks with DI water between uses. 
+_____________
+
+## MESAB 
+*Tricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair, manufactured by Western Chemical and FDA approved. Tricaine (3-amino benzoic acid ethyl lester also called ethyl m-aminoboenzoate) comes in a powdered form. Purchase the smallest amount possible because tricaine expires quickly.*
+
+### Material Needed: 
+- Mesab, a.k.a. MS222, tricaine, or 3-aminobenzoic acid ethyl ester
+- 1 M Tris (pH 9)
+- DD water
+
+### Mesab Stock Solution (4g/L) (tris buffered):
+- 1.	4 g tricaine powder
+- 2.	979 ml DD water
+- ~21 ml 1 M Tris (pH 9)
+- Adjust pH to ~7	
+- Aliquot in 50ml tubes, label with MESAB Stock Solution 4g/L, and store in a -20 freezer
+- 	This makes 1 liter of solution.
+
+### Euthanasia Solution (300 mg/L):
+
+1.	Make a solution of tris buffered Stock Solution as described above. (Or obtain an aliquot from the freezer)
+2.	Combine 7.5ml of stock solution into 100 ml of fish water. 
+
+### Anesthesia (168 mg/L):
+
+1.	Make a solution of tris buffered Stock Solution as described above. (Or obtain an aliquot from the freezer)
+2.	Combine 4.2 ml of stock solution into 100 ml of fish water. 
+
+_____________
+
+## Testes Storage Solution 
+
+### Materials Needed:
+
+1.	NaCl
+2.	KCl
+3.	CaCl2
+4.	NaHCO3
+5.	npH2O
+6.	Gentamycin (antimycotic) (Stock – 10mg/ml)*
+7.	Cell Culture anti-biotic/mycotic from Gibco-BRL (15240-096) 100x Concentration*.
+
+* Both of these reagents are located in separate boxes in Mark’s space in the 
+- 20° C freezer. They are partitioned into 100μl aliquots. 
+
+### Solutions: 
+
+Ginzberg’s Ringers 
+- Mix solids into 750 ml of npH2O
+- 6.6g   NaCl
+- 	0.25g KCl
+- 	0.3g   CaCl2
+- 	0.2g   NaHCO3
+- 	Bring to 1 liter total volume with npH2O. 
+- 	Store at 4° C.
+
+### Testes solution (100ml)
+
+•	Add 100μl of Gentamycin and 100μl of Anti-biotic/mycotic to 100ml of Ginzburg’s Ringers solution. 
+•	Store at 4° C. 
+
+
+<!--chapter:end:13-lab_recipes.Rmd-->
 
 # Pipefish Husbandry Protocols
 
-\newpage
+![Photo by Mark Currey](images/pipefish_embryos.jpg)
+
+---------------
 
 ## Pipefish Feeding
 
@@ -313,7 +443,7 @@ Juvenile will reach adult size in three weeks. At three weeks these new adults w
 
 
 
-<!--chapter:end:06-pipefish_husbandry_protocols.Rmd-->
+<!--chapter:end:14-pipefish_husbandry_protocols.Rmd-->
 
 # Histological Protocols
 
@@ -397,7 +527,7 @@ Without agitation
 Wild caught specimens are put in 100% EtOH in the field and then
 rehydrated and put into 4% when back in the lab.
 
-<!--chapter:end:08-hist_protocols.Rmd-->
+<!--chapter:end:15-hist_protocols.Rmd-->
 
 `r if (knitr:::is_html_output()) '
 # References {-}

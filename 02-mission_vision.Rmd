@@ -1,3 +1,5 @@
 # Mission and Vision
 
+![Willametter River](images/willamette_header.jpg)
+
 We describe our methods in this chapter.

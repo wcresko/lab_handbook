@@ -5,15 +5,7 @@ lab-expectations
 scientific-ethics-and-integrity
 authorship-of-manuscripts
 cresko-lab-safety-protocols
-wear-a-lab-coat-and-closed-toed-shoes-when-working-with-the-following-chemicals
-wear-eye-protection-when-working-with
-wear-safety-gloves-when-working-with-any-of-the-reagents-above.
-disposal-of-common-hazardous-reagents-ehs-disposal-6-3192
-storage-of-hazardous-liquids
-heating-liquids-in-the-microwave-oven
-bunsen-burners
-liquid-nitrogen-and-dry-ice
-lone-worker-guidelines-for-laboratory-personnel
+lone-worker-guidelines
 iacuc
 recipes
 embryo-medium

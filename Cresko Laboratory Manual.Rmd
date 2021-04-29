@@ -77,31 +77,32 @@ or ordered according to their time since involvement in the project.
 
 <!--chapter:end:03-expectations.Rmd-->
 
-# CRESKO LAB SAFETY PROTOCOLS
+# Cresko Lab Safety protocols
 
 __FOR YOUR OWN SAFETY AND THE SAFETY OF OTHERS, HEED THE FOLLOWING RULES!__
 
 EMERGENCY CONTACT: dial 911 first, _AND_  6-2919 (EHS) | Mark Cell 541-505-0006
 
-**•** **Safety Shower, Eyewash, Fire Extinguishers.  Eyewashes must be flushed weekly. _Undergraduate research assistants are responsible for flushing the safety showers each week._ _Each lab member is responsible for knowing the locations of safety showers and fire extinguishers in the lab.  Safety showers and fire extinguishers are tested annually by EHS. 
+**Safety Shower, Eyewash, Fire Extinguishers.**  
 
-## Wear a lab coat** **and closed-toed shoes** **when working with the following chemicals:**
+Eyewashes must be flushed weekly. _Undergraduate research assistants are responsible for flushing the safety showers each week._ _Each lab member is responsible for knowing the locations of safety showers and fire extinguishers in the lab.  Safety showers and fire extinguishers are tested annually by EHS. 
+
+**Wear a lab coat and closed-toed shoes when working with the following chemicals:**
 
 - organics (e.g. phenol/chloroform, Trizol, DNAzol, formaldehyde, formamide, methanol)
-
 - strong acids and bases
 
-## Wear** **eye protection** **when working with:**
+**Wear eye protection when working with:**
 
 - UV light (UV opaque glasses/face shield) 
 
 - phenol/chloroform, strong acids/bases, and any splash hazard with anything hazardous in it. 
 
-## Wear safety gloves when working with ANY of the reagents above.
+**Wear safety gloves when working with ANY of the reagents above.**
 
 Heed the “one glove rule”: remove one glove when moving between rooms to avoid touching doorknobs with a contaminated glove. Note that glove materials differ in their permeability to different reagents. Standard nitrile gloves are adequate for our lab’s standard procedures. However, if you are planning experiments that involve more dangerous reagents, consult with Luke Sitts at EHS to select appropriate gloves.
 
-## Disposal of common hazardous reagents (EHS DISPOSAL: 6-3192)**
+**Disposal of common hazardous reagents (EHS DISPOSAL: 6-3192)**
 
 - E. coli plates and recombinant materials: autoclave buckets or EHS biohazard incineration boxes
 
@@ -111,21 +112,21 @@ Heed the “one glove rule”: remove one glove when moving between rooms to avo
 
 - organic solvents: waste bottles in hood. 
 
-## Storage **of Hazardous Liquids**
+**Storage of Hazardous Liquids**
 
 - Store flammables and strong acids in a latched METAL SAFETY CABINET UNDER THE HOOD.
 
-## Heating Liquids in the Microwave Oven**
+Heating Liquids in the Microwave Oven**
 
 Triple check that the cap is _very_ loose or (better) remove it entirely. Remelting of gels with DNA binding dyes is forbidden.
 
-## Bunsen Burners**
+**Bunsen Burners**
 
 - Triple check that the gas is shut completely off before you leave the bench/ hood. 
 
 - keep burners far away from any flammable liquids. 
 
-## Liquid Nitrogen and Dry Ice** 
+**Liquid Nitrogen and Dry Ice** 
 
 - Use only in well ventilated spaces to avoid asphyxiation.  
 
@@ -136,7 +137,7 @@ Triple check that the cap is _very_ loose or (better) remove it entirely. Remelt
 
 <!--chapter:end:04-lab_safety.Rmd-->
 
-# LONE WORKER GUIDELINES FOR LABORATORY PERSONNEL
+# Lone worker guidelines
 
 The UO Laboratory Safety Advisory Committee (LSAC) feels that working alone in laboratories should be discouraged but recognizes that a prohibition would hinder the research and education missions of the UO. To advance personnel safety while also recognizing research needs, the LSAC developed this guidance document to assist lab workers in recognizing dangers and developing appropriate procedures.  
 

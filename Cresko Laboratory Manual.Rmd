@@ -184,6 +184,259 @@ descriptions of animal care IACUC protocols
 
 <!--chapter:end:12-IACUC.Rmd-->
 
+# Husbandry_stickleback_food
+
+![Photo by Mark Currey](images/double_head.jpg)
+
+_____________
+
+## Stickleback Feeding 
+(created May 6, 2008 by m currey, revised October 21, 2014 by mcc)
+
+### Materials:
+- Fish food mix or dry fry food
+- Decapsulated Artemia (see artemia decapsulating SOP)
+- Color coded feeding Spoon
+
+### Fish foods for fry and juvenile/adults:
+- Fry - newly hatched baby brine shrimp (see hatching brine shrimp SOP) and Zeigler Larval Diet (Larva "Z" Plus 250-450 Microns).
+- Juvenile and Adult fish food mix (see fish food mix SOP). 
+
+*Dry Foods Are Stored in freezer in the stickleback facility*
+
+_Procedure:_
+- Fry are located along the south wall of the summer room. 
+- AM feeding: Feed fry once per day with newly hatched brine shrimp (this should happen during the opposite feeding of larval diet)
+- PM feeding: Feed fry once per day with Ziegler larval diet 1/8 spoon full. 
+- Juvenile and Adults are located in the 20 gallon tanks in the Summer and Winter rooms. Additionally, individualized adults are sometimes located on the fry rack in the Summer room. Please check white board for notification of adults on fry rack. 
+	- 	Feed juveniles and adults twice per day with dry food mix. Using the color coding on spoon, food mix, and tags on tanks. (e.g. for adults: use the red spoon, red food mix, and feed the tanks with a red tag). 
+		- 		Unused brine shrimp can be fed to juvenile and adult fish. 
+
+### Food Storage and Handling:
+- See Fish food storage SOP. 
+
+*Initial daily check list after you have fed. *
+
+_____________
+
+## Fish Food Mix
+(created August 25, 2011 m currey)
+
+### Materials:
+- Freezer
+- Fridge
+- 1 gallon bucket with a tight seal
+- plastic measuring cup
+
+### Dry Mix:
+- Mix the following dry foods in 1 gallon bucket
+
+### Juvenile Mix: 
+- 4 cups Pentair finfish starter ZC1 
+- 1 cup New Life Spectrum optimum saltwater flake
+- 1 cup Ziegler AP100
+
+### Adult mix: 
+- 4 cups Pentair finfish starter ZP1 
+- 4 cups Pentair finfish starter ZC1 
+- 1 cup New Life Spectrum grow
+- 1 cup New Life Spectrum optimum saltwater flake
+- 1 cup Hikari micro pellet
+- 1 cup Hikari marine S
+- 1/8 cup golden pearls
+
+
+### Storage: 
+
+- Label with expiration date (6 months after making) and store at  -20°C. 
+
+_____________
+
+
+## Fish Food: Storage and Sources
+(created by M Currey, August 25, 2011)
+
+
+*Label all foods with received date and expiration date 
+(see below for how to determine expiration date).*
+
+### Brine Shrimp: 
+
+Good indefinitely if frozen in tightly sealed container
+
+1 Upon receiving label with received date.
+Store unopened tins in -20°C freezer. 
+After de-capsulation label with date de-capsulated and date of expiration (30 days from de-capsulation). 
+Store de-capsulated shrimp at 4°C.  
+
+Source – Brine Shrimp Direct, www.brineshrimpdirect.com
+
+
+### Golden Pearl Larval Diet: 
+ 
+1.	800 – 1000 micron
+
+Good 3-5 years if kept in freezer
+
+1.	Store in -20°C freezer.
+2.	Unopened label with expiration date 3 years from receiving date. 
+3.	Upon opening change expiration date to 6 months from date opened.
+
+Source – Brine Shrimp Direct,  www.brineshrimpdirect.com
+
+
+### Hikari dry foods:
+
+•	Marine S 
+•	Micro Pellets 
+
+If un-opened, expiration date is labeled on container by manufacturer. Once opened the food is good for 6 months. 
+
+1.	Keep out of direct sunlight, high heat, and humidity.
+2.	Store at 4°C.
+3.	Upon opening change expiration date to 6 months from date opened. 
+
+Source – Pet Mountain, www.petmountain.com
+                 That Pet Place: http://www.thatpetplace.com
+
+
+New Life Spectrum dry foods:  
+
+2.	Optimum saltwater flakes
+3.	Growth Formula
+
+If un-opened, expiration date is labeled on container by manufacturer. Once opened the food is good for 6 months. 
+
+•	Keep out of direct sunlight, high heat, and humidity.
+•	Store at 4°C. 
+•	Upon opening change expiration date to 6 months from date opened. 
+
+Source – Jehmco, www.jehmco.com
+
+
+### Zeigler Larval dry food:
+
+1.	AP100 (150-250 microns) 
+
+Good 2 years if kept unopened and in freezer.
+
+•	Upon receiving label with received date and expiration date (2 years from received date).
+•	Store at 4°C. 
+•	Upon opening change expiration date to 6 months from date opened. 
+
+Source – Aquatic Ecosystems, http://pentairaes.com
+Pentair Finfish Starter dry foods:
+
+2.	ZP1 - 1.5 mm slow sinking pellet
+3.	ZC1 – 0.6 – 0.85 mm #1 crumble
+
+If un-opened, expiration date is labeled on container by manufacturer. Once opened the food is good for 6 months. 
+
+•	Keep out of direct sunlight, high heat, and humidity.
+•	Store at 4°C. 
+•	Upon opening change expiration date to 6 months from date opened. 
+
+Source – Aquatic Ecosystems, http://pentairaes.com
+
+
+### Selcon (brine shrimp supplement): 
+
+Good 1 year if kept unopened and in fridge.
+
+1.	Upon receiving label with received date and expiration date (1 years from received date).
+2.	Store at 4°C. 
+
+Source – Aquatic Ecosystems, http://www.aquaticeco.com/
+
+
+### Frozen Mysid and Blood Worms: 
+
+Expiration date printed on front label. 
+
+- Upon receiving label with received. 
+- Store at -20°C. 
+
+Source – Nautilus Tropical Fish – Springfield Oregon, 727 Main St. 541-344-3474
+
+_____________
+
+## Hatching and Feeding Brine Shrimp 
+(created by M Currey 5/6/08, updated 151201 mcc) 
+
+### Materials Needed: 
+- De-capsulated Brine Shrimp 
+- Rock Salt
+- 105 μm mesh shrimp collector 
+- Baking Soda
+- Squirt Bottle
+
+### Procedure:
+
+1. Collect Brine Shrimp: Drain entire cone into 105 μm mesh shrimp collector (located on shelf near cone).  Rinse and pour shrimp into squirt bottle. Feed fish. Rinse squirt bottle and place on shelf to dry. 
+2. Reset Brine Cone: Fill cone with DI water to 10 L. Put airline and heater (set at 80°F) into cone. Add 300 ml of rock salt and 1 scoop (5 ml) of baking soda. Obtain de-capsulated brine from refrigerator and shake to homogenize solution. Measure out 150 ml* of de-capsulated brine and add it to the cone. 
+3. Wait 24 hours and repeat….
+
+* The amount of brine shrimp needed will vary depending on the number of juvenile fish that need to be fed. If there is a need for more brine shrimp add more de-capsulated brine to cone and leave a note for the next person. Increase the amount in 50 ml increments. *
+
+_____________
+
+## Artemia Decapsualtion 
+(Adapted by M Currey 4/3/08, 151201 updated by mcc)
+
+### Materials:
+- 15 oz can of dried Artemia cysts (approximately 430 g)
+- 4.3 L ~6% laundry grade bleach
+- Rock Salt (NaCl)
+- 125 ml 40% Lye (NaOH) solution
+- 30.0 g Sodium thiosulfate (Na2S2O3)
+- 16 L Hatching Cone with aeration
+- 125 μm mesh bag (Aquatic Eco-Systems PMB3, 125 micron x 18")
+- Several 3-5 L beakers
+- (1-2) Squirt bottles - squeeze type
+
+## Solutions:
+
+* Solutions should be prepared in advance *
+
+- Bleach, ~6% laundry grade
+- 25 ppt Salt Solution:
+
+1. Combine: 50 g Rock Salt (NaCl) To 2.0 L with tap water
+2. Stir to dissolve completely.
+
+- 40% Lye (NaOH) solution 
+1. Combine: 200 g Lye (NaOH) To 500 mL with tap water
+2. Stir to dissolve completely.
+3. Store in refrigerator (4°C)
+
+
+- Buffered Salt Solution
+1. Combine: 2L, 25 ppt Salt Solution
+2. 125 mL 40% Lye Solution, pre-chilled to 4°C
+
+- 1.0% Sodium Thiosulfate
+1. Combine: 30 g sodium thiosulfate To 3.0 L with tap water
+2. Stir to dissolve.
+
+- Saturated Brine
+1. Combine: ~25g Rock Salt to 4.0 L with tap water
+2. Aerate to dissolve.
+
+### Procedure:
+
+1. Cyst hydration: Hydrate one full can of dried cyst in 5 L of tap water in a hatching cone with aeration for 1 hour at room temp. Examine the cyst under a dissecting scope with top lighting before proceeding. Dry cysts are dimpled, resembling a deflated basketball, whereas fully hydrated cysts are completely spherical in shape. The cysts must be fully hydrated prior to the de-capsulation step. If cysts are not completely spherical after 1 hour, continue the hydration process (for a maximum of 2 hours), checking the progress of the cysts under a microscope every 15 min.
+3. Filter and rinse cysts: Collect the hydrated cyst in a 125 um mesh bag and rinse with cool tap water.
+5. Transfer cysts back to the cone: Add the Buffered Salt Solution to the cone and aerate (save back a filled squirt bottle of salt solution to help transfer cysts to cone). Transfer cysts into cone.
+7. De-capsulation: Add the bleach (4.3 L) to the cone and continue aeration. Watch the cysts turn from brown to grey to orange, When the cysts are 90% orange, stop the reaction by quickly siphoning the cysts through a 125 um mesh bag and rinsing well with cool tap water.
+9. Neutralization residual chlorine: To neutralize any residual chlorine transfer the mesh bag to a clean 4 L beaker and pour the 1.0% Sodium Thiosulfate (3L) into the bag. Soak the cysts in the sodium thiosulfate solution for ~1 min, then rinse the cysts with de-ionized tap water. Rinse until discharge turns clear.
+11. Dehydration for long-term storage: Transfer the cysts back to the cone with 4 L of saturated brine and aerate until salt is dissolved. Transfer dehydrated cyst to (5 or 6) 1 L Nalgene bottles filled with 200 - 300 grams of salt. Add enough salt so that it does not dissolve when de-capsulated brine is added. Fill the bottles with de-capsulated brine. Store in refrigerator. The de-capsulated brine will store for at least 1 month. Hatch brine as you would capsulated brine (see Hatching and Feeding Brine SOP). 
+
+
+
+
+
+<!--chapter:end:12-stickleback_husbandry_feeding.Rmd-->
+
 # Recipes
 
 ![Photo by Mark Currey](images/double_head.jpg)

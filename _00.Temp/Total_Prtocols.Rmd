@@ -1,178 +1,8 @@
 
-
-
-
-
 General Husbandry
 
 
 
-
-SOP - Fish Density Standards
-(created by M Currey, August 25, 2011, updated by mcc 151125)
-
-These standards for fish densities are what we in the Cresko lab have determined optimal after 12 years of keeping threespine stickleback in a recirculating aquaculture system.
-
-Fry (9dpf - 2 months):
-
-•	Fry are kept in 2.8 L tanks at an ideal density of 20 fish per container. Fry can be kept in densities of up to 40 fish per tank. If fish densities are near 40 per tank fish are transferred or thinned after 1 month of age. 
-
-Juvenile (2 months - 4 months) Grow Out:
-
-•	Juvenile fish are transferred from fry tanks into 9.5 L tanks and kept at a density of 20 fish per container. 
-
-Grow out (4 months – 1 year), Adult (1 year - 1.5 years) and Breeding conditioning:
-
-•	Grow out: Juvenile fish are transferred to 20 gallon tanks in the Winter room at an ideal density of 20 fish per container. Fish can be kept at a density of 40 fish per tank if space is needed. 
-•	Breeding Conditioning: Once fish are 1 year of age (or older), transfer adult fish to the Summer room. Stickleback males become sexually mature 2-6 weeks after experiencing Summer conditions, females become sexually mature 4-6 weeks after experiencing Summer conditions conditions. Conditioned fish can stay in the Summer room for 5 months. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-SOP – Embryo Bleaching for Disinfection
-(created by M Currey, August 25, 2011, updated 151201 by mcc)
-
-Purpose:
-This protocol allows the removal of ecto-parasites from embryos produced from wild-caught stickleback. Use this protocol whenever new fish are added to a pre-existing stickleback rearing system, or whenever stocks are transferred between labs. 
-
-Materials needed:
-•	Wash bottle and petri dishes
-•	Timer
-    Solutions
-•	 6% sodium hypochlorite (standard bleach)
-•	 Working stock of bleach – 500µl of bleach into 1 liter of embryo medium (see rearing protocols)
-
-Procedure:
-1.	 Raise embryos according to standard crossing and rearing protocols (see husbandry SOP)
-
-2.	 At 48-60 hours post-fertilization (@ 20C – at this point most organogenesis is complete) remove embryo medium from petri dishes and rinse embryos once with fresh embryo medium.
-
-3.	 Fill petri dish with working stock solution of bleach.  Swirl and let sit for 1.5 min. Do not bleach embryos for longer as chorions can thicken and it becomes difficult for embryos to hatch.
-
-4.	 Drain bleach solution from embryos, and wash them three times with fresh embryo medium.  This is really important.
-
-5.	 Replace embryo medium daily.  If crosses are done in the field, the embryos can be shipped from day 3 to day 6 post-fertilization.  To ship embryos, rinse once with embryo medium, place embryos into a 50ml conical tube (~100 embryos/tube) and fill with fresh embryo medium.  Place tubes in a shipping container with wet ice.  Separate the tubes from the ice with bubble-wrap and newspapers.  Ship the embryos overnight.  
-
-6.	 When the embryos arrive at the lab, rinse the outside of the containers well before moving into the lab.  Allow them to equilibrate to room temp (~20C).  Place the embryos into petri dishes, rinse once, and add new embryo medium.  Rear according to standard protocol.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SOP – Testes Storage
-(created by M Currey, August 25, 2011, updated 151201 by mcc)
-
-Purpose: Storage of stickleback testes for fertilization up to 1-2 months post extraction. 
-Materials needed:
-•	Testes solution
-•	15 ml falcon tube
-•	4C refrigerator 
-
-Procedure:
-
-1.	Dissect testes (see Stickleback crossing SOP).
-2.	Place testes in 15 ml tube with ~ 10 ml of testes solution. 
-3.	Label tube with stock number and date of testes dissection and place tube with testes in 4C refrigerator. 
-4.	Change testes solution once per week. 
-
-Note: Testes can be used up to ~ 1 month when stored this way. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SOP – Egg Storage
-(created by M Currey, August 25, 2011, updated 151201 by mcc)
-
-Purpose: Storage of eggs for fertilization up to 24 hours post stripping. 
-Materials needed:
-•	NaCl
-•	KCl
-•	CaCl2
-•	NaHCO3
-•	Tris, pH 7.2
-•	npH2O
-•	Streptomycin & Penicillin  Solution (PenStrep) from Sigma (P-0906) Stock – 100%
-•	50 ml sterile polypropylene conical tubes
-•	90 mm petri dish
-
-Procedure:
-
-1.  Make stock of Holtfreiter’s Solution, store at 4C
-
-      Mix solids into 750ml of npH2O
-	3.5 gm NaCl
-	0.05 gm KCl
-	0.1 gm CaCl2
-	0.02 gm NaHCO3
-	1.0 ml Tris
-	Bring to 1 liter with npH2O
-
-2.  Add PenStrep to a final concentration of 1% (10ml into 1 liter), store at 4C.
-
-3. Strip eggs from ripe female into a conical tube with 25ml cold Holtfreiters.
-
-4. Eggs can be transported on ice and fertilized up to 24 hours later (maybe longer).
-
-5. To fertilize, move eggs to 90mm petri dish and allow temperature to equilibrate to 20C.
-
-6. Remove Holtfreiter’s solution, and rinse eggs once with embryo medium (important to.
-     make sure that salt concentration is low enough for sperm to be optimally activated).
-
-7.  Add macerated testis as in general husbandry SOP and cover eggs with embryo medium. 
-SOP - Live Food Culture, Moina and Mysid Shrimp: 
-(updated 151201 by mcc)
 
 Moina
 
@@ -387,7 +217,8 @@ Materials:
        To make 100 ml of 4% PFA:
 3.	Preheat to 60° C while stirring on heat plate
 4.	Add 4 g PFA
-5.	 Heat and stir just until solution clears. Do not let heat go above 60° C! pH should be about 7.4
+5.	
+Heat and stir just until solution clears. Do not let heat go above 60° C! pH should be about 7.4
 6.	Store 10ml aliquots at -20C in 1.5 ml tubes
 
 •	1.5 ml tubes
@@ -814,7 +645,8 @@ Cortland’s Salt Solution
    For 100 ml volume dissolve the following in distilled water: 
 1.	725 mg NaCl (124.1 mM)
 2.	38 mg KCl (5.1 mM)
-3.	41 mg Na2HPO4 (2.9 mM)
+3.	41 mg Na2HPO4
+(2.9 mM)
 4.	24 mg MgSO4∙7H2O (1.9 mM)
 5.	16 mg CaCL2∙2H2O (91.4 mM)
 6.	100 mg NaHCO3 (11.9 mM)
@@ -839,7 +671,8 @@ Cortland’s Salt Solution
    For 100 ml volume dissolve the following in distilled water: 
 9.	725 mg NaCl (124.1 mM)
 10.	38 mg KCl (5.1 mM)
-11.	41 mg Na2HPO4 (2.9 mM)
+11.	41 mg Na2HPO4
+(2.9 mM)
 12.	24 mg MgSO4∙7H2O (1.9 mM)
 13.	16 mg CaCL2∙2H2O (91.4 mM)
 14.	100 mg NaHCO3 (11.9 mM)

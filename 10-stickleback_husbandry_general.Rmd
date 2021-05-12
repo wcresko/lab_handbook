@@ -1,29 +1,158 @@
-# Husbandry stickleback crossing
+# Husbandry stickleback health
 
 ![Photo by Mark Currey](images/double_head.jpg)
 
 _____________
 
+## Health Check - Sick and Dead Fish 
+(created 4/14/08 by M Currey, updated 151201 by mcc)
+
+*Check for sick and dead fish Daily by looking through all tanks. This is best done when feeding.  When done initial checklist and email Mark (see announcement below). Symptoms of Sick and Distressed fish are posted in the fish room.
+
+Material Needed: 
+•	Fish Morgue consisting of a small bucket with lid and a sealable plastic bag
+•	Mesab, a.k.a. MS222, tricaine or 3-aminobenzoic acid ethyl ester
+•	Small container
+•	Net
+
+If dead fish is found:
+
+1.	Make note of the number of fish, tank space, and what stock the fish was from on the daily check list. 
+2.	With a clean net, remove fish and place into fish morgue. (The fish morgue can be found in the chest freezer. It is a small bucket labeled “Fish Morgue” on the lid). 
+
+If sick fish is found: 
+
+1.	Make note on tank and contact supervisor. 
+
+Please email Mark with a list of all sick and dead fish along with tank position at the end of each shift, mcurrey@uoregon.edu.
 
 
-SOP - Fish Density Standards
-(created by M Currey, August 25, 2011, updated by mcc 151125)
-
-These standards for fish densities are what we in the Cresko lab have determined optimal after 12 years of keeping threespine stickleback in a recirculating aquaculture system.
-
-Fry (9dpf - 2 months):
-
-•	Fry are kept in 2.8 L tanks at an ideal density of 20 fish per container. Fry can be kept in densities of up to 40 fish per tank. If fish densities are near 40 per tank fish are transferred or thinned after 1 month of age. 
-
-Juvenile (2 months - 4 months) Grow Out:
-
-•	Juvenile fish are transferred from fry tanks into 9.5 L tanks and kept at a density of 20 fish per container. 
-
-Grow out (4 months – 1 year), Adult (1 year - 1.5 years) and Breeding conditioning:
-
-•	Grow out: Juvenile fish are transferred to 20 gallon tanks in the Winter room at an ideal density of 20 fish per container. Fish can be kept at a density of 40 fish per tank if space is needed. 
-•	Breeding Conditioning: Once fish are 1 year of age (or older), transfer adult fish to the Summer room. Stickleback males become sexually mature 2-6 weeks after experiencing Summer conditions, females become sexually mature 4-6 weeks after experiencing Summer conditions conditions. Conditioned fish can stay in the Summer room for 5 months. 
+If there are numerous sick or dead fish please contact Mark Currey 541-505-0006 or Bill Cresko 541-285-5446 immediately. 
 
 
-_____________
+_______________
+
+
+## Adult fish Anesthesia, Euthanasia, and Fixation  
+(created 4/14/08 by M Currey, updated 151201 by mcc)
+
+** Tricaine must be phamaceutical-grade. (We use tricaine purchased from Aquaic Ecosystems, manufactured by Western Chemical and FDA approved)
+These procedures are to be done on fish larger then 5mm in length. 
+
+### Material Needed: 
+•	Fish Morgue consisting of a small bucket with lid and a sealable plastic bag
+•	Mesab, a.k.a. MS222, tricaine or 3-aminobenzoic acid ethyl ester
+•	Small container
+•	Net
+
+### Mesab Stock Solution (4g/L)(From Zebrafish Book 4th edition):
+Tricaine (3-amino benzoic acid ethy lester also called ethyl m-aminoboenzoate) comes in a powdered form from Sigma (Cat.# A-5040). It is also available as Finquel (Part No. C-FINQ-UE) from Argent Chemical Laboratories, Inc. 
+
+1.	Make tricaine solution for anesthetizing fish by combining the following in a glass bottle with a screw cap:
+
+•	Stock Solution (4g/L)
+•	400 mg tricaine powder
+•	97.9 ml DD water
+•	~2.1 ml 1 M Tris (pH 9)
+
+2.	Adjust pH to ~7. Store this solution in the freezer. (Buy the smallest amount possible because tricaine gets old.)
+
+### Euthanasia (300 mg/L):
+
+Procedure:
+1.	Make a solution of tris buffered Stock solution MS-222 solution as described above. (Or obtain solution from freezer)
+2.	Combine 7.5ml of stock solution into 100ml of fish water. 
+3.	Place fish into above fish water/ mesab solution for at least 10 minutes after cessation of opercular movement ~12 minutes. 
+4.	If fish is to be used for experiments, proceed with fixation or preparation of the experiment. 
+5.	If the fish are to be disposed of, place fish into fish morgue located in chest freezer in entry room. 
+
+### Anesthesia (168 mg/L):
+
+1.	Make a solution of tris buffered Stock solution MS-222 solution as described above. (Or obtain solution from freezer)
+2.	Combine 4.2 ml of stock solution into 100ml of fish water. 
+3.	Place fish into 168 mg/l MS-222 solution and wait for the fish to slow down. 
+4.	Image or do other experiments quickly to minimize fish exposure to MS-222. Pay attention to opercular movement to be sure that fish is alive. 
+5.	Revive by placing in fish water and moving fish gently through the water to pass water over gills. 
+
+### Liquid N2 freezing, and fixation in RNAlater:
+
+1.	Anesthetize using above concentration of MS-222 and allow fish to lay motionless with only slight opercle movement. This should take approximately 10 minutes. 
+2.	Place fish in liquid N2 for 2 minutes. This instantaneously freezes the fish. 
+3.	Thaw into RNAlater-ICE. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOP - Embryo and Larval Euthanasia and Fixation 
+(created 4/6/10 by M Currey)
+
+These procedures are to be done with larval fish and fish up to 5mm in length. 
+
+For Euthanasia:
+
+Materials:
+•	Fish Morgue
+•	Ice bath with basket (see below)
+Procedure:
+1.	Place ice in insulated box, e.g. cooler or Styrofoam container. 
+2.	Add water to make ice slurry
+3.	Add mesh basket so that ice water is allowed to enter but ice does not. 
+4.	Place embryos in ice water
+5.	Let embryos sit for 5 hour minimum
+6.	Dispose of dead embryos in fish morgue. 
+
+For RNA extraction:
+
+Materials:
+•	RNAlater (Ambion cat # AM7021) or –80 freezer
+•	1.5 ml tubes
+•	liquid nitrogen
+
+Procedure:
+RNA later
+1.	Add RNA later per manufacturers recommendations. 
+2.	Place embryos in solution. This rapidly fixes embryos. 
+For Storage in -80° C Freezer
+1.	Place embryos in 1.5 ml tube
+2.	Put tube in liquid nitrogen for 2 minutes. 
+3.	Place tube in –80° C for RNA extraction
+
+For insitu hybridization:
+
+Materials:
+•	4% buffered PFA
+       To make 100 ml of 4% PFA:
+3.	Preheat to 60° C while stirring on heat plate
+4.	Add 4 g PFA
+5.	
+Heat and stir just until solution clears. Do not let heat go above 60° C! pH should be about 7.4
+6.	Store 10ml aliquots at -20C in 1.5 ml tubes
+
+•	1.5 ml tubes
+•	10 ml 10XPBS
+•	90 ml sterile H2O
+
+Procedure for fixing:
+1.	Place embryos in 1.5 ml tube
+2.	Add 1 ml 4%pfa
+3.	Store in –20 freezer. 
+       **This rapidly fixes embryos for insitu hybridization. 
+
+
+
 

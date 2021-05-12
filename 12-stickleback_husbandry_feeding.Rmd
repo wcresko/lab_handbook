@@ -246,5 +246,41 @@ _____________
 11. Dehydration for long-term storage: Transfer the cysts back to the cone with 4 L of saturated brine and aerate until salt is dissolved. Transfer dehydrated cyst to (5 or 6) 1 L Nalgene bottles filled with 200 - 300 grams of salt. Add enough salt so that it does not dissolve when de-capsulated brine is added. Fill the bottles with de-capsulated brine. Store in refrigerator. The de-capsulated brine will store for at least 1 month. Hatch brine as you would capsulated brine (see Hatching and Feeding Brine SOP). 
 
 
+__________________
 
+## Moina
+
+Materials: 
+•	10 gallon glass tanks
+•	corner sponge filter
+•	Air supply
+•	Rotifer diet
+•	Powdered nannochloropsis 
+
+### Procedure: 
+
+1.	Fill 10 gallon tank 3/4 full of stickleback system water
+2.	Add corner filter and activate with air. 
+3.	Add Moina
+4.	Change water once every 2-3 weeks by removing half of the water and replacing with stickleback water. 
+5.	DO NOT break tank down and clean as moina do not respond well to this. 
+
+### **Feeding**: 
+6.	Add 15 drops of rotifer diet and 1/8 scoop of powdered nannochloropsis each day. 
+
+## Mysid Shrimp
+
+For a description of the mysid generator please visit: 
+http://www.mblaquaculture.com/assets/docs/MBL_AQ_Mysid_Generator.pdf
+
+### Materials: 
+•	10 gallon tank generator system
+•	Salt water
+
+### Feeding:
+1.	Feed newly hatched brine shrimp daily to both adults and juveniles. 
+
+### Water Change:
+1.	2-3 times per week empty 5 gallons of water from the system and replace with new make up water. 
+2.	Make new water in 5 gallon bucket by adding DI water and 2 scoops of salt. 
 

@@ -1,6 +1,6 @@
 --- 
 title: "Cresko Laboratory Manual"
-author: "Cresko Lab"
+author: ""
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -11,6 +11,9 @@ link-citations: yes
 description: "This is the Cresko Laboratory Manual"
 ---
 
-# The Cresko Lab
+# The Purpose of this Manual
 
-Description of our laboratory
+![Illustration by Dr. Allison Fuiten](images/Lab_logo.png)
+
+
+xxx Description of the purpose of the manual and how to use it XXX

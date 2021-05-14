@@ -1,0 +1,162 @@
+# Stickleback Manipulations - Gnotobiotic
+
+![Lily Lake - photo by Mark Currey](images/lily_lake_header.jpg)
+
++++
+
+## Derivation of Grem-Free Stickleback 
+
+### Purpose: 
+This procedure describes the creation of germ-free threespine stickleback.
+
+### Materials:
+**Solutions:**
+
+- Stickleback medium (SM)
+- 6g Instant Ocean (Aquqarium Systems)
+- 1L dH20 
+
+**Drug stocks (all stored at -20°C)**
+
+-	100mg/ml 	Ampicillin
+-	50mg/ml  	Kanamycin
+-	8mg/ml 	Amphotericin
+
+*Make the following up fresh each time:*
+
+**Antibiotic Stickleback Medium**
+
+- 250ul Ampicillin 100mg/ml (100ug/ml final)
+- 25ul Kanamycin 50mg/ml (5ug/ml final)
+- 7.8ul Amphotericin B 8mg/ml (250ng/ml final)
+- 250 ml Stickleback medium
+- Filter sterilize
+
+**0.003% Bleach solution**
+
+- 125ul 6.0% bleach solution
+- 250ml SM
+- Filter sterilize
+
+**0.2% PVP-I solution** (*Polyvinylpyrrolidone-iodine [0.01% free iodine] Western Chemical Inc.*)
+
+- 5ml 10% PVP-I stock 
+- 245ml SM
+- Filter sterilize
+
+**0.4% Tricaine (3-amino benzoic acidethylester)**
+*Tricaine must be phamaceutical-grade. (We use tricaine purchased from Aquaic Ecosystems, manufactured by Western Chemical and FDA approved)*
+
+- 400mg Tricaine
+- 	97.9 ml SM
+- 	Adjust to pH 7.0
+- This can be made ahead of time and stored for long periods at -20°C or for up to 2 weeks at 4°C
+
+### Procedure:
+
+**A.	Collect embryos as per approved protocol  (Please see the Stickleback Crossing SOP) with the following modifications:**
+
+- Squeeze eggs from females into sterile petri dishes
+- Euthanize the male in freshly made tricaine with stickleback medium (SM)
+- Clean the surface of the dissection area, scissors and forceps with 70% or 95% ethanol
+- Spray the outside of the euthanized male with 95% ethanol prior to dissection, a
+- wipe body with Kimwipe
+- When testes have been collected, use clean, new razor to cut up the testes
+- Fertilize eggs in filter sterilized antibiotic stickleback medium
+- Incubate eggs at 20°C until eggs reach 2 cell stage ~2 hours post fertilization, remove non-viable embryos from 2 cell stage eggs, and rinse viable embryos with fresh antibiotic stickleback medium 2X
+
+**B.	About 6 hours post fertilization, transfer viable embryos into 50 ml beakers**
+
+- To increase the probability of maintaining sterility wear standard latex laboratory gloves for subsequent steps of protocol.
+- Transfer viable embryos into sterile, autoclaved 50ml beaker containing ~40 ml filter sterilized stickleback medium.
+
+**C. Clean embryos in hood:**
+
+- Transfer into the hood to minimize number of times entering and exiting the hood (per 100 embryos cleaned)
+- 3 sterile 50ml beakers with foil tops
+- Individually wrapped, sterile transfer pipettes
+- 1L filter sterilized stickleback medium
+- 0.003% bleach
+- 0.2-0.4% PVP-I (some flasks may be contaminated with 0.2% PVP-I, but more fish are likely to die in the 0.4% PVP-I)
+- 10 sterile flasks – 250 or 500cm2 with screw topped caps (in hood, add 48ml sterile
+- stickleback medium per 250cm2 flask or 98ml per 500cm2 prior to adding embryos)
+- 25ml or 50ml pipettes, sterile, individually wrapped Pipette aid 
+- Embryos in 50ml covered beaker
+- Large beaker for collecting liquid waste
+- Transfer embryos to clean beaker
+			1. Pour off all but ~10ml SM carefully into waste container
+			2. Transfer remaining 10ml SM with eggs into clean 50ml beaker
+			3. Add ~20ml sterile SM to old beaker to get remaining eggs
+			4. Transfer remaining eggs to beaker
+			5. Bring volume in new beaker up to 50ml with sterile SM
+- Rinse embryos 3X with 50ml filter sterilized SM
+- Immerse embryos in ~50ml 0.2-0.4% PVP-I solution for 10 minutes
+- Rinse embryos with sterile SM 1X
+- Transfer embryos to fresh beaker as in step b
+- Rinse embryos in sterile SM additional 2X
+- Immerse embryos in 0.003% bleach for 10 minutes. 
+- Rinse embryos in sterile SM 1X
+- Transfer embryos to fresh beaker as in step b.
+- Rinse embryos additional 2X in sterile SM
+- Transfer 20-40 embryos to flasks containing sterile SM using sterile, individually wrapped pipettes
+
+**C. Incubate embryos at 20°C in incubator in the Cresko Lab, stickleback husbandry room 324 Pacific**
+
+ **D. At 9 dpf, upon yolk absorption, feed larva and change and test water for contamination:**
+ 
+1.	On the daily checklist record the number of fish dead or not moving in response     
+2.	to external stimuli. In tissue culture hood, remove dead or not responsive (sick)     
+3.	fish. Euthanize sick fish with tricaine, as per approved euthanization protocol.
+4.	In tissue culture hood, remove 70% of fish water with sterile pipette
+5.	Replace water with sterile stickleback medium
+6.	Add one scoop of irradiated Ziegler dry food to flask
+7.	Plate 50ul to 100ul of water on TSA plates to check for contamination of bacteria
+
+_______________________
+
+
+## Feeding Gnotobiotic Stickleback
+
+### Purpose: 
+
+This procedure describes the feeding of gnotobiotic threespine stickleback
+
+### Materials: 
+
+-	Sterile Zeigler food
+-	1ul inoculation loop (Cat 12000-808)
+-	Sterile fish media
+-	~5g ammo-carb (Aquarium Pharmaceuticals, Inc)
+
+### Procedure:
+1. See Protocol for collecting and sterilizing embryos. Rear about 20 fish per 50ml sterile antibiotic embryo medium (SM) in 250ml flasks with filter caps (VWR cat 82050-856) or 40 fish per 100ml flasks.
+2. Aliquot sterile Zeigler food into sterile 1.5ml snap top tubes in the hood.
+3. At 9dpf, add 1 scoop of sterile Zeigler food using a VWR, 1ul inoculation loop (Cat 12000-808). Repeat each day until the end of study.
+4. Change 70% of media each day.
+5. At 11dpf, add an autoclaved packet of ~5g ammo-carb (Aquarium Pharmaceuticals, Inc) to the water to neutralize toxins. This packet will remain in the flask until the end of the experiment and then disposed. 
+6. The Zeigler food is derived from the following reference:
+*Pham, Kanther, Semova and Rawls. Nature Protocols, 2008; 3(12):1862-1875.* 
+
+____________________
+
+
+## Mono-associated Protocol for Stickleback
+
+### Purpose:
+
+This protocol is used to determine whether the microbial community of one strain of stickleback can colonize the gut of another strain that is evolutionarily different. This protocol has been adapted for use in stickleback from an established, approved zebrafish protocol. 
+
+### Procedure:
+
+The bacterial inoculums should be determined empirically for each species used.  For many bacteria 104 Colony Forming Units (CFUs) per milliliter of stickleback medium will suffice for full colonization of the intestine and minimal toxicity to the fish. Dead larvae in the flask will be removed as this will often result in increased bacterial growth that can ultimately be fatal to the remaining larvae.  The method below is used for several proteobacteria strains.  
+
+1. Raise fish in a germ-free environment as described.
+2. Incubate bacteria for 16 hours in 50ml of growth medium in 250 ml flask at 25°C, 200 RPM. These bacteria will originate from the intestine of a healthy stickleback to ensure that the bacteria are not pathogens.
+3. Measure the Optical Density600 (OD600) of the culture.  
+4. Calculate the original culture density, assuming 1 OD600 = 109 CFU / ml.
+5. Dilute the culture to pre-determined concentration as needed in filter sterilized stickleback medium, and inoculate flask in tissue culture hood. The fish will be exposed to the bacteria in the water after their digestive system is open and they have been shown to consume food, which occurs between 9 and 13 days post fertilization. The inoculums will be determined in a manner similar to those already established for zebrafish and used regularly in the Guillemin laboratory. Germ-free fish water is inoculated between 1000 and 1000000 bacteria per milliliter so the concentration the concentration can be chosen that results in healthy fish surviving to three days post-exposure.
+6. Plate dilutions of the original bacterial culture in order to verify the CFU/ml of the inoculum.
+7. Monitor fish daily for signs of illness, including lack of motility, response to external stimuli, rapid movement of opercular (gill) cover and any other sign of non-normal behavior. 
+8. If a dead fish is found, remove fish and place in morgue (see Sick and Dead fish SOP), record on daily checklist and alert supervisor.
+9. At the end of the experiment, euthanize fish by established and approved protocols (see approved stickleback euthanasia protocol).
+

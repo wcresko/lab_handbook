@@ -1,5 +1,7 @@
 # Cresko Lab Safety protocols
 
+![Lily Lake - photo by Mark Currey](images/lily_lake_header.jpg)
+
 __FOR YOUR OWN SAFETY AND THE SAFETY OF OTHERS, HEED THE FOLLOWING RULES!__
 
 EMERGENCY CONTACT: dial 911 first, _AND_  6-2919 (EHS) | Mark Cell 541-505-0006
@@ -55,3 +57,40 @@ Triple check that the cap is _very_ loose or (better) remove it entirely. Remelt
 
 - Wear lab coat, gloves, goggles. In case of frostbite or burn, soak affected part in tepid water, seek medical attention
 
+## Lone Worker Guidelines
+
+The UO Laboratory Safety Advisory Committee (LSAC) feels that working alone in laboratories should be discouraged but recognizes that a prohibition would hinder the research and education missions of the UO. 
+
+To advance personnel safety while also recognizing research needs, the LSAC developed this guidance document to assist lab workers in recognizing dangers and developing appropriate procedures.  
+
+The primary danger in working alone is that if an accident should occur, there will be delays in rendering aid.   
+
+### Before working alone, you should:
+
+1. Ensure that you have been trained on the procedures, reviewed the safety data sheets for all associate materials, and know the emergency procedures for your lab.
+2. Consider whether the risk outweighs the benefits of working alone. 
+3. Consider whether this work can be done at a time when others are around.
+4. Consider using a buddy system with individuals in other labs nearby.   
+
+If you decide to proceed with hazardous procedures on your own, please use a check-in or text-in system with supervisors or peers, ensuring that they know where and when this work is done and that they have contact information readily available for campus safety personnel. 
+
+### Specific Guidelines for the Cresko Lab
+
+Examples of materials and procedures in THIS laboratory that should be avoided while working alone are provided below. Should you choose to do lone work of this nature, ensure that others know where and when this work will be performed, and when it is completed.
+
+**Building & Room**:  *Pacific 310 & 324*    
+**Supervisor**: *Dr. William Cresko*
+
+**In this laboratory these chemicals or procedures will not be used or done while working alone:** 
+
+*The use of phenol chloroform and the movement of glass aquariums will not be done while working alone in Pacific 310 or 324.*   
+
+**In this laboratory, these procedures will not be conducted while working alone:**
+
+*Procedures that require the use of phenol chloroform or the movement of glass aquariums*
+
+**Other safety considerations for working alone in this laboratory:**
+
+*Emergencies – Dial 911* 
+*Lab Safety Coordinator:* 
+*Safety and Risk Services/EHS: 541-346-3192*

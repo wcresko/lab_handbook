@@ -1,5 +1,7 @@
 # Histological Protocols
 
+![Double Stain Stickleback Head - photo by Mark Currey](images/double_head.jpg)
+
 ## Alizarin Staining
 
 ### PURPOSE: Alizarin staining of fixed adult stickleback.

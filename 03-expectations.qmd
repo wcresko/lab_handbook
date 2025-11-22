@@ -1,0 +1,112 @@
+# Lab Expectations {#sec-expectations}
+
+![Green Island - photo by Mark Currey](images/green_island_header.jpg)
+
+## Scientific Ethics and Integrity {#sec-scientific-ethics}
+
+::: {.callout-important}
+## Core Principles
+
+All lab members are expected to uphold the highest standards of scientific integrity in all aspects of their work. This includes:
+
+- Honest and accurate reporting of data and results
+- Proper attribution of ideas and contributions
+- Adherence to ethical guidelines for animal research (see @sec-iacuc)
+- Transparency in methods and analysis
+- Responsible data management and record-keeping
+:::
+
+### Key Responsibilities
+
+- **Data Integrity**: Never fabricate, falsify, or manipulate data
+- **Proper Documentation**: Maintain detailed, accurate lab notebooks and records
+- **Reproducibility**: Document methods thoroughly so others can reproduce your work
+- **Conflicts of Interest**: Disclose any potential conflicts of interest
+- **Responsible Authorship**: Follow guidelines outlined in @sec-authorship
+
+::: {.callout-note}
+## Questions or Concerns?
+
+If you have questions about research ethics or encounter any ethical concerns, please discuss them immediately with Dr. Cresko or your supervisor. The university also has resources for reporting research misconduct.
+:::
+
+## Authorship of Manuscripts {#sec-authorship}
+
+::: {.callout-tip}
+## Best Practice
+
+**At the start of each project, design your plan for authorship so everyone knows the expectations.** This prevents misunderstandings and ensures fair recognition of contributions.
+:::
+
+### Authorship Criteria
+
+To qualify as an author on a manuscript, an individual must meet ALL of the following criteria:
+
+::: {#authorship-criteria}
+**1. Intellectual or Practical Contribution**
+
+Makes a significant intellectual contribution to research ideas and experimental design
+
+**OR**
+
+Makes a significant contribution to data acquisition, data generation, data analysis, data interpretation, research coordination, and/or financial support of research
+
+**AND**
+
+**2. Writing Contribution**
+
+Contributes to writing part of the manuscript, in addition to editing revisions before submission for publication
+
+**AND**
+
+**3. Ongoing Involvement**
+
+Remains involved throughout the submission and revision process until final publication
+:::
+
+::: {.callout-note}
+## Acknowledgments
+
+Research participants not meeting the authorship criteria should be listed in the Acknowledgments section of the final published manuscript. This ensures all contributors receive appropriate recognition.
+:::
+
+### Authorship Order
+
+The order of authors on a manuscript typically follows these guidelines:
+
+- **First Author**: The person who had the most significant contribution to the project and who does most of the writing
+- **Last Author**: Generally the PI of the lab (although not always in ecology/evolution)
+- **Middle Authors**: Usually listed in order of contribution
+
+::: {.callout-tip}
+## Special Cases
+
+If contributions were equivalent, then co-authors can be:
+
+- Listed alphabetically, or
+- Ordered according to their time since involvement in the project
+
+When using co-first authors or other non-standard arrangements, this should be explicitly stated in the manuscript.
+:::
+
+## Communication and Collaboration
+
+- Attend and participate in lab meetings
+- Communicate regularly with your supervisor about progress and challenges
+- Collaborate generously with other lab members
+- Share protocols and troubleshooting insights
+- Respect shared lab spaces and equipment (see @sec-lab-safety)
+
+## Work Expectations
+
+- Maintain accurate and complete lab notebooks
+- Follow all safety protocols (see @sec-lab-safety)
+- Complete required training in a timely manner
+- Plan and conduct experiments thoughtfully
+- Analyze data carefully and critically
+- Present your work at lab meetings and scientific conferences when appropriate
+
+For specific expectations related to animal care, see the relevant husbandry sections:
+
+- Stickleback: @sec-stickleback-husbandry
+- Pipefish: @sec-pipefish-husbandry

@@ -1,0 +1,26 @@
+# IACUC {#sec-iacuc}
+
+![Willamette River - photo by Mark Currey](images/willamette_header.jpg)
+
+::: {.callout-important}
+## Institutional Animal Care and Use Committee (IACUC)
+
+This section contains descriptions of animal care IACUC protocols and related documentation.
+:::
+
+::: {.callout-note}
+## Purpose
+
+The Institutional Animal Care and Use Committee (IACUC) is responsible for overseeing and evaluating all aspects of the institution's animal care and use program. This includes reviewing and approving protocols for animal research, ensuring compliance with federal regulations, and promoting the ethical treatment of animals in research.
+:::
+
+::: {.callout-tip}
+## Related Protocols
+
+For specific animal care protocols, please refer to:
+
+- @sec-stickleback-husbandry for general stickleback husbandry protocols
+- @sec-emergency-procedures for emergency procedures and contact information
+- @sec-stickleback-manipulations for experimental manipulation protocols
+- @sec-gnotobiotic-manipulations for gnotobiotic fish protocols
+:::

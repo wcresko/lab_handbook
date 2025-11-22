@@ -1,4 +1,19 @@
+# R/RStudio files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Quarto files
+/.quarto/
+/_site/
+*.html
+*.pdf
+*.epub
+
+# Keep docs folder (this is our output directory)
+!docs/
+
+# Temporary files
+*~
+.DS_Store

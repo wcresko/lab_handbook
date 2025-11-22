@@ -1,0 +1,47 @@
+# Mission and Vision {#sec-mission-vision}
+
+![Willamette River - photo by Mark Currey](images/willamette_header.jpg)
+
+## Our Mission
+
+The Cresko Laboratory is dedicated to advancing our understanding of evolutionary developmental biology through rigorous scientific inquiry, innovative methodologies, and collaborative research. We strive to:
+
+- Conduct cutting-edge research in evolutionary genomics and developmental biology
+- Train the next generation of scientists in quantitative and genomic approaches
+- Foster a collaborative, inclusive, and supportive research environment
+- Contribute to the broader scientific community through open science practices
+
+## Our Vision
+
+We envision a laboratory that:
+
+- Leads in the integration of genomic, developmental, and evolutionary approaches
+- Produces impactful research that advances fundamental biological knowledge
+- Develops and shares tools and resources that benefit the scientific community
+- Cultivates scientists who are technically skilled, intellectually curious, and ethically grounded
+
+## Core Values
+
+::: {.callout-note}
+## Our Commitment
+
+We are committed to:
+
+- **Scientific Excellence**: Maintaining the highest standards in research design, execution, and reporting
+- **Integrity**: Conducting research with honesty, accuracy, and transparency (see @sec-scientific-ethics)
+- **Collaboration**: Working together and with others to advance science
+- **Mentorship**: Supporting the growth and development of all lab members
+- **Inclusivity**: Creating a welcoming environment for people of all backgrounds
+- **Open Science**: Sharing our methods, data, and findings with the broader community
+:::
+
+## Research Philosophy
+
+Our research philosophy emphasizes:
+
+1. **Question-driven research**: We pursue fundamental questions about evolutionary and developmental processes
+2. **Methodological innovation**: We develop new tools and approaches when existing ones are insufficient
+3. **Reproducibility**: We document our methods thoroughly and share our protocols
+4. **Biological insight**: We seek to understand mechanisms, not just describe patterns
+
+For more information about expectations and how we work together, see @sec-expectations.

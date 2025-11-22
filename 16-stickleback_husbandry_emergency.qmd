@@ -1,0 +1,125 @@
+# Stickleback Husbandry - Emergency {#sec-emergency-procedures}
+
+![Willamette River - photo by Mark Currey](images/willamette_header.jpg)
+
+## Emergency Procedures {#sec-emergency-plan}
+
+::: {.callout-danger}
+## Emergency Plan and Phone List
+
+**Huestis Zebrafish Facility / Zebrafish International Resource Center (ZIRC) / Pacific Stickleback Facility Operations in Time of Crisis**
+:::
+
+### Purpose {#sec-emergency-purpose}
+
+To describe procedures necessary for continuing fish care during a time of reduced staffing caused by a crisis, pandemic or natural catastrophe.
+
+### Summary {#sec-emergency-summary}
+
+A crisis dictates that fish care is reduced to only the necessary minimum for survival and colony health. Consequently, only reduced staff who is essential for fish care will be present in the facility. This document details the minimal procedures required for maintaining fish alive and healthy.
+
+### Personnel Qualifications/Responsibilities {#sec-emergency-personnel}
+
+This SOP is intended for directors, managers, and animal technicians working in fish facilities. Persons executing procedures herein must have previous training in basic fish husbandry including feeding, tank maintenance, dead/moribund fish removal, and must have previous training in basic water system maintenance. In addition, the various fish facilities and rooms will cross-train essential caretakers to ensure further back up of staff in the other facilities.
+
+### Equipment and Supplies {#sec-emergency-equipment}
+
+Food, feeding utensils, tank replacement parts, clean nets, water system tools, e.g., pH meter, water system supplies, e.g., Aragonite.
+
+### Procedure {#sec-emergency-procedure}
+
+#### 1. Initiation of Emergency Care Program {#sec-emergency-initiation}
+
+::: {.callout-important}
+As soon as the emergency situation is announced by University officials, facility directors, managers, or responsible personnel take the following steps:
+:::
+
+- Alert and call in a meeting with the essential staff that same day
+- Distribute this SOP to essential staff for animal care
+- Ensure that no new experiments involving live fish are started from then on
+- Ensure that fish in static tanks (e.g. fin clipped or awaiting identification) are placed back on the water system and have regular life support (running water, air etc)
+- Ensure that non-essential staff is sent home until further notice
+- An emergency check-list is provided in a central location that details job distribution and tracks execution of the minimal procedures in this SOP
+
+#### 2. Feeding {#sec-emergency-feeding}
+
+- Fish of all ages, i.e., adult and larvae, are fed only once per day
+- Fish should receive only dry or flake-type food
+- No live food culture is needed, however, already existing stocks of live food can be used up (e.g. paramecia cultures)
+
+#### 3. Tank Maintenance {#sec-emergency-tank-maintenance}
+
+- Water and air supply to tanks must be maintained. Check daily
+- Tank change schedules and scrub/siphon schedules are suspended or reduced to the absolute minimum: only tanks with algae growth at the front screen need to be cleaned to allow continuing system and fish checks
+
+#### 4. Dead/Moribund Fish {#sec-emergency-dead-fish}
+
+- Remove dead and/or moribund fish as they are discovered. Continue standard care procedures and use a clean net for each tank
+- Nets can be autoclaved, if trained personnel are available or, in dire cases, a dip in bleach can be used to sanitize nets
+
+#### 5. Central Water System Maintenance {#sec-emergency-water-system}
+
+- Maintain checks of central water system chemistry and volume
+- Confirm monitoring equipment is properly calibrated
+- Confirm electronic monitoring, e.g., SCADA, systems are functioning and dial-out (calling) is enabled
+
+#### 6. Equipment Washing {#sec-emergency-equipment-washing}
+
+- Wash tanks and tank parts only as needed
+
+::: {.callout-warning}
+## IMPORTANT
+
+Essential functions of husbandry do not include experimental procedures such as fin-clipping fish, genotyping, or crossing fish. Any fish discovered in static water containers of any kind at the start of the crisis period will be returned to their permanent housing locations. No resources will be devoted to supplying experimental equipment during a crisis period.
+:::
+
+#### 7. Termination of Emergency Care Program {#sec-emergency-termination}
+
+As soon as the emergency has ended University officials will notify facility directors, managers, or responsible personnel to call everybody back to work, terminate the emergency program and reinstate standard operating procedures.
+
+## Essential Staff Contact Information {#sec-essential-staff}
+
+### Essential Staff at Huestis {#sec-huestis-staff}
+
+::: {.callout-note}
+## Huestis Facility Contacts
+
+| Name | Position | Location | Email | Office | Home | Cell | Available |
+|------|----------|----------|-------|--------|------|------|-----------|
+| Tim Mason | Manager | Huestis basement | tmason@uoregon.edu | 541-346-4598 | - | 541-510-2091 | Yes |
+| Javier Camoriano | Research Assistant | Huestis basement | jcamoria@uoregon.edu | 541-346-4512 x25 | - | - | - |
+| Andy Kimm | Lab Animal Tech II | Huestis basement | andykimm@uoneuro.uoregon.edu | 541-346-4512 x12 | 541-942-3720 | - | - |
+| Marcie McFadden | Research Assistant | Huestis basement | marcie@uoneuro.uoregon.edu | 541-346-4512 x24 | - | 541-521-2408 | Yes |
+| Rebecca Montgomery | Research Associate | Huestis basement | andrews@uoneuro.uoregon.edu | 541-346-4512 x13 | 541-342-6604 | - | - |
+| Thom Montgomery | Research Assistant | Huestis basement | montgom@uoneuro.uoregon.edu | 541-346-4512 x13 | 541-342-6604 | - | - |
+:::
+
+### Essential Staff at ZIRC {#sec-zirc-staff}
+
+::: {.callout-note}
+## ZIRC Facility Contacts
+
+| Name | Position | Location | Email | Office | Home | Cell | Available |
+|------|----------|----------|-------|--------|------|------|-----------|
+| Zoltan Varga | Dir/Research Assoc | 1307 Franklin | zoltan@zebrafish.org | 541-346-6099 | 541-689-2347 | 541-915-7336 | Yes |
+| Monte Westerfield | Dir/PI | 337 Huestis | monte@uoregon.edu | 541-346-4607 | 541-343-5637 | 541-914-3813 | Yes |
+| Katrina Murray | Veterinarian | 1307 Franklin | katy@zebrafish.org | 541-346-6028 | 541-343-2517 | 541-579-1419 | Yes |
+| April Freeman | Manager | 1307 Franklin | april@zebrafish.org | 541-346-6028 | 541-461-7922 | 541-514-8310 | Yes |
+| David Lains | Aquaculturist | 1307 Franklin | david@zebrafish.org | 541-346-6028 | 541-344-7623 | 541-228-4578 | Yes |
+| Ron Holland | IT Admin | 1307 Franklin | ron@zebrafish.org | 541-346-6028 | 541-683-6926 | - | No |
+| Anwar Adi | IT Tech | 1307 Franklin | anwar@zebrafish.org | 541-346-6028 | - | 541-513-7857 | Yes |
+| Justin Bauer | Animal Tech | 1307 Franklin | justin@zebrafish.org | 541-346-6028 | - | 541-255-5259 | Yes |
+| Calvin Smith | Animal Tech | 1307 Franklin | calvin@zebrafish.org | 541-346-6028 | - | 541-953-8786 | Yes |
+:::
+
+### Essential Staff at Pacific Stickleback Facility {#sec-stickleback-staff}
+
+::: {.callout-note}
+## Stickleback Facility Contacts
+
+| Name | Position | Location | Email | Office | Home | Cell | Available |
+|------|----------|----------|-------|--------|------|------|-----------|
+| Mark Currey | Manager | Pacific 324 | mcurrey@uoregon.edu | 541-346-5189 | 541-685-1237 | 541-505-0006 | Yes |
+| Bill Cresko | PI | Pacific 312 | wcresko@uoregon.edu | 541-346-4779 | - | 541-285-5446 | Yes |
+| Susie Bassham | Senior Research Associate | Pacific 324 | sbassham@uoregon.edu | 541-346-5189 | 541-461-9498 | 541-915-9970 | Yes |
+:::

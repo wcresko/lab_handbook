@@ -1,0 +1,166 @@
+# Stickleback Husbandry - Recipes {#sec-stickleback-recipes}
+
+![Green Island - photo by Mark Currey](images/green_island_header.jpg)
+
+This chapter contains recipes for solutions and media commonly used in stickleback husbandry. These recipes are referenced throughout the other husbandry chapters.
+
+---
+
+## Embryo Medium {#sec-embryo-medium}
+
+### Materials Needed
+
+- Instant Ocean Salt
+- Baking Soda
+- npH₂O
+
+### Embryo Medium Solution Recipe
+
+1. Add 8 g Instant Ocean to 2 liters of npH₂O
+2. Add ~0.5 g baking soda
+3. Check pH and adjust to 7.0 – 8.0
+4. This makes 2 liters
+
+::: {.callout-note}
+## Storage
+
+Salt and baking soda are located in containers near the dissecting scope. Rinse 2 liter flasks with DI water between uses.
+:::
+
+::: {.callout-tip}
+## Usage
+
+This solution is used for:
+
+- Crossing protocols (see @sec-crossing-protocol)
+- Raising embryos (see @sec-incubator-use)
+- Embryo bleaching (see @sec-embryo-bleaching)
+:::
+
+---
+
+## MESAB (MS-222, Tricaine) {#sec-mesab-recipe}
+
+::: {.callout-important}
+## Pharmaceutical Grade Required
+
+**Tricaine must be pharmaceutical-grade.** We use tricaine purchased from Pentair, manufactured by Western Chemical and FDA approved.
+
+Tricaine (3-amino benzoic acid ethyl ester also called ethyl m-aminobenzoate) comes in a powdered form. **Purchase the smallest amount possible because tricaine expires quickly.**
+:::
+
+### Materials Needed
+
+- Mesab, a.k.a. MS222, tricaine, or 3-aminobenzoic acid ethyl ester
+- 1 M Tris (pH 9)
+- DD water
+
+### MESAB Stock Solution (4g/L) - Tris Buffered {#sec-mesab-stock-recipe}
+
+**Recipe:**
+
+- 4 g tricaine powder
+- 979 ml DD water
+- ~21 ml 1 M Tris (pH 9)
+- Adjust pH to ~7
+
+**Storage:**
+
+1. Aliquot in 50 ml tubes
+2. Label with "MESAB Stock Solution 4g/L"
+3. Store in a -20°C freezer
+4. This makes 1 liter of solution
+
+### Euthanasia Solution (300 mg/L) {#sec-euthanasia-solution}
+
+1. Make a solution of tris buffered Stock Solution as described in @sec-mesab-stock-recipe (or obtain an aliquot from the freezer)
+2. Combine 7.5 ml of stock solution into 100 ml of fish water
+
+::: {.callout-note}
+For full euthanasia protocol, see @sec-euthanasia.
+:::
+
+### Anesthesia Solution (168 mg/L) {#sec-anesthesia-solution}
+
+1. Make a solution of tris buffered Stock Solution as described in @sec-mesab-stock-recipe (or obtain an aliquot from the freezer)
+2. Combine 4.2 ml of stock solution into 100 ml of fish water
+
+::: {.callout-note}
+For full anesthesia protocol, see @sec-anesthesia.
+:::
+
+---
+
+## Testes Storage Solution {#sec-testes-solution}
+
+### Materials Needed
+
+- NaCl
+- KCl
+- CaCl₂
+- NaHCO₃
+- npH₂O
+- Gentamycin (antimycotic) (Stock – 10 mg/ml)*
+- Cell Culture anti-biotic/mycotic from Gibco-BRL (15240-096) 100x Concentration*
+
+::: {.callout-note}
+## Reagent Location
+
+*Both of these reagents are located in separate boxes in Mark's space in the -20°C freezer. They are partitioned into 100 μl aliquots.
+:::
+
+### Ginzberg's Ringers Recipe
+
+**Preparation:**
+
+Mix solids into 750 ml of npH₂O:
+
+- 6.6 g NaCl
+- 0.25 g KCl
+- 0.3 g CaCl₂
+- 0.2 g NaHCO₃
+
+Bring to 1 liter total volume with npH₂O.
+
+**Storage**: Store at 4°C
+
+### Testes Solution (100 ml)
+
+1. Add 100 μl of Gentamycin and 100 μl of Anti-biotic/mycotic to 100 ml of Ginzburg's Ringers solution
+2. Store at 4°C
+
+::: {.callout-tip}
+## Usage
+
+This solution is used for testes storage as described in @sec-testes-storage.
+:::
+
+---
+
+## Additional Solution Recipes
+
+### Holtfreiter's Solution
+
+For Holtfreiter's Solution recipe used in egg storage, see @sec-holtfreiters.
+
+### Embryo Bleaching Solutions
+
+For bleaching solutions used in embryo disinfection, see @sec-embryo-bleaching.
+
+### Brine Shrimp Solutions
+
+For solutions used in artemia decapsulation and brine shrimp hatching, see:
+
+- @sec-artemia-decapsulation
+- @sec-hatching-brine-shrimp
+
+---
+
+## Related Protocols
+
+These recipes are used throughout the stickleback husbandry protocols:
+
+- Crossing protocols: @sec-stickleback-crossing
+- Health and anesthesia: @sec-stickleback-health
+- Feeding protocols: @sec-stickleback-feeding
+- General husbandry: @sec-stickleback-general

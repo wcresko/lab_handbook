@@ -1,0 +1,19 @@
+# Molecular Protocols - General {#sec-molecular-protocols}
+
+![Willamette River - photo by Mark Currey](images/willamette_header.jpg)
+
+::: {.callout-note}
+## Placeholder for Molecular Protocols
+
+This section is reserved for molecular biology protocols. Content will be added as protocols are developed and validated.
+:::
+
+::: {.callout-tip}
+## Related Sections
+
+For related experimental protocols, see:
+
+- @sec-stickleback-manipulations for general manipulation protocols
+- @sec-gnotobiotic-manipulations for gnotobiotic protocols
+- @sec-hist-protocols for histological staining protocols
+:::

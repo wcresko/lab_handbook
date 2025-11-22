@@ -1,0 +1,46 @@
+# Preface {.unnumbered}
+
+![Illustration by Dr. Allison Fuiten](images/Lab_logo.png)
+
+## The Purpose of this Manual {.unnumbered}
+
+This manual serves as a comprehensive guide for all members of the Cresko Laboratory. It contains essential information about:
+
+- Laboratory policies and expectations
+- Safety protocols and procedures
+- Animal husbandry guidelines
+- Experimental protocols
+- Resources and equipment
+
+::: {.callout-note}
+## Using This Manual
+
+This manual is a living document that is regularly updated. All lab members are expected to familiarize themselves with its contents and refer to it regularly. If you notice any information that needs updating or have suggestions for improvements, please contact the PI or lab manager.
+:::
+
+::: {.callout-important}
+## Safety First
+
+Before beginning any work in the laboratory, ensure you have read and understand all relevant safety protocols in @sec-lab-safety.
+:::
+
+## How to Navigate
+
+Use the table of contents on the left to navigate between chapters. Each section includes:
+
+- **Cross-references** to related sections
+- **Callout boxes** highlighting important information
+- **Step-by-step protocols** for procedures
+- **Contact information** for questions
+
+## Getting Help
+
+If you have questions not addressed in this manual:
+
+1. Consult with your supervisor or lab manager
+2. Contact the PI, Dr. William Cresko
+3. Refer to external resources listed in @sec-references
+
+---
+
+*Last updated: `r Sys.Date()`*

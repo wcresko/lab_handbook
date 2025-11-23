@@ -1,0 +1,1230 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cresko Laboratory Manual",
+    "section": "",
+    "text": "Preface",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#the-purpose-of-this-manual",
+    "href": "index.html#the-purpose-of-this-manual",
+    "title": "Cresko Laboratory Manual",
+    "section": "The Purpose of this Manual",
+    "text": "The Purpose of this Manual\nThis manual serves as a comprehensive guide for all members of the Cresko Laboratory. It contains essential information about:\n\nLaboratory policies and expectations\nSafety protocols and procedures\nAnimal husbandry guidelines\nExperimental protocols\nResources and equipment\n\n\n\n\n\n\n\nUsing This Manual\n\n\n\nThis manual is a living document that is regularly updated. All lab members are expected to familiarize themselves with its contents and refer to it regularly. If you notice any information that needs updating or have suggestions for improvements, please contact the PI or lab manager.\n\n\n\n\n\n\n\n\nSafety First\n\n\n\nBefore beginning any work in the laboratory, ensure you have read and understand all relevant safety protocols in 4  Cresko Lab Safety Protocols.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-navigate",
+    "href": "index.html#how-to-navigate",
+    "title": "Cresko Laboratory Manual",
+    "section": "How to Navigate",
+    "text": "How to Navigate\nUse the table of contents on the left to navigate between chapters. Each section includes:\n\nCross-references to related sections\nCallout boxes highlighting important information\nStep-by-step protocols for procedures\nContact information for questions",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#getting-help",
+    "href": "index.html#getting-help",
+    "title": "Cresko Laboratory Manual",
+    "section": "Getting Help",
+    "text": "Getting Help\nIf you have questions not addressed in this manual:\n\nConsult with your supervisor or lab manager\nContact the PI, Dr. William Cresko\nRefer to external resources listed in ?sec-references\n\n\nLast updated: r Sys.Date()",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "01-intro.html",
+    "href": "01-intro.html",
+    "title": "1  Introduction to the Lab",
+    "section": "",
+    "text": "1.1 Who We Are\nWe are a scientific community of geneticists who specializes in quantitative evolutionary genomics. Our laboratory studies the developmental genetic and genomic basis of evolution in natural populations.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to the Lab</span>"
+    ]
+  },
+  {
+    "objectID": "01-intro.html#our-model-systems",
+    "href": "01-intro.html#our-model-systems",
+    "title": "1  Introduction to the Lab",
+    "section": "1.2 Our Model Systems",
+    "text": "1.2 Our Model Systems\nWe use several animal models in our research:\n\nThreespine stickleback - Our primary model organism\nZebrafish - For comparative developmental studies\nSyngnathids (pipefish and seahorses) - For evolutionary and developmental studies\n\n\n\n\n\n\n\nStickleback as a Model\n\n\n\nWe have produced some of the first work that has helped develop stickleback into a model for dissecting the genetic basis of natural variation. See our protocols in ?sec-stickleback-husbandry for detailed husbandry information.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to the Lab</span>"
+    ]
+  },
+  {
+    "objectID": "01-intro.html#our-research-contributions",
+    "href": "01-intro.html#our-research-contributions",
+    "title": "1  Introduction to the Lab",
+    "section": "1.3 Our Research Contributions",
+    "text": "1.3 Our Research Contributions\n\n1.3.1 Genomic Tools Development\nWe have developed cutting-edge genomic tools including:\n\nRAD-seq Technology: We developed sequenced Restriction site Associated DNA (RAD) tags that help geneticists apply Next Generation Sequencing (NGS) technologies to biomedical and evolutionary genetic problems\nSNP Identification: These techniques allow for the efficient identification of thousands of single nucleotide polymorphisms (SNPs) throughout the genomes of models and non-model organisms\nWhole Genome Scans: We produced the first SNP whole genome-scan for selection in the stickleback genome\n\n\n\n1.3.2 Computational Biology\nComputational biologists and computer scientists in our team have:\n\nDeveloped novel Maximum Likelihood (ML) analytical tools for NGS data\nProduced software packages for genomic analyses that are used by laboratories around the world\nCreated tools for RNA-seq based transcriptomic functional analyses\n\n\n\n\n\n\n\nSoftware and Tools\n\n\n\nOur laboratory has developed protocols, best practices, and tools for RNA-seq based transcriptomic functional analyses. Many of these are freely available and used by researchers worldwide.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to the Lab</span>"
+    ]
+  },
+  {
+    "objectID": "01-intro.html#getting-started",
+    "href": "01-intro.html#getting-started",
+    "title": "1  Introduction to the Lab",
+    "section": "1.4 Getting Started",
+    "text": "1.4 Getting Started\nNew lab members should:\n\nRead through this entire manual, particularly Chapter 3 and Chapter 4\nComplete all required safety training (see Chapter 4)\nMeet with your supervisor to discuss your project\nFamiliarize yourself with relevant protocols for your research\n\n\nFor questions about the lab’s research or getting started, contact Dr. William Cresko.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to the Lab</span>"
+    ]
+  },
+  {
+    "objectID": "02-mission_vision.html",
+    "href": "02-mission_vision.html",
+    "title": "2  Mission and Vision",
+    "section": "",
+    "text": "2.1 Our Mission\nThe Cresko Laboratory is dedicated to advancing our understanding of evolutionary developmental biology through rigorous scientific inquiry, innovative methodologies, and collaborative research. We strive to:",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mission and Vision</span>"
+    ]
+  },
+  {
+    "objectID": "02-mission_vision.html#our-mission",
+    "href": "02-mission_vision.html#our-mission",
+    "title": "2  Mission and Vision",
+    "section": "",
+    "text": "Conduct cutting-edge research in evolutionary genomics and developmental biology\nTrain the next generation of scientists in quantitative and genomic approaches\nFoster a collaborative, inclusive, and supportive research environment\nContribute to the broader scientific community through open science practices",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mission and Vision</span>"
+    ]
+  },
+  {
+    "objectID": "02-mission_vision.html#our-vision",
+    "href": "02-mission_vision.html#our-vision",
+    "title": "2  Mission and Vision",
+    "section": "2.2 Our Vision",
+    "text": "2.2 Our Vision\nWe envision a laboratory that:\n\nLeads in the integration of genomic, developmental, and evolutionary approaches\nProduces impactful research that advances fundamental biological knowledge\nDevelops and shares tools and resources that benefit the scientific community\nCultivates scientists who are technically skilled, intellectually curious, and ethically grounded",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mission and Vision</span>"
+    ]
+  },
+  {
+    "objectID": "02-mission_vision.html#core-values",
+    "href": "02-mission_vision.html#core-values",
+    "title": "2  Mission and Vision",
+    "section": "2.3 Core Values",
+    "text": "2.3 Core Values\n\n\n\n\n\n\nOur Commitment\n\n\n\nWe are committed to:\n\nScientific Excellence: Maintaining the highest standards in research design, execution, and reporting\nIntegrity: Conducting research with honesty, accuracy, and transparency (see Section 3.1)\nCollaboration: Working together and with others to advance science\nMentorship: Supporting the growth and development of all lab members\nInclusivity: Creating a welcoming environment for people of all backgrounds\nOpen Science: Sharing our methods, data, and findings with the broader community",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mission and Vision</span>"
+    ]
+  },
+  {
+    "objectID": "02-mission_vision.html#research-philosophy",
+    "href": "02-mission_vision.html#research-philosophy",
+    "title": "2  Mission and Vision",
+    "section": "2.4 Research Philosophy",
+    "text": "2.4 Research Philosophy\nOur research philosophy emphasizes:\n\nQuestion-driven research: We pursue fundamental questions about evolutionary and developmental processes\nMethodological innovation: We develop new tools and approaches when existing ones are insufficient\nReproducibility: We document our methods thoroughly and share our protocols\nBiological insight: We seek to understand mechanisms, not just describe patterns\n\nFor more information about expectations and how we work together, see Chapter 3.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mission and Vision</span>"
+    ]
+  },
+  {
+    "objectID": "03-expectations.html",
+    "href": "03-expectations.html",
+    "title": "3  Lab Expectations",
+    "section": "",
+    "text": "3.1 Scientific Ethics and Integrity",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "03-expectations.html#sec-scientific-ethics",
+    "href": "03-expectations.html#sec-scientific-ethics",
+    "title": "3  Lab Expectations",
+    "section": "",
+    "text": "Core Principles\n\n\n\nAll lab members are expected to uphold the highest standards of scientific integrity in all aspects of their work. This includes:\n\nHonest and accurate reporting of data and results\nProper attribution of ideas and contributions\nAdherence to ethical guidelines for animal research (see Chapter 17)\nTransparency in methods and analysis\nResponsible data management and record-keeping\n\n\n\n\n3.1.1 Key Responsibilities\n\nData Integrity: Never fabricate, falsify, or manipulate data\nProper Documentation: Maintain detailed, accurate lab notebooks and records\nReproducibility: Document methods thoroughly so others can reproduce your work\nConflicts of Interest: Disclose any potential conflicts of interest\nResponsible Authorship: Follow guidelines outlined in Section 3.2\n\n\n\n\n\n\n\nQuestions or Concerns?\n\n\n\nIf you have questions about research ethics or encounter any ethical concerns, please discuss them immediately with Dr. Cresko or your supervisor. The university also has resources for reporting research misconduct.",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "03-expectations.html#sec-authorship",
+    "href": "03-expectations.html#sec-authorship",
+    "title": "3  Lab Expectations",
+    "section": "3.2 Authorship of Manuscripts",
+    "text": "3.2 Authorship of Manuscripts\n\n\n\n\n\n\nBest Practice\n\n\n\nAt the start of each project, design your plan for authorship so everyone knows the expectations. This prevents misunderstandings and ensures fair recognition of contributions.\n\n\n\n3.2.1 Authorship Criteria\nTo qualify as an author on a manuscript, an individual must meet ALL of the following criteria:\n\n1. Intellectual or Practical Contribution\nMakes a significant intellectual contribution to research ideas and experimental design\nOR\nMakes a significant contribution to data acquisition, data generation, data analysis, data interpretation, research coordination, and/or financial support of research\nAND\n2. Writing Contribution\nContributes to writing part of the manuscript, in addition to editing revisions before submission for publication\nAND\n3. Ongoing Involvement\nRemains involved throughout the submission and revision process until final publication\n\n\n\n\n\n\n\nAcknowledgments\n\n\n\nResearch participants not meeting the authorship criteria should be listed in the Acknowledgments section of the final published manuscript. This ensures all contributors receive appropriate recognition.\n\n\n\n\n3.2.2 Authorship Order\nThe order of authors on a manuscript typically follows these guidelines:\n\nFirst Author: The person who had the most significant contribution to the project and who does most of the writing\nLast Author: Generally the PI of the lab (although not always in ecology/evolution)\nMiddle Authors: Usually listed in order of contribution\n\n\n\n\n\n\n\nSpecial Cases\n\n\n\nIf contributions were equivalent, then co-authors can be:\n\nListed alphabetically, or\nOrdered according to their time since involvement in the project\n\nWhen using co-first authors or other non-standard arrangements, this should be explicitly stated in the manuscript.",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "03-expectations.html#communication-and-collaboration",
+    "href": "03-expectations.html#communication-and-collaboration",
+    "title": "3  Lab Expectations",
+    "section": "3.3 Communication and Collaboration",
+    "text": "3.3 Communication and Collaboration\n\nAttend and participate in lab meetings\nCommunicate regularly with your supervisor about progress and challenges\nCollaborate generously with other lab members\nShare protocols and troubleshooting insights\nRespect shared lab spaces and equipment (see Chapter 4)",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "03-expectations.html#work-expectations",
+    "href": "03-expectations.html#work-expectations",
+    "title": "3  Lab Expectations",
+    "section": "3.4 Work Expectations",
+    "text": "3.4 Work Expectations\n\nMaintain accurate and complete lab notebooks\nFollow all safety protocols (see Chapter 4)\nComplete required training in a timely manner\nPlan and conduct experiments thoughtfully\nAnalyze data carefully and critically\nPresent your work at lab meetings and scientific conferences when appropriate\n\nFor specific expectations related to animal care, see the relevant husbandry sections:\n\nStickleback: ?sec-stickleback-husbandry\nPipefish: Chapter 13",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "04-lab_safety.html",
+    "href": "04-lab_safety.html",
+    "title": "4  Cresko Lab Safety Protocols",
+    "section": "",
+    "text": "4.1 Safety Equipment",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cresko Lab Safety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "04-lab_safety.html#sec-safety-equipment",
+    "href": "04-lab_safety.html#sec-safety-equipment",
+    "title": "4  Cresko Lab Safety Protocols",
+    "section": "",
+    "text": "4.1.1 Safety Showers, Eyewashes, and Fire Extinguishers\n\n\n\n\n\n\nRequired Maintenance\n\n\n\n\nEyewashes must be flushed weekly\nUndergraduate research assistants are responsible for flushing the safety showers each week\nEach lab member is responsible for knowing the locations of safety showers and fire extinguishers in the lab\nSafety showers and fire extinguishers are tested annually by EHS",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cresko Lab Safety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "04-lab_safety.html#sec-ppe",
+    "href": "04-lab_safety.html#sec-ppe",
+    "title": "4  Cresko Lab Safety Protocols",
+    "section": "4.2 Personal Protective Equipment (PPE)",
+    "text": "4.2 Personal Protective Equipment (PPE)\n\n4.2.1 Lab Coats and Footwear\n\n\n\n\n\n\nRequired PPE\n\n\n\nWear a lab coat and closed-toed shoes when working with the following chemicals:\n\nOrganics (e.g., phenol/chloroform, Trizol, DNAzol, formaldehyde, formamide, methanol)\nStrong acids and bases\n\n\n\n\n\n4.2.2 Eye Protection\n\n\n\n\n\n\nEye Protection Required\n\n\n\nWear eye protection when working with:\n\nUV light (UV opaque glasses/face shield)\nPhenol/chloroform, strong acids/bases\nAny splash hazard with hazardous materials\n\n\n\n\n\n4.2.3 Glove Use\n\n\n\n\n\n\nGlove Safety\n\n\n\nWear safety gloves when working with ANY of the reagents above.\nThe “One Glove Rule”: Remove one glove when moving between rooms to avoid touching doorknobs with a contaminated glove.\nNote: Glove materials differ in their permeability to different reagents. Standard nitrile gloves are adequate for our lab’s standard procedures. However, if you are planning experiments that involve more dangerous reagents, consult with Luke Sitts at EHS to select appropriate gloves.",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cresko Lab Safety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "04-lab_safety.html#sec-chemical-disposal",
+    "href": "04-lab_safety.html#sec-chemical-disposal",
+    "title": "4  Cresko Lab Safety Protocols",
+    "section": "4.3 Chemical Handling and Disposal",
+    "text": "4.3 Chemical Handling and Disposal\n\n\n\n\n\n\nEHS Disposal Contact\n\n\n\nFor questions about disposal: 6-3192\n\n\n\n4.3.1 Disposal Guidelines\n\n\n\nTable 4.1: Common Hazardous Reagent Disposal\n\n\n\n\n\n\n\n\n\nMaterial\nDisposal Method\n\n\n\n\nE. coli plates and recombinant materials\nAutoclave buckets or EHS biohazard incineration boxes\n\n\nE. coli flasks/liquids\nBleach, rinse, drain\n\n\nUsed alcohols, formaldehyde, and kit waste\nWaste containers under the thermocyclers\n\n\nOrganic solvents\nWaste bottles in hood\n\n\n\n\n\n\n\n\n4.3.2 Storage of Hazardous Liquids\n\n\n\n\n\n\nStorage Requirements\n\n\n\nStore flammables and strong acids in a latched METAL SAFETY CABINET UNDER THE HOOD.",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cresko Lab Safety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "04-lab_safety.html#sec-equipment-safety",
+    "href": "04-lab_safety.html#sec-equipment-safety",
+    "title": "4  Cresko Lab Safety Protocols",
+    "section": "4.4 Equipment Safety",
+    "text": "4.4 Equipment Safety\n\n4.4.1 Microwave Oven Use\n\n\n\n\n\n\nHeating Liquids in the Microwave\n\n\n\n\nTriple check that the cap is very loose or (better) remove it entirely\nRemelting of gels with DNA binding dyes is FORBIDDEN\n\n\n\n\n\n4.4.2 Bunsen Burner Safety\n\n\n\n\n\n\nBunsen Burner Rules\n\n\n\n\nTriple check that the gas is shut completely off before you leave the bench/hood\nKeep burners far away from any flammable liquids\n\n\n\n\n\n4.4.3 Liquid Nitrogen and Dry Ice",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cresko Lab Safety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "04-lab_safety.html#cryogen-safety",
+    "href": "04-lab_safety.html#cryogen-safety",
+    "title": "4  Cresko Lab Safety Protocols",
+    "section": "4.5 Cryogen Safety",
+    "text": "4.5 Cryogen Safety\nUse only in well-ventilated spaces to avoid asphyxiation\nSafety Requirements:\n\nNever store in sealed containers to avoid explosions\nWear lab coat, gloves, and goggles\nIn case of frostbite or burn, soak affected part in tepid water and seek medical attention",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cresko Lab Safety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "04-lab_safety.html#sec-lone-worker",
+    "href": "04-lab_safety.html#sec-lone-worker",
+    "title": "4  Cresko Lab Safety Protocols",
+    "section": "4.6 Lone Worker Guidelines",
+    "text": "4.6 Lone Worker Guidelines\nThe UO Laboratory Safety Advisory Committee (LSAC) recognizes that working alone in laboratories should be discouraged but acknowledges that a prohibition would hinder research and education missions.\n\n\n\n\n\n\nPrimary Danger\n\n\n\nThe primary danger in working alone is that if an accident should occur, there will be delays in rendering aid.\n\n\n\n4.6.1 Before Working Alone, You Should:\n\nEnsure that you have been trained on the procedures, reviewed the safety data sheets for all associated materials, and know the emergency procedures for your lab\nConsider whether the risk outweighs the benefits of working alone\nConsider whether this work can be done at a time when others are around\nConsider using a buddy system with individuals in other labs nearby\n\n\n\n\n\n\n\nCheck-In System\n\n\n\nIf you decide to proceed with hazardous procedures on your own, please use a check-in or text-in system with supervisors or peers, ensuring that they know where and when this work is done and that they have contact information readily available for campus safety personnel.\n\n\n\n\n4.6.2 Specific Guidelines for the Cresko Lab\n\n\n\n\n\n\nProhibited Lone Work Activities\n\n\n\nBuilding & Room: Pacific 310 & 324 Supervisor: Dr. William Cresko\nThe following will NOT be done while working alone:\n\nThe use of phenol chloroform\nThe movement of glass aquariums\n\n\n\n\n\n4.6.3 Emergency Contacts\n\n\n\n\n\n\nIn Case of Emergency\n\n\n\n\nEmergencies: Dial 911\nLab Safety Coordinator: Contact through department\nSafety and Risk Services/EHS: 541-346-3192",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cresko Lab Safety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "04-lab_safety.html#additional-safety-resources",
+    "href": "04-lab_safety.html#additional-safety-resources",
+    "title": "4  Cresko Lab Safety Protocols",
+    "section": "4.7 Additional Safety Resources",
+    "text": "4.7 Additional Safety Resources\n\nAlways review Safety Data Sheets (SDS) before working with new chemicals\nComplete all required safety training before beginning lab work\nReport any accidents, injuries, or near-misses immediately\nIf unsure about a procedure, ask before proceeding\n\nFor animal-specific safety protocols, see:\n\nStickleback handling: Chapter 5\nField work safety: Chapter 14",
+    "crumbs": [
+      "Lab Policies and Safety",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cresko Lab Safety Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "09-stickleback_husbandry_health.html",
+    "href": "09-stickleback_husbandry_health.html",
+    "title": "5  Stickleback Husbandry - Health",
+    "section": "",
+    "text": "5.1 Health Check - Sick and Dead Fish\nThis chapter covers health monitoring and medical procedures for stickleback. For general husbandry information, see Chapter 6.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Stickleback Husbandry - Health</span>"
+    ]
+  },
+  {
+    "objectID": "09-stickleback_husbandry_health.html#sec-health-check",
+    "href": "09-stickleback_husbandry_health.html#sec-health-check",
+    "title": "5  Stickleback Husbandry - Health",
+    "section": "",
+    "text": "Note\n\n\n\nCreated 4/14/08 by M Currey, updated 151201 by mcc\n\n\n\n\n\n\n\n\nDaily Requirement\n\n\n\nCheck for sick and dead fish daily by looking through all tanks. This is best done when feeding. When done, complete the checklist and email Mark. Symptoms of sick and distressed fish are posted in the fish room.\n\n\n\n5.1.1 Materials Needed\n\nFish Morgue consisting of a small bucket with lid and a sealable plastic bag\nMesab, a.k.a. MS222, tricaine or 3-aminobenzoic acid ethyl ester\nSmall container\nNet\n\n\n\n5.1.2 Procedure for Dead Fish\n\nMake note of the number of fish, tank space, and what stock the fish was from on the daily check list\nWith a clean net, remove fish and place into fish morgue (The fish morgue can be found in the chest freezer. It is a small bucket labeled “Fish Morgue” on the lid)\n\n\n\n5.1.3 Procedure for Sick Fish\n\nMake note on tank and contact supervisor\n\n\n\n\n\n\n\nReporting Requirements\n\n\n\nPlease email Mark with a list of all sick and dead fish along with tank position at the end of each shift: mcurrey@uoregon.edu\nIf there are numerous sick or dead fish, contact immediately:\n\nMark Currey: 541-505-0006\nBill Cresko: 541-285-5446",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Stickleback Husbandry - Health</span>"
+    ]
+  },
+  {
+    "objectID": "09-stickleback_husbandry_health.html#sec-anesthesia-euthanasia",
+    "href": "09-stickleback_husbandry_health.html#sec-anesthesia-euthanasia",
+    "title": "5  Stickleback Husbandry - Health",
+    "section": "5.2 Adult Fish Anesthesia, Euthanasia, and Fixation",
+    "text": "5.2 Adult Fish Anesthesia, Euthanasia, and Fixation\n\n\n\n\n\n\nNote\n\n\n\nCreated 4/14/08 by M Currey, updated 151201 by mcc\n\n\n\n\n\n\n\n\nTricaine Requirements\n\n\n\nTricaine must be pharmaceutical-grade. We use tricaine purchased from Aquatic Ecosystems, manufactured by Western Chemical and FDA approved.\nThese procedures are to be done on fish larger than 5mm in length.\n\n\n\n5.2.1 Materials Needed\n\nFish Morgue consisting of a small bucket with lid and a sealable plastic bag\nMesab, a.k.a. MS222, tricaine or 3-aminobenzoic acid ethyl ester\nSmall container\nNet\n\n\n\n5.2.2 Mesab Stock Solution (4g/L)\nFrom Zebrafish Book 4th edition:\nTricaine (3-amino benzoic acid ethyl ester also called ethyl m-aminobenzoate) comes in a powdered form from Sigma (Cat.# A-5040). It is also available as Finquel (Part No. C-FINQ-UE) from Argent Chemical Laboratories, Inc.\n\n\n\n\n\n\nPreparation\n\n\n\nMake tricaine solution for anesthetizing fish by combining the following in a glass bottle with a screw cap:\nStock Solution (4g/L):\n\n400 mg tricaine powder\n97.9 ml DD water\n~2.1 ml 1 M Tris (pH 9)\n\nAdjust pH to ~7. Store this solution in the freezer.\nBuy the smallest amount possible because tricaine degrades over time.\n\n\n\n\n5.2.3 Euthanasia Protocol (300 mg/L)\nProcedure:\n\nMake a solution of tris buffered Stock solution MS-222 solution as described in Section 5.2.2 (or obtain solution from freezer)\nCombine 7.5 ml of stock solution into 100 ml of fish water\nPlace fish into fish water/mesab solution for at least 10 minutes after cessation of opercular movement (~12 minutes total)\nIf fish is to be used for experiments, proceed with fixation or preparation of the experiment\nIf the fish are to be disposed of, place fish into fish morgue located in chest freezer in entry room\n\n\n\n5.2.4 Anesthesia Protocol (168 mg/L)\nProcedure:\n\nMake a solution of tris buffered Stock solution MS-222 solution as described in Section 5.2.2 (or obtain solution from freezer)\nCombine 4.2 ml of stock solution into 100 ml of fish water\nPlace fish into 168 mg/L MS-222 solution and wait for the fish to slow down\nImage or do other experiments quickly to minimize fish exposure to MS-222. Pay attention to opercular movement to be sure that fish is alive\nRevive by placing in fish water and moving fish gently through the water to pass water over gills\n\n\n\n5.2.5 Liquid N₂ Freezing and Fixation in RNAlater\nProcedure:\n\nAnesthetize using concentration from Section 5.2.4 and allow fish to lay motionless with only slight opercle movement. This should take approximately 10 minutes\nPlace fish in liquid N₂ for 2 minutes. This instantaneously freezes the fish\nThaw into RNAlater-ICE\n\n\n\n\n\n\n\nSafety\n\n\n\nWhen using liquid nitrogen, follow all safety protocols outlined in Section 4.4.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Stickleback Husbandry - Health</span>"
+    ]
+  },
+  {
+    "objectID": "09-stickleback_husbandry_health.html#sec-embryo-euthanasia",
+    "href": "09-stickleback_husbandry_health.html#sec-embryo-euthanasia",
+    "title": "5  Stickleback Husbandry - Health",
+    "section": "5.3 Embryo and Larval Euthanasia and Fixation",
+    "text": "5.3 Embryo and Larval Euthanasia and Fixation\n\n\n\n\n\n\nNote\n\n\n\nCreated 4/6/10 by M Currey\n\n\nThese procedures are to be done with larval fish and fish up to 5mm in length.\n\n5.3.1 For Euthanasia\nMaterials:\n\nFish Morgue\nIce bath with basket (see below)\n\nProcedure:\n\nPlace ice in insulated box (e.g., cooler or Styrofoam container)\nAdd water to make ice slurry\nAdd mesh basket so that ice water is allowed to enter but ice does not\nPlace embryos in ice water\nLet embryos sit for 5 hour minimum\nDispose of dead embryos in fish morgue\n\n\n\n5.3.2 For RNA Extraction\nMaterials:\n\nRNAlater (Ambion cat # AM7021) or –80°C freezer\n1.5 ml tubes\nLiquid nitrogen\n\nProcedure - RNAlater:\n\nAdd RNAlater per manufacturer’s recommendations\nPlace embryos in solution. This rapidly fixes embryos\n\nProcedure - Storage in -80°C Freezer:\n\nPlace embryos in 1.5 ml tube\nPut tube in liquid nitrogen for 2 minutes\nPlace tube in –80°C for RNA extraction\n\n\n\n5.3.3 For In Situ Hybridization\nMaterials:\n\n4% buffered PFA\n1.5 ml tubes\n10 ml 10X PBS\n90 ml sterile H₂O\n\n\n\n\n\n\n\nMaking 4% PFA (100 ml)\n\n\n\n\nPreheat to 60°C while stirring on heat plate\nAdd 4 g PFA\nHeat and stir just until solution clears. Do not let heat go above 60°C! pH should be about 7.4\nStore 10 ml aliquots at -20°C in 1.5 ml tubes\n\n\n\nProcedure for Fixing:\n\nPlace embryos in 1.5 ml tube\nAdd 1 ml 4% PFA\nStore in –20°C freezer\n\n\n\n\n\n\n\nTip\n\n\n\nThis rapidly fixes embryos for in situ hybridization.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Stickleback Husbandry - Health</span>"
+    ]
+  },
+  {
+    "objectID": "09-stickleback_husbandry_health.html#related-protocols",
+    "href": "09-stickleback_husbandry_health.html#related-protocols",
+    "title": "5  Stickleback Husbandry - Health",
+    "section": "5.4 Related Protocols",
+    "text": "5.4 Related Protocols\n\nFor crossing protocols, see Chapter 7\nFor general husbandry, see Chapter 6\nFor feeding protocols, see Chapter 8\nFor safety information, see Chapter 4",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Stickleback Husbandry - Health</span>"
+    ]
+  },
+  {
+    "objectID": "10-stickleback_husbandry_general.html",
+    "href": "10-stickleback_husbandry_general.html",
+    "title": "6  Stickleback Husbandry - General",
+    "section": "",
+    "text": "6.1 Fish Density Standards\nThis chapter covers general husbandry practices for threespine stickleback. For health-related protocols, see Chapter 5, and for crossing protocols, see Chapter 7.\nThese standards for fish densities are what we in the Cresko lab have determined optimal after 12 years of keeping threespine stickleback in a recirculating aquaculture system.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Stickleback Husbandry - General</span>"
+    ]
+  },
+  {
+    "objectID": "10-stickleback_husbandry_general.html#sec-density-standards",
+    "href": "10-stickleback_husbandry_general.html#sec-density-standards",
+    "title": "6  Stickleback Husbandry - General",
+    "section": "",
+    "text": "Note\n\n\n\nCreated by M Currey, August 25, 2011, updated by mcc 151125\n\n\n\n\n6.1.1 Fry (9 dpf - 2 months)\n\n\n\n\n\n\nDensity Guidelines\n\n\n\n\nFry are kept in 2.8 L tanks at an ideal density of 20 fish per container\nFry can be kept in densities of up to 40 fish per tank\nIf fish densities are near 40 per tank, fish are transferred or thinned after 1 month of age\n\n\n\n\n\n6.1.2 Juvenile (2 months - 4 months) Grow Out\n\nJuvenile fish are transferred from fry tanks into 9.5 L tanks and kept at a density of 20 fish per container\n\n\n\n6.1.3 Grow Out, Adult, and Breeding Conditioning\nGrow Out (4 months – 1 year):\n\nJuvenile fish are transferred to 20 gallon tanks in the Winter room at an ideal density of 20 fish per container\nFish can be kept at a density of 40 fish per tank if space is needed\n\nAdult (1 year - 1.5 years):\n\nMaintained in 20 gallon tanks\nIdeal density of 20 fish per container\n\nBreeding Conditioning:\n\n\n\n\n\n\nBreeding Preparation\n\n\n\n\nOnce fish are 1 year of age (or older), transfer adult fish to the Summer room\nMales become sexually mature 2-6 weeks after experiencing Summer conditions\nFemales become sexually mature 4-6 weeks after experiencing Summer conditions\nConditioned fish can stay in the Summer room for up to 5 months",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Stickleback Husbandry - General</span>"
+    ]
+  },
+  {
+    "objectID": "10-stickleback_husbandry_general.html#sec-juvenile-collection",
+    "href": "10-stickleback_husbandry_general.html#sec-juvenile-collection",
+    "title": "6  Stickleback Husbandry - General",
+    "section": "6.2 Juvenile Collection (Daily)",
+    "text": "6.2 Juvenile Collection (Daily)\n\n\n\n\n\n\nProcedure\n\n\n\n\nTurn off water to tanks\nRemove collection cup, using mysid system water, rinse juveniles into plastic container\nPour juveniles into grow out tank\nReplace collection cup\nTurn water on and start siphon",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Stickleback Husbandry - General</span>"
+    ]
+  },
+  {
+    "objectID": "10-stickleback_husbandry_general.html#sec-mysid-collection",
+    "href": "10-stickleback_husbandry_general.html#sec-mysid-collection",
+    "title": "6  Stickleback Husbandry - General",
+    "section": "6.3 Adult Mysid Collection and Feeding",
+    "text": "6.3 Adult Mysid Collection and Feeding\nMysids are used as live food for stickleback and pipefish. For more information on live food culture, see Chapter 8.\n\n\n\n\n\n\nMysid Lifecycle\n\n\n\n\nJuveniles will reach adult size in three weeks\nAt three weeks these new adults will replace old breeding adults\nThe old breeding adults that are being replaced are fed to the pipefish\n\n\n\n\n6.3.1 Procedure\n\nLet juveniles grow to three weeks at which point they reach adult stage\nSiphon adults through a net and collect in a container\nSiphon old adults out of one of the 10 gallon tanks and feed to fish\nClean tank, fill with water, and add new adult mysids",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Stickleback Husbandry - General</span>"
+    ]
+  },
+  {
+    "objectID": "10-stickleback_husbandry_general.html#related-protocols",
+    "href": "10-stickleback_husbandry_general.html#related-protocols",
+    "title": "6  Stickleback Husbandry - General",
+    "section": "6.4 Related Protocols",
+    "text": "6.4 Related Protocols\nFor comprehensive stickleback husbandry information, see:\n\nHealth monitoring: Chapter 5\nCrossing protocols: Chapter 7\nFeeding protocols: Chapter 8\nCleaning protocols: Chapter 9\nSystem maintenance: Chapter 11\nEmergency procedures: ?sec-stickleback-emergency\nSolution recipes: Chapter 10",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Stickleback Husbandry - General</span>"
+    ]
+  },
+  {
+    "objectID": "11-stickleback_crossing.html",
+    "href": "11-stickleback_crossing.html",
+    "title": "7  Stickleback Husbandry - Crossing",
+    "section": "",
+    "text": "7.1 Embryo Bleaching for Disinfection\nThis chapter covers protocols for crossing stickleback, storing gametes, and raising embryos. For density standards referenced in these protocols, see Section 6.1.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Stickleback Husbandry - Crossing</span>"
+    ]
+  },
+  {
+    "objectID": "11-stickleback_crossing.html#sec-embryo-bleaching",
+    "href": "11-stickleback_crossing.html#sec-embryo-bleaching",
+    "title": "7  Stickleback Husbandry - Crossing",
+    "section": "",
+    "text": "Note\n\n\n\nCreated by M Currey, August 25, 2011, updated 151201 by mcc\n\n\n\n7.1.1 Purpose\nThis protocol allows the removal of ecto-parasites from embryos produced from wild-caught stickleback.\n\n\n\n\n\n\nWhen to Use\n\n\n\nUse this protocol whenever:\n\nNew fish are added to a pre-existing stickleback rearing system\nStocks are transferred between labs\n\n\n\n\n\n7.1.2 Materials Needed\n\nWash bottle and petri dishes\nTimer\n\n\n\n7.1.3 Solutions\n\n6% sodium hypochlorite (standard bleach)\nWorking stock of bleach – 500 µl of bleach into 1 liter of embryo medium (see Chapter 10)\n\n\n\n7.1.4 Procedure\n\nRaise embryos according to standard crossing and rearing protocols (see Section 7.4)\nAt 48-60 hours post-fertilization (@ 20°C – at this point most organogenesis is complete) remove embryo medium from petri dishes and rinse embryos once with fresh embryo medium\nFill petri dish with working stock solution of bleach. Swirl and let sit for 1.5 min\n\n\n\n\n\n\n\nTiming Critical\n\n\n\nDo not bleach embryos for longer than 1.5 minutes as chorions can thicken and it becomes difficult for embryos to hatch.\n\n\n\nDrain bleach solution from embryos, and wash them three times with fresh embryo medium. This is really important.\nReplace embryo medium daily\n\n\n\n7.1.5 Shipping Embryos\nIf crosses are done in the field, embryos can be shipped from day 3 to day 6 post-fertilization.\n\n\n\n\n\n\nShipping Protocol\n\n\n\n\nRinse once with embryo medium\nPlace embryos into a 50 ml conical tube (~100 embryos/tube) and fill with fresh embryo medium\nPlace tubes in a shipping container with wet ice\nSeparate the tubes from the ice with bubble-wrap and newspapers\nShip the embryos overnight\n\n\n\nUpon Arrival:\n\nRinse the outside of the containers well before moving into the lab\nAllow them to equilibrate to room temp (~20°C)\nPlace the embryos into petri dishes, rinse once, and add new embryo medium\nRear according to standard protocol",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Stickleback Husbandry - Crossing</span>"
+    ]
+  },
+  {
+    "objectID": "11-stickleback_crossing.html#sec-testes-storage",
+    "href": "11-stickleback_crossing.html#sec-testes-storage",
+    "title": "7  Stickleback Husbandry - Crossing",
+    "section": "7.2 Testes Storage",
+    "text": "7.2 Testes Storage\n\n\n\n\n\n\nNote\n\n\n\nCreated by M Currey, August 25, 2011, updated 151201 by mcc\n\n\n\n7.2.1 Purpose\nStorage of stickleback testes for fertilization up to 1-2 months post extraction.\n\n\n7.2.2 Materials Needed\n\nTestes solution (see Chapter 10)\n15 ml falcon tube\n4°C refrigerator\n\n\n\n7.2.3 Procedure\n\nDissect testes (see Section 7.4)\nPlace testes in 15 ml tube with ~ 10 ml of testes solution\nLabel tube with stock number and date of testes dissection and place tube with testes in 4°C refrigerator\nChange testes solution once per week\n\n\n\n\n\n\n\nNote\n\n\n\nTestes can be used up to ~ 1 month when stored this way.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Stickleback Husbandry - Crossing</span>"
+    ]
+  },
+  {
+    "objectID": "11-stickleback_crossing.html#sec-egg-storage",
+    "href": "11-stickleback_crossing.html#sec-egg-storage",
+    "title": "7  Stickleback Husbandry - Crossing",
+    "section": "7.3 Egg Storage",
+    "text": "7.3 Egg Storage\n\n\n\n\n\n\nNote\n\n\n\nCreated by M Currey, August 25, 2011, updated 151201 by mcc\n\n\n\n7.3.1 Purpose\nStorage of eggs for fertilization up to 24 hours post stripping.\n\n\n7.3.2 Materials Needed\n\nNaCl\nKCl\nCaCl₂\nNaHCO₃\nTris, pH 7.2\nnpH₂O\nStreptomycin & Penicillin Solution (PenStrep) from Sigma (P-0906) Stock – 100%\n50 ml sterile polypropylene conical tubes\n90 mm petri dish\n\n\n\n7.3.3 Holtfreiter’s Solution Recipe\n\n\n\n\n\n\nPreparation\n\n\n\nMake stock of Holtfreiter’s Solution, store at 4°C\nMix solids into 750 ml of npH₂O:\n\n3.5 gm NaCl\n0.05 gm KCl\n0.1 gm CaCl₂\n0.02 gm NaHCO₃\n1.0 ml Tris\n\nBring to 1 liter with npH₂O\nAdd PenStrep to a final concentration of 1% (10 ml into 1 liter), store at 4°C.\n\n\n\n\n7.3.4 Procedure\n\nStrip eggs from ripe female into a conical tube with 25 ml cold Holtfreiter’s\nEggs can be transported on ice and fertilized up to 24 hours later (maybe longer)\nTo fertilize, move eggs to 90 mm petri dish and allow temperature to equilibrate to 20°C\nRemove Holtfreiter’s solution, and rinse eggs once with embryo medium\n\n\n\n\n\n\n\nImportant\n\n\n\nIt is important to make sure that salt concentration is low enough for sperm to be optimally activated.\n\n\n\nAdd macerated testis as in Section 7.4 and cover eggs with embryo medium",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Stickleback Husbandry - Crossing</span>"
+    ]
+  },
+  {
+    "objectID": "11-stickleback_crossing.html#sec-crossing-protocol",
+    "href": "11-stickleback_crossing.html#sec-crossing-protocol",
+    "title": "7  Stickleback Husbandry - Crossing",
+    "section": "7.4 Stickleback Crossing Protocol",
+    "text": "7.4 Stickleback Crossing Protocol\n\n\n\n\n\n\nNote\n\n\n\nCreated 4/1/08 by M. Currey\n\n\n\n7.4.1 Materials Needed\n\n25, 45 and 90 mm disposable sterile petri dishes (standard)\nSterile Ginzburg’s Fish Ringers solution containing antibiotic and antimycotics for testes (see Chapter 10)\nMS222 Tricaine Methanesulfonate (see Section 5.2.2)\n100% ethanol\nFine scissors and forceps\nWide-blade entomology forceps\nSterile Embryo medium (6 ml of Instant Ocean into 1L npH₂O)\nSqueeze wash bottles\nStress coat (standard from pet store)\nSterile flat razor blades\nSterile disposable large bore transfer pipettes (VWR cat# 691)\nDissecting microscope\n\n\n\n7.4.2 Procedure\n1. Squeeze Female\nCover fingers with stress coat and gently squeeze gravid female. Gravid females have extended abdomens and their eggs have “dropped”.\n\n\n\n\n\n\nTip\n\n\n\nIf eggs do not emerge with very slight pressure the female is not quite ready.\n\n\nSqueeze eggs with motion from pectoral girdle posterior to the cloaca into a 25 mm sterile petri dish. The small size of petri dish allows the sperm to be concentrated on the eggs.\n2. Dissect Testes From Male\n\n\n\n\n\n\nWarning\n\n\n\nFollow all safety protocols from Chapter 4 when handling sharp instruments and chemicals.\n\n\n\nEuthanize male by placing him into a finger bowl of embryo medium containing a lethal volume of MS-222\nClean a large glass sheet (30 cm × 60 cm or similar size), fine scissors, and forceps with 100% ethanol\nWhen male is motionless, remove and rinse fish with clean water and sever spinal cord behind skull using a razor to ensure euthanization\nUse scissors to make incision just posterior to the cloaca and cut from there anteriorly to the pelvic girdle making an incision along the mid line of the fish\nMake another cut to each side of the fish from the cloaca dorsally approximately 15 mm so that the body cavity is easily accessed\n\n\n\n\n\n\n\nCareful Dissection\n\n\n\nIncisions should be made just deep enough to cut the skin and body wall muscle while being wary to not cut into the stomach and intestines that are located just below the skin surface.\n\n\n\nLocate paired testes and vas deferens (testes are variable in shape and coloration, but are usually long and pigmented, usually having the same pigmentation as the skin surface, and sit in the dorsal part of the coelom near the kidneys. The vas deferens are threadlike and are usually as long as the testis to which it connects)\nUse fine forceps to grab vas deferens, sever near the cloaca, and remove one (or often) both testes\n\n\n\n\n\n\n\nNote\n\n\n\nDoing so keeps the testes intact, allowing them to contain viable sperm for up to 1 month at 4°C in Testes Solution.\n\n\n3. Storing of Testes\nIf only a single cross is to be made with a male, proceed to step 4. Otherwise, place testes into 45 mm petri dish filled with cold Testes Solution. Store testes at 4°C. To store testes for extended periods, change out medium once a week. See Section 7.2 for details.\n4. Prepare Testis\nIf multiple crosses are to be performed from a single pair of male’s testes, remove one testis and place on the inside lid of the 25 mm petri dish into which a female’s eggs have been squeezed.\n\n\n\n\n\n\nTestis Usage\n\n\n\nUsing a sterile razor, slice off a small piece of testis. We’ve found a large testis can be used to fertilize approximately 5 clutches.\nMake cuts as perpendicular as possible to the major axis of the testis and perform multiple cuts from the same end. This allows as much of the sperm to remain packaged and inactivated at the center of the testis.\n\n\n\nUse blade to macerate testis\nUnder a dissecting scope swimming sperm should cause a ‘sparkling’ refraction\nAdd approximately 1.0 ml of sterile embryo medium to testis prep with disposable pipette, mix, and then add to the eggs one drop at a time\nUse same disposable pipette, dispersing drops between petri dishes so that all eggs are covered with sperm mixture\n\n5. Fertilization (time = 0)\nFertilization of most eggs will occur almost instantaneously. However, leave the sperm on the eggs for about 5-10 minutes.\n\nAt this point cover embryos with embryo medium\nMark fertilization time (this is the time that the initial drops of sperm were added) on the surface of the petri dish\nPlace in incubator at 20°C\n\n6. Separation of Embryos and Second Cleaning (t = 2 hr)\nThe animal pole of the embryo is established at the site of sperm entry, and at 20°C the first cell syncitium is usually visible within 45 minutes. The first cell division usually occurs approximately 25 minutes later, and the two cell stage is fully visible approximately 1.5 hr after fertilization.\n\n\n\n\n\n\nChorion Development\n\n\n\nDuring this time, the chorion thickens and attaches to the petri dish as well as to other embryos.\n\n\nAt or after 2 hours post fertilization:\n\nUse the wide blade entomological forceps to detach the embryos from one another, as well as to dislodge embryos from the bottom of the petri dish\nRemove all of the unfertilized eggs to limit mold contamination, and record the total number of eggs and embryos\nRinse embryos 3 to 4 more times then distribute embryos to 90 mm petri dishes (30-50 embryos per dish) filled half way with fresh embryo medium\nEnter cross information into database, print labels for dishes, and place embryos into incubator at 20°C\n\n7. Raise Embryos (check daily)\n\n\n\n\n\n\nDevelopmental Timeline\n\n\n\nEmbryos will develop at approximately 2.5 times zebrafish time (see http://zfin.org/zf_info/zfbook/stages/index.html), and hatch at approximately 7 days.\nKey developmental milestones:\n\n48 hr: Most major morphogenetic processes complete, melanic pigment cells just starting to migrate\n~72 hr: Beating heart can be seen\n7-8 days: Hatching occurs\n\n\n\nDaily care:\n\nCheck petri dishes daily and remove embryos that have arrested development\nA change of embryo medium may help at some point during the first 7 days as water quality may decline",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Stickleback Husbandry - Crossing</span>"
+    ]
+  },
+  {
+    "objectID": "11-stickleback_crossing.html#sec-incubator-use",
+    "href": "11-stickleback_crossing.html#sec-incubator-use",
+    "title": "7  Stickleback Husbandry - Crossing",
+    "section": "7.5 Incubator Use and Care of Stickleback Fry",
+    "text": "7.5 Incubator Use and Care of Stickleback Fry\n\n\n\n\n\n\nNote\n\n\n\nCreated 4/1/08 by M. Currey\n\n\n\n7.5.1 Purpose\nResearchers are responsible for monitoring and caring for their research animals while in the incubator. This includes water changes, removing “deads”, fixing, euthanizing and any other procedures regarding the fish.\n\n\n\n\n\n\nBefore Using Incubator\n\n\n\n\nIf the fish are to be raised past hatching, please contact Mark prior to hatching to make arrangements for putting fish into system\nPlease see Mark prior to initial use of incubator for brief training\n\n\n\n\n\n7.5.2 Materials Needed\n\nPetri Dishes\nEmbryo Medium (found above incubator)\nIncubator\nFry food\nChecklist\n\n\n\n7.5.3 Procedure\nRaise Embryos (check daily):\nAs described in Section 7.4, embryos develop at approximately 2.5 times zebrafish time and hatch at approximately 7 days. 48hr stickleback embryos have completed most major morphogenetic processes, and the melanic pigment cells are just starting to migrate. A beating heart can be seen after ~72hr.\n\nCheck petri dishes daily and remove deads and those with arrested development\nA change of embryo medium may help at some point during the first 7 days as water quality may decline\n\nHatching, Begin Feeding Brine Shrimp, and Move to System (t = 7-8 days post fertilization):\n\n\n\n\n\n\nPost-Hatching Protocol\n\n\n\n\nAfter hatching at 7-8 days post fertilization, remove chorions and allow young to absorb yolk (2-3 days)\nAt approximately day 2 post hatching take petri dish containing fry out of incubator and place dishes on a table\nTo each petri dish add approximately the same volume of system water as there is embryo medium; this will double the volume of liquid in the dish. This acclimates the fry to the system water\nAllow the fry to acclimate for 6-10 hours, the longer the better\nThen transfer fry to small aquaria on the system\nFeed newly hatched brine shrimp once daily and fry food once daily according to directions posted in the fish room\n\n\n\nDocumentation:\n\nInitial checklist and add what type of check was done to checklist",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Stickleback Husbandry - Crossing</span>"
+    ]
+  },
+  {
+    "objectID": "11-stickleback_crossing.html#related-protocols",
+    "href": "11-stickleback_crossing.html#related-protocols",
+    "title": "7  Stickleback Husbandry - Crossing",
+    "section": "7.6 Related Protocols",
+    "text": "7.6 Related Protocols\nFor comprehensive stickleback husbandry information, see:\n\nDensity standards: Section 6.1\nSolution recipes: Chapter 10\nHealth monitoring: Chapter 5\nFeeding protocols: Chapter 8\nGeneral husbandry: Chapter 6",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Stickleback Husbandry - Crossing</span>"
+    ]
+  },
+  {
+    "objectID": "12-stickleback_husbandry_feeding.html",
+    "href": "12-stickleback_husbandry_feeding.html",
+    "title": "8  Stickleback Husbandry - Feeding",
+    "section": "",
+    "text": "8.1 Stickleback Feeding Protocol\nThis chapter covers feeding protocols for stickleback at all life stages, from fry to adults. For related information, see Chapter 6 and Chapter 10.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Stickleback Husbandry - Feeding</span>"
+    ]
+  },
+  {
+    "objectID": "12-stickleback_husbandry_feeding.html#sec-feeding-protocol",
+    "href": "12-stickleback_husbandry_feeding.html#sec-feeding-protocol",
+    "title": "8  Stickleback Husbandry - Feeding",
+    "section": "",
+    "text": "Note\n\n\n\nCreated May 6, 2008 by M Currey, revised October 21, 2014 by mcc\n\n\n\n8.1.1 Materials\n\nFish food mix or dry fry food\nDecapsulated Artemia (see Section 8.5)\nColor coded feeding spoon\n\n\n\n8.1.2 Fish Foods by Life Stage\nFry:\n\nNewly hatched baby brine shrimp (see Section 8.4)\nZeigler Larval Diet (Larva “Z” Plus 250-450 Microns)\n\nJuvenile and Adult:\n\nFish food mix (see Section 8.2)\n\n\n\n\n\n\n\nStorage\n\n\n\nDry foods are stored in freezer in the stickleback facility\n\n\n\n\n8.1.3 Feeding Procedure\nFry (located along the south wall of the summer room):\n\nAM feeding: Feed fry once per day with newly hatched brine shrimp (this should happen during the opposite feeding of larval diet)\nPM feeding: Feed fry once per day with Zeigler larval diet 1/8 spoon full\n\nJuveniles and Adults:\nLocated in the 20 gallon tanks in the Summer and Winter rooms. Additionally, individualized adults are sometimes located on the fry rack in the Summer room.\n\n\n\n\n\n\nNote\n\n\n\nPlease check white board for notification of adults on fry rack.\n\n\n\nFeed juveniles and adults twice per day with dry food mix\nUse the color coding on spoon, food mix, and tags on tanks (e.g., for adults: use the red spoon, red food mix, and feed the tanks with a red tag)\nUnused brine shrimp can be fed to juvenile and adult fish\n\nDocumentation:\n\nInitial daily check list after you have fed\n\nFor food storage information, see Section 8.3.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Stickleback Husbandry - Feeding</span>"
+    ]
+  },
+  {
+    "objectID": "12-stickleback_husbandry_feeding.html#sec-fish-food-mix",
+    "href": "12-stickleback_husbandry_feeding.html#sec-fish-food-mix",
+    "title": "8  Stickleback Husbandry - Feeding",
+    "section": "8.2 Fish Food Mix",
+    "text": "8.2 Fish Food Mix\n\n\n\n\n\n\nNote\n\n\n\nCreated August 25, 2011 by M Currey\n\n\n\n8.2.1 Materials\n\nFreezer\nFridge\n1 gallon bucket with a tight seal\nPlastic measuring cup\n\n\n\n8.2.2 Juvenile Mix Recipe\nMix the following dry foods in 1 gallon bucket:\n\n4 cups Pentair finfish starter ZC1\n1 cup New Life Spectrum optimum saltwater flake\n1 cup Zeigler AP100\n\n\n\n8.2.3 Adult Mix Recipe\nMix the following dry foods in 1 gallon bucket:\n\n4 cups Pentair finfish starter ZP1\n4 cups Pentair finfish starter ZC1\n1 cup New Life Spectrum grow\n1 cup New Life Spectrum optimum saltwater flake\n1 cup Hikari micro pellet\n1 cup Hikari marine S\n1/8 cup golden pearls\n\n\n\n8.2.4 Storage\n\n\n\n\n\n\nImportant\n\n\n\nLabel with expiration date (6 months after making) and store at -20°C.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Stickleback Husbandry - Feeding</span>"
+    ]
+  },
+  {
+    "objectID": "12-stickleback_husbandry_feeding.html#sec-food-storage",
+    "href": "12-stickleback_husbandry_feeding.html#sec-food-storage",
+    "title": "8  Stickleback Husbandry - Feeding",
+    "section": "8.3 Fish Food: Storage and Sources",
+    "text": "8.3 Fish Food: Storage and Sources\n\n\n\n\n\n\nNote\n\n\n\nCreated by M Currey, August 25, 2011\n\n\n\n\n\n\n\n\nLabeling Requirement\n\n\n\nLabel all foods with received date and expiration date (see below for how to determine expiration date).\n\n\n\n8.3.1 Brine Shrimp\nGood indefinitely if frozen in tightly sealed container\nProcedure:\n\nUpon receiving label with received date\nStore unopened tins in -20°C freezer\nAfter de-capsulation label with date de-capsulated and date of expiration (30 days from de-capsulation)\nStore de-capsulated shrimp at 4°C\n\nSource: Brine Shrimp Direct, www.brineshrimpdirect.com\n\n\n8.3.2 Golden Pearl Larval Diet\nSize: 800 – 1000 micron\nGood 3-5 years if kept in freezer\nStorage:\n\nStore in -20°C freezer\nUnopened: label with expiration date 3 years from receiving date\nUpon opening: change expiration date to 6 months from date opened\n\nSource: Brine Shrimp Direct, www.brineshrimpdirect.com\n\n\n8.3.3 Hikari Dry Foods\nTypes:\n\nMarine S\nMicro Pellets\n\nIf un-opened, expiration date is labeled on container by manufacturer. Once opened the food is good for 6 months.\nStorage:\n\nKeep out of direct sunlight, high heat, and humidity\nStore at 4°C\nUpon opening change expiration date to 6 months from date opened\n\nSource:\n\nPet Mountain, www.petmountain.com\nThat Pet Place: http://www.thatpetplace.com\n\n\n\n8.3.4 New Life Spectrum Dry Foods\nTypes:\n\nOptimum saltwater flakes\nGrowth Formula\n\nIf un-opened, expiration date is labeled on container by manufacturer. Once opened the food is good for 6 months.\nStorage:\n\nKeep out of direct sunlight, high heat, and humidity\nStore at 4°C\nUpon opening change expiration date to 6 months from date opened\n\nSource: Jehmco, www.jehmco.com\n\n\n8.3.5 Zeigler Larval Dry Food\nType: AP100 (150-250 microns)\nGood 2 years if kept unopened and in freezer.\nStorage:\n\nUpon receiving label with received date and expiration date (2 years from received date)\nStore at 4°C\nUpon opening change expiration date to 6 months from date opened\n\nSource: Aquatic Ecosystems, http://pentairaes.com\n\n\n8.3.6 Pentair Finfish Starter Dry Foods\nTypes:\n\nZP1 - 1.5 mm slow sinking pellet\nZC1 – 0.6 – 0.85 mm #1 crumble\n\nIf un-opened, expiration date is labeled on container by manufacturer. Once opened the food is good for 6 months.\nStorage:\n\nKeep out of direct sunlight, high heat, and humidity\nStore at 4°C\nUpon opening change expiration date to 6 months from date opened\n\nSource: Aquatic Ecosystems, http://pentairaes.com\n\n\n8.3.7 Selcon (Brine Shrimp Supplement)\nGood 1 year if kept unopened and in fridge.\nStorage:\n\nUpon receiving label with received date and expiration date (1 year from received date)\nStore at 4°C\n\nSource: Aquatic Ecosystems, http://www.aquaticeco.com/\n\n\n8.3.8 Frozen Mysid and Blood Worms\nExpiration date printed on front label.\nStorage:\n\nUpon receiving label with received date\nStore at -20°C\n\nSource: Nautilus Tropical Fish – Springfield Oregon, 727 Main St. 541-344-3474",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Stickleback Husbandry - Feeding</span>"
+    ]
+  },
+  {
+    "objectID": "12-stickleback_husbandry_feeding.html#sec-hatching-brine-shrimp",
+    "href": "12-stickleback_husbandry_feeding.html#sec-hatching-brine-shrimp",
+    "title": "8  Stickleback Husbandry - Feeding",
+    "section": "8.4 Hatching and Feeding Brine Shrimp",
+    "text": "8.4 Hatching and Feeding Brine Shrimp\n\n\n\n\n\n\nNote\n\n\n\nCreated by M Currey 5/6/08, updated 151201 by mcc\n\n\n\n8.4.1 Materials Needed\n\nDe-capsulated Brine Shrimp\nRock Salt\n105 μm mesh shrimp collector\nBaking Soda\nSquirt Bottle\n\n\n\n8.4.2 Procedure\n1. Collect Brine Shrimp:\nDrain entire cone into 105 μm mesh shrimp collector (located on shelf near cone). Rinse and pour shrimp into squirt bottle. Feed fish. Rinse squirt bottle and place on shelf to dry.\n2. Reset Brine Cone:\n\nFill cone with DI water to 10 L\nPut airline and heater (set at 80°F) into cone\nAdd 300 ml of rock salt and 1 scoop (5 ml) of baking soda\nObtain de-capsulated brine from refrigerator and shake to homogenize solution\nMeasure out 150 ml* of de-capsulated brine and add it to the cone\n\n3. Wait 24 hours and repeat…\n\n\n\n\n\n\nAdjusting Brine Shrimp Production\n\n\n\nThe amount of brine shrimp needed will vary depending on the number of juvenile fish that need to be fed. If there is a need for more brine shrimp add more de-capsulated brine to cone and leave a note for the next person. Increase the amount in 50 ml increments.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Stickleback Husbandry - Feeding</span>"
+    ]
+  },
+  {
+    "objectID": "12-stickleback_husbandry_feeding.html#sec-artemia-decapsulation",
+    "href": "12-stickleback_husbandry_feeding.html#sec-artemia-decapsulation",
+    "title": "8  Stickleback Husbandry - Feeding",
+    "section": "8.5 Artemia Decapsulation",
+    "text": "8.5 Artemia Decapsulation\n\n\n\n\n\n\nNote\n\n\n\nAdapted by M Currey 4/3/08, updated 151201 by mcc\n\n\n\n8.5.1 Materials\n\n15 oz can of dried Artemia cysts (approximately 430 g)\n4.3 L ~6% laundry grade bleach\nRock Salt (NaCl)\n125 ml 40% Lye (NaOH) solution\n30.0 g Sodium thiosulfate (Na₂S₂O₃)\n16 L Hatching Cone with aeration\n125 μm mesh bag (Aquatic Eco-Systems PMB3, 125 micron x 18”)\nSeveral 3-5 L beakers\n(1-2) Squirt bottles - squeeze type\n\n\n\n8.5.2 Solutions\n\n\n\n\n\n\nPrepare in Advance\n\n\n\nSolutions should be prepared in advance\n\n\nBleach: ~6% laundry grade\n25 ppt Salt Solution:\n\nCombine: 50 g Rock Salt (NaCl) to 2.0 L with tap water\nStir to dissolve completely\n\n40% Lye (NaOH) solution:\n\n\n\n\n\n\nCaustic Chemical\n\n\n\nLye is highly caustic. Follow all safety protocols from Chapter 4 when handling.\n\n\n\nCombine: 200 g Lye (NaOH) to 500 mL with tap water\nStir to dissolve completely\nStore in refrigerator (4°C)\n\nBuffered Salt Solution:\n\nCombine: 2L, 25 ppt Salt Solution\n125 mL 40% Lye Solution, pre-chilled to 4°C\n\n1.0% Sodium Thiosulfate:\n\nCombine: 30 g sodium thiosulfate to 3.0 L with tap water\nStir to dissolve\n\nSaturated Brine:\n\nCombine: ~25g Rock Salt to 4.0 L with tap water\nAerate to dissolve\n\n\n\n8.5.3 Procedure\n1. Cyst Hydration:\nHydrate one full can of dried cyst in 5 L of tap water in a hatching cone with aeration for 1 hour at room temp.\n\n\n\n\n\n\nChecking Hydration\n\n\n\nExamine the cyst under a dissecting scope with top lighting before proceeding. Dry cysts are dimpled, resembling a deflated basketball, whereas fully hydrated cysts are completely spherical in shape. The cysts must be fully hydrated prior to the de-capsulation step.\nIf cysts are not completely spherical after 1 hour, continue the hydration process (for a maximum of 2 hours), checking the progress of the cysts under a microscope every 15 min.\n\n\n2. Filter and Rinse Cysts:\nCollect the hydrated cyst in a 125 µm mesh bag and rinse with cool tap water.\n3. Transfer Cysts Back to the Cone:\nAdd the Buffered Salt Solution to the cone and aerate (save back a filled squirt bottle of salt solution to help transfer cysts to cone). Transfer cysts into cone.\n4. De-capsulation:\nAdd the bleach (4.3 L) to the cone and continue aeration. Watch the cysts turn from brown to grey to orange.\n\n\n\n\n\n\nCritical Timing\n\n\n\nWhen the cysts are 90% orange, stop the reaction by quickly siphoning the cysts through a 125 µm mesh bag and rinsing well with cool tap water.\n\n\n5. Neutralization of Residual Chlorine:\nTo neutralize any residual chlorine transfer the mesh bag to a clean 4 L beaker and pour the 1.0% Sodium Thiosulfate (3L) into the bag. Soak the cysts in the sodium thiosulfate solution for ~1 min, then rinse the cysts with de-ionized tap water. Rinse until discharge turns clear.\n6. Dehydration for Long-term Storage:\n\nTransfer the cysts back to the cone with 4 L of saturated brine and aerate until salt is dissolved\nTransfer dehydrated cyst to (5 or 6) 1 L Nalgene bottles filled with 200-300 grams of salt. Add enough salt so that it does not dissolve when de-capsulated brine is added\nFill the bottles with de-capsulated brine\nStore in refrigerator\n\n\n\n\n\n\n\nNote\n\n\n\nThe de-capsulated brine will store for at least 1 month. Hatch brine as you would capsulated brine (see Section 8.4).",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Stickleback Husbandry - Feeding</span>"
+    ]
+  },
+  {
+    "objectID": "12-stickleback_husbandry_feeding.html#sec-live-food-cultures",
+    "href": "12-stickleback_husbandry_feeding.html#sec-live-food-cultures",
+    "title": "8  Stickleback Husbandry - Feeding",
+    "section": "8.6 Live Food Cultures",
+    "text": "8.6 Live Food Cultures\n\n8.6.1 Moina\nMaterials:\n\n10 gallon glass tanks\nCorner sponge filter\nAir supply\nRotifer diet\nPowdered nannochloropsis\n\nProcedure:\n\nFill 10 gallon tank 3/4 full of stickleback system water\nAdd corner filter and activate with air\nAdd Moina\nChange water once every 2-3 weeks by removing half of the water and replacing with stickleback water\n\n\n\n\n\n\n\nWarning\n\n\n\nDO NOT break tank down and clean as moina do not respond well to this.\n\n\nFeeding:\n\nAdd 15 drops of rotifer diet and 1/8 scoop of powdered nannochloropsis each day\n\n\n\n8.6.2 Mysid Shrimp\nFor a description of the mysid generator please visit: http://www.mblaquaculture.com/assets/docs/MBL_AQ_Mysid_Generator.pdf\nMaterials:\n\n10 gallon tank generator system\nSalt water\n\nFeeding:\n\nFeed newly hatched brine shrimp daily to both adults and juveniles\n\nWater Change:\n\n2-3 times per week empty 5 gallons of water from the system and replace with new make up water\nMake new water in 5 gallon bucket by adding DI water and 2 scoops of salt",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Stickleback Husbandry - Feeding</span>"
+    ]
+  },
+  {
+    "objectID": "12-stickleback_husbandry_feeding.html#related-protocols",
+    "href": "12-stickleback_husbandry_feeding.html#related-protocols",
+    "title": "8  Stickleback Husbandry - Feeding",
+    "section": "8.7 Related Protocols",
+    "text": "8.7 Related Protocols\nFor comprehensive stickleback husbandry information, see:\n\nGeneral husbandry: Chapter 6\nSolution recipes: Chapter 10\nCrossing protocols: Chapter 7\nCleaning protocols: Chapter 9",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Stickleback Husbandry - Feeding</span>"
+    ]
+  },
+  {
+    "objectID": "13-stickleback_husbandry_cleaning.html",
+    "href": "13-stickleback_husbandry_cleaning.html",
+    "title": "9  Stickleback Husbandry - Cleaning",
+    "section": "",
+    "text": "9.1 20 Gallon Tank Cleaning\nThis chapter covers cleaning and sterilization protocols for stickleback tanks and equipment. For safety information, see Chapter 4.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Stickleback Husbandry - Cleaning</span>"
+    ]
+  },
+  {
+    "objectID": "13-stickleback_husbandry_cleaning.html#sec-tank-cleaning",
+    "href": "13-stickleback_husbandry_cleaning.html#sec-tank-cleaning",
+    "title": "9  Stickleback Husbandry - Cleaning",
+    "section": "",
+    "text": "Note\n\n\n\nCreated April 8, 2008 by M. Currey, revised March 3, 2012 by M. Currey\n\n\n\n\n\n\n\n\nTiming Restriction\n\n\n\nTank cleaning is to be done ONLY during the week\n\n\n\n9.1.1 Materials Needed\n\nHousehold bleach in a squirt bottle\nScrub pad or sponge\nSiphon tip\nSiphon hose\nPortable waste water collector\nScrubber pads\nScrubber handles\nCart (you may or may not want to use)\nOld clothes (this can be messy)\nPersonal protection equipment (Splash proof glasses or face shield)\n\n\n\n9.1.2 Procedure\n1. Siphoning (cleaning by “vacuuming”):\n\nAttach siphon tip onto siphon hose. The siphon tips, which are attached to the hoses, are the only parts of this apparatus that can be immersed in the tank\nStart siphon by running system water into hose until hose is filled with water. Turn valve so that water is “trapped” in hose\nPut end of tip into tank that is being cleaned and turn valve back on creating a siphon\nVacuum all waste off of the bottom being careful to not suck up any fish\n\n\n\n\n\n\n\nSterilization\n\n\n\nUse each tip in only one tank and then sterilize it by washing in the dishwasher (see Section 9.4).\n\n\n2. Scrubbing (removal of algae from sides, front, and back of tank):\nThis is done on an “as needed” basis.\n\n\n\n\n\n\nTip\n\n\n\nIf you can’t see into the tank, it’s past time to scrub.\n\n\n\nWith a Scotch Brite Pad (United Grocers, Eugene, Oregon) scrub front and sides of tank\nDo not use pad on multiple tanks\nAutoclave scrubber pads to sterilize\n\n3. Replace basket of bulkhead:\n\nTake the dirty basket off and sterilize in dishwasher as described in Section 9.4\nObtain clean basket and replace\n\n\n\n\n\n\n\nEye Protection Required\n\n\n\nWhen using bleach and/or sodium thiosulfate, eye protection is required. Please use splash proof glasses or a face shield when using bleach and sodium thiosulfate.\n\n\n4. Complete bleaching and cleaning of tank:\n\n\n\n\n\n\nNote\n\n\n\nThis needs to be done to each tank every 2 months.\n\n\nProcedure:\n\nRemove fish from tank and put them into a clean tank\nTanks that are emptied of fish need to be cleaned and sterilized before another batch of fish can be introduced\nDrain the tank and remove it from the rack\nClean all parts with brushes and a scrub pad or put into the bleach bin\nClean the tank thoroughly with a scrub pad, taking care not to damage the silicon water seals on the inside\n\n\n\n\n\n\n\nImportant\n\n\n\nAlgae should be left if very gentle rubbing will not remove it.\n\n\n\nSquirt about 10–20 mls of bleach into the tank. Wash the bleach water thoroughly around the inside of the tank by hand, using a pad, sponge, tank back, or other means to expose all inside portions of the tank to bleach\nRinse the tank thoroughly with hot tap water\nRinse the tank with sodium thiosulfate, and then rinse it again with hot water\nPut a few thiosulfate crystals into the tank and leave it\nReassemble the tank and put it back on the rack\nFill with system water and allow water to recirculate for about 30 minutes before adding fish\n\n\n\n\n\n\n\nMonitor Fish\n\n\n\nWatch fish for 15 min to look for any signs of distress.\n\n\n5. Documentation:\n\nInitial check list",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Stickleback Husbandry - Cleaning</span>"
+    ]
+  },
+  {
+    "objectID": "13-stickleback_husbandry_cleaning.html#sec-corner-filter-cleaning",
+    "href": "13-stickleback_husbandry_cleaning.html#sec-corner-filter-cleaning",
+    "title": "9  Stickleback Husbandry - Cleaning",
+    "section": "9.2 Corner Filter Cleaning",
+    "text": "9.2 Corner Filter Cleaning\n\n9.2.1 Procedure\n1. Initial Rinse:\nRemove dirty corner filters from tanks and rinse with tap water to remove excess algae and debris.\n2. Bleach Soak:\nPut corner filters inside bleach tank and leave them soaking overnight.\n3. Rinse and Neutralize:\n\nRinse the corner filters with hot water for 5 min being sure to fill and dump the filter with water at least 5 times\nPlace them into the sodium thiosulfate tank\nRinse out with the sodium thiosulfate solution 2 times and leave them to soak overnight\n\n4. Final Rinse:\n\nRinse the corner filters for 5 minutes repeating the fill and dump method as above with hot water\nLeave them drying on the rack overnight\n\n5. Monitor Upon Replacement:\n\n\n\n\n\n\nWarning\n\n\n\nWhen cleaned corner filters are placed back into aquaria, observe fish for 15 min for signs of distress.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Stickleback Husbandry - Cleaning</span>"
+    ]
+  },
+  {
+    "objectID": "13-stickleback_husbandry_cleaning.html#sec-fry-tank-cleaning",
+    "href": "13-stickleback_husbandry_cleaning.html#sec-fry-tank-cleaning",
+    "title": "9  Stickleback Husbandry - Cleaning",
+    "section": "9.3 Fry Tank Cleaning",
+    "text": "9.3 Fry Tank Cleaning\n\n\n\n\n\n\nNote\n\n\n\nCreated 4/10/08 by M Currey\n\n\nFish put into fry tanks will live in these tanks for 2-3 months at which point the tank will be emptied and sterilized using the dishwasher then stored for further use.\n\n\n\n\n\n\nTip\n\n\n\nIf the fry remain in these tanks for longer than 3 months, or there is a build-up of waste or algae in the tanks, then follow the following procedure.\n\n\n\n9.3.1 Materials Needed\n\n2.8 L or 9.5 L Aquaneering tanks\nMatching lid\nFry baffle\n\n\n\n\n\n\n\nNote\n\n\n\nWhen placing new fish into the system use 400 micron (smaller) mesh baffles.\n\n\n\n\n9.3.2 Procedure\n\nObtain clean fry tank and install lid and baffle\nPut fish from dirty tank into clean tank. To do this remove dirty fish tank from rack and carefully pour off 1/3 of tank water\nThen pour the rest of the water and fish into clean tank\n\n\n\n\n\n\n\nTip\n\n\n\nIf there is lots of waste in the tank transfer fish with a net, leaving waste in dirty tank.\n\n\n\nPut clean tank of fish back on rack and start water",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Stickleback Husbandry - Cleaning</span>"
+    ]
+  },
+  {
+    "objectID": "13-stickleback_husbandry_cleaning.html#sec-dishwasher",
+    "href": "13-stickleback_husbandry_cleaning.html#sec-dishwasher",
+    "title": "9  Stickleback Husbandry - Cleaning",
+    "section": "9.4 Dishwasher Use to Sterilize Plastics and Glassware",
+    "text": "9.4 Dishwasher Use to Sterilize Plastics and Glassware\n\n\n\n\n\n\nNote\n\n\n\nCreated 4/2016 by J. Crandall\n\n\n\n9.4.1 Loading the Dishwasher\n\n\n\n\n\n\nPre-Cleaning Required\n\n\n\nRINSE ALL DIRTY DISHES VERY WELL, especially those with algae/food residue. The dishwasher will sanitize, but will not effectively clean, the dishes. Scrub dishes with a scrub pad to remove buildup, if needed.\n\n\nGeneral Loading Instructions:\n\nIf there are clean dishes from a previous cycle, put them away in their respective locations. If some are still wet, set them out to dry on the drying rack before putting them away\nTank tube and bulkhead pieces should be hung on the vertical rinsing pipes on the bottom rack\nLonger tank tubes should be placed on the top rack if they would impede the rinser on the bottom of the top rack from spinning\nSmall tank lids should be stacked on the bottom rack, but not on the raised portion of the rack, as this impedes the rinser from spinning properly\nPlastic tanks, Ziploc containers and long tank tubes should be placed on the top rack\n\n\n\n\n\n\n\nBEFORE RUNNING THE DISHWASHER\n\n\n\nSLIDE BOTH RACKS IN AND MAKE SURE THE RINSER ON THE BOTTOM OF THE TOP RACK CAN SPIN FREELY\n\n\n\n\n9.4.2 Running the Dishwasher\nProcedure:\n\nAdd ~1/2 scoop of dish detergent (found under the sink) to the well in the door of the dishwasher. Close the lid to the well\nClose and latch the door to the dishwasher. The display will light up, and after booting up it should read “User 1”\nPress the RUN/CANCEL button to begin the cycle\n\n\n\n\n\n\n\nTroubleshooting Display\n\n\n\n\nIf it displays a list of programs, use the down arrow key to navigate down the list to “User 1.” When the “User 1” program is highlighted, press the RUN/CANCEL button to begin the cycle\nIf the screen displays something other than “User 1,” press the DISPLAY button to show the list of programs, scroll down to “User 1,” and press RUN/CANCEL\n\n\n\nTo Cancel Mid-Cycle:\nShould the program ever need to be cancelled mid-cycle, pressing the RUN/CANCEL button once will result in the cycle canceling and the water draining.\n\n\n9.4.3 Large Tank Lids\n\nThe small frontal lids to the large glass tanks should be loaded into the dishwasher\nThe large lids to the large glass tanks should be hosed off thoroughly with very hot water, and set on the rack to dry",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Stickleback Husbandry - Cleaning</span>"
+    ]
+  },
+  {
+    "objectID": "13-stickleback_husbandry_cleaning.html#related-protocols",
+    "href": "13-stickleback_husbandry_cleaning.html#related-protocols",
+    "title": "9  Stickleback Husbandry - Cleaning",
+    "section": "9.5 Related Protocols",
+    "text": "9.5 Related Protocols\nFor comprehensive stickleback husbandry information, see:\n\nGeneral husbandry: Chapter 6\nSafety protocols: Chapter 4\nSystem maintenance: Chapter 11\nFeeding protocols: Chapter 8",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Stickleback Husbandry - Cleaning</span>"
+    ]
+  },
+  {
+    "objectID": "14-stickleback_husbandry_recipes.html",
+    "href": "14-stickleback_husbandry_recipes.html",
+    "title": "10  Stickleback Husbandry - Recipes",
+    "section": "",
+    "text": "10.1 Embryo Medium\nThis chapter contains recipes for solutions and media commonly used in stickleback husbandry. These recipes are referenced throughout the other husbandry chapters.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Stickleback Husbandry - Recipes</span>"
+    ]
+  },
+  {
+    "objectID": "14-stickleback_husbandry_recipes.html#sec-embryo-medium",
+    "href": "14-stickleback_husbandry_recipes.html#sec-embryo-medium",
+    "title": "10  Stickleback Husbandry - Recipes",
+    "section": "",
+    "text": "10.1.1 Materials Needed\n\nInstant Ocean Salt\nBaking Soda\nnpH₂O\n\n\n\n10.1.2 Embryo Medium Solution Recipe\n\nAdd 8 g Instant Ocean to 2 liters of npH₂O\nAdd ~0.5 g baking soda\nCheck pH and adjust to 7.0 – 8.0\nThis makes 2 liters\n\n\n\n\n\n\n\nStorage\n\n\n\nSalt and baking soda are located in containers near the dissecting scope. Rinse 2 liter flasks with DI water between uses.\n\n\n\n\n\n\n\n\nUsage\n\n\n\nThis solution is used for:\n\nCrossing protocols (see Section 7.4)\nRaising embryos (see Section 7.5)\nEmbryo bleaching (see Section 7.1)",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Stickleback Husbandry - Recipes</span>"
+    ]
+  },
+  {
+    "objectID": "14-stickleback_husbandry_recipes.html#sec-mesab-recipe",
+    "href": "14-stickleback_husbandry_recipes.html#sec-mesab-recipe",
+    "title": "10  Stickleback Husbandry - Recipes",
+    "section": "10.2 MESAB (MS-222, Tricaine)",
+    "text": "10.2 MESAB (MS-222, Tricaine)\n\n\n\n\n\n\nPharmaceutical Grade Required\n\n\n\nTricaine must be pharmaceutical-grade. We use tricaine purchased from Pentair, manufactured by Western Chemical and FDA approved.\nTricaine (3-amino benzoic acid ethyl ester also called ethyl m-aminobenzoate) comes in a powdered form. Purchase the smallest amount possible because tricaine expires quickly.\n\n\n\n10.2.1 Materials Needed\n\nMesab, a.k.a. MS222, tricaine, or 3-aminobenzoic acid ethyl ester\n1 M Tris (pH 9)\nDD water\n\n\n\n10.2.2 MESAB Stock Solution (4g/L) - Tris Buffered\nRecipe:\n\n4 g tricaine powder\n979 ml DD water\n~21 ml 1 M Tris (pH 9)\nAdjust pH to ~7\n\nStorage:\n\nAliquot in 50 ml tubes\nLabel with “MESAB Stock Solution 4g/L”\nStore in a -20°C freezer\nThis makes 1 liter of solution\n\n\n\n10.2.3 Euthanasia Solution (300 mg/L)\n\nMake a solution of tris buffered Stock Solution as described in Section 10.2.2 (or obtain an aliquot from the freezer)\nCombine 7.5 ml of stock solution into 100 ml of fish water\n\n\n\n\n\n\n\nNote\n\n\n\nFor full euthanasia protocol, see Section 5.2.3.\n\n\n\n\n10.2.4 Anesthesia Solution (168 mg/L)\n\nMake a solution of tris buffered Stock Solution as described in Section 10.2.2 (or obtain an aliquot from the freezer)\nCombine 4.2 ml of stock solution into 100 ml of fish water\n\n\n\n\n\n\n\nNote\n\n\n\nFor full anesthesia protocol, see Section 5.2.4.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Stickleback Husbandry - Recipes</span>"
+    ]
+  },
+  {
+    "objectID": "14-stickleback_husbandry_recipes.html#sec-testes-solution",
+    "href": "14-stickleback_husbandry_recipes.html#sec-testes-solution",
+    "title": "10  Stickleback Husbandry - Recipes",
+    "section": "10.3 Testes Storage Solution",
+    "text": "10.3 Testes Storage Solution\n\n10.3.1 Materials Needed\n\nNaCl\nKCl\nCaCl₂\nNaHCO₃\nnpH₂O\nGentamycin (antimycotic) (Stock – 10 mg/ml)*\nCell Culture anti-biotic/mycotic from Gibco-BRL (15240-096) 100x Concentration*\n\n\n\n\n\n\n\nReagent Location\n\n\n\n*Both of these reagents are located in separate boxes in Mark’s space in the -20°C freezer. They are partitioned into 100 μl aliquots.\n\n\n\n\n10.3.2 Ginzberg’s Ringers Recipe\nPreparation:\nMix solids into 750 ml of npH₂O:\n\n6.6 g NaCl\n0.25 g KCl\n0.3 g CaCl₂\n0.2 g NaHCO₃\n\nBring to 1 liter total volume with npH₂O.\nStorage: Store at 4°C\n\n\n10.3.3 Testes Solution (100 ml)\n\nAdd 100 μl of Gentamycin and 100 μl of Anti-biotic/mycotic to 100 ml of Ginzburg’s Ringers solution\nStore at 4°C\n\n\n\n\n\n\n\nUsage\n\n\n\nThis solution is used for testes storage as described in Section 7.2.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Stickleback Husbandry - Recipes</span>"
+    ]
+  },
+  {
+    "objectID": "14-stickleback_husbandry_recipes.html#additional-solution-recipes",
+    "href": "14-stickleback_husbandry_recipes.html#additional-solution-recipes",
+    "title": "10  Stickleback Husbandry - Recipes",
+    "section": "10.4 Additional Solution Recipes",
+    "text": "10.4 Additional Solution Recipes\n\n10.4.1 Holtfreiter’s Solution\nFor Holtfreiter’s Solution recipe used in egg storage, see Section 7.3.3.\n\n\n10.4.2 Embryo Bleaching Solutions\nFor bleaching solutions used in embryo disinfection, see Section 7.1.\n\n\n10.4.3 Brine Shrimp Solutions\nFor solutions used in artemia decapsulation and brine shrimp hatching, see:\n\nSection 8.5\nSection 8.4",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Stickleback Husbandry - Recipes</span>"
+    ]
+  },
+  {
+    "objectID": "14-stickleback_husbandry_recipes.html#related-protocols",
+    "href": "14-stickleback_husbandry_recipes.html#related-protocols",
+    "title": "10  Stickleback Husbandry - Recipes",
+    "section": "10.5 Related Protocols",
+    "text": "10.5 Related Protocols\nThese recipes are used throughout the stickleback husbandry protocols:\n\nCrossing protocols: Chapter 7\nHealth and anesthesia: Chapter 5\nFeeding protocols: Chapter 8\nGeneral husbandry: Chapter 6",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Stickleback Husbandry - Recipes</span>"
+    ]
+  },
+  {
+    "objectID": "15-stickleback_husbandry_maintenance.html",
+    "href": "15-stickleback_husbandry_maintenance.html",
+    "title": "11  Stickleback Husbandry - Equipment Maintenance",
+    "section": "",
+    "text": "11.1 Salt Vat Filling and Maintenance",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stickleback Husbandry - Equipment Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "15-stickleback_husbandry_maintenance.html#sec-salt-vat-maintenance",
+    "href": "15-stickleback_husbandry_maintenance.html#sec-salt-vat-maintenance",
+    "title": "11  Stickleback Husbandry - Equipment Maintenance",
+    "section": "",
+    "text": "Note\n\n\n\nCreated by: M Currey, August 25, 2011 Updated: 151201 by mcc\n\n\n\n11.1.1 Purpose\nThis protocol is to be used to fill and maintain salt vats for dosing of saline solution into stickleback aquaculture systems.\n\n\n11.1.2 Materials needed\n\nSalt Vat\nInstant Ocean\nRO water\nAir stone\n\n\n\n11.1.3 Procedure for filling\n\nWhen saline solution has reached the half mark, fill with RO water to the “fill” line. RO water is located near salt vats in both rooms.\nAdd ¼ bucket of Instant ocean.\nCheck that the vat is properly aerated (see below).\n\n\n\n11.1.4 Procedure for maintenance\n\n\n\n\n\n\nTip\n\n\n\nShould be performed every 6 months or more often if needed\n\n\n\nCheck that vat is properly aerated. Saline solution should be vigorously agitated. If vat is poorly aerated clear supply line, replace air stone, or both.\nDrain salt vat and thoroughly rinse with RO water to remove un-dissolved salt. Refill as described above.\n\n\n\n\n\n\n\nImportant\n\n\n\nNote: To turn dosing pump off (the yellow pump located above salt vat), position switch to the middle position. To turn on, position switch to the left position.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stickleback Husbandry - Equipment Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "15-stickleback_husbandry_maintenance.html#sec-facility-maintenance",
+    "href": "15-stickleback_husbandry_maintenance.html#sec-facility-maintenance",
+    "title": "11  Stickleback Husbandry - Equipment Maintenance",
+    "section": "11.2 Facility Maintenance - Weekly & Monthly",
+    "text": "11.2 Facility Maintenance - Weekly & Monthly\n\n\n\n\n\n\nNote\n\n\n\nCreated by: M Currey, 5/6/08\n\n\n\n11.2.1 Material Needed\n\nMop and broom\nSponges\nBleach\n\n\n\n11.2.2 Procedure\n\nOnce per week\n\nOnce per week the floors will be swept and mopped using a 10% bleach solution\nOnce per week counter tops will be cleaned with sponge and a 10% bleach solution\nBroken tanks are to be taken to the dumpster located at the northeast corner of Pacific Hall\nDishes will be done daily (see plastic and glass cleaning SOP)\n\n\n\nOnce per month\n\nConductivity probe\npH probe\nR.O. Carbon\nWater pumps\nAir pump\nSalt Pump\n\n\n\nTwice a year\n\nChange carbon filter left\nChange carbon filter right\nSalt vat maintenance (see Section 11.1.4)\n\n\n\nOnce a year\n\nUV bulb\nRO membrane",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stickleback Husbandry - Equipment Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "15-stickleback_husbandry_maintenance.html#sec-net-autoclaving",
+    "href": "15-stickleback_husbandry_maintenance.html#sec-net-autoclaving",
+    "title": "11  Stickleback Husbandry - Equipment Maintenance",
+    "section": "11.3 Net Autoclaving",
+    "text": "11.3 Net Autoclaving\n\n\n\n\n\n\nNote\n\n\n\nCreated by: M Currey, 12/3/08\n\n\n\n\n\n\n\n\nTip\n\n\n\nFor sanitizing nets and scrub pads that have been used in the fish room.\n\n\n\n11.3.1 Procedure\n\nPlace dirty nets and scrub pads in autoclave wire bin\nPut bin into autoclave, and close the door (close door by pushing main door against hinge on left of door, then push door shut and seal by turning handle clockwise to just tight, DO NOT OVER TIGHTEN)\nChange menu to B using keypad\nHit #1 twice, this will start the autoclave\nSign sheet on outside of entrance door\nWait 45 minutes and remove nets\nPut nets in clean nets tub\nInitial Check list on outside of door: Gravity | 45 min | OK to Remove",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stickleback Husbandry - Equipment Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "15-stickleback_husbandry_maintenance.html#sec-sentinel-fish-sampling",
+    "href": "15-stickleback_husbandry_maintenance.html#sec-sentinel-fish-sampling",
+    "title": "11  Stickleback Husbandry - Equipment Maintenance",
+    "section": "11.4 Sentinel Fish Sampling",
+    "text": "11.4 Sentinel Fish Sampling\n\n\n\n\n\n\nNote\n\n\n\nCreated: December 20, 2007 Updated: May 14th, 2008 by M Currey\n\n\n\n11.4.1 Materials\n\nDietrich’s fixative (see below for recipe)\n50 ml tubes\nStraight razor\nSolutions\n\n\n\n11.4.2 Prepare Dietrich’s Fixative (100 ml)\nMix in order:\n\n30 ml Ethanol (95%)\n10 ml Formalin (Formaldehyde 37% solution, histological grade, contains 10-15% methanol, Sigma # F1635)\n2 ml Glacial Acetic Acid\n58 ml Distilled Water\nStore fixative at room temperature\n\n\n\n11.4.3 Procedure\nSentinel tanks are placed in both the Summer and Winter rooms. One clutch of embryos is made and then divided. One half is put into the Winter room and the other is put into the Summer Room. Each tank should contain 10–20 fish. Every 6 months four fish from each tank are samples. These fish will then be stained with Hematoxylin and Eosin and sectioned and mounted on slides by the Histology lab in Huestis Hall (contact – Poh King). Prepared slides are diagnosed by U of O attending vet, Kathy Snell.\n\n\n11.4.4 Fixing of Fish and Sectioning\n\nFish are euthanized using MS222\nCut 2cm segments starting just behind the eye to 2cm caudally\nPut these segments into Dietrich’s fix for at least 24 hours\nAfter 24 hours, cut segment bi-laterally leaving the spine. This is the piece that will be sent to histology\nParafin embedded sagital sections need to be done. Sectioning only a few slices through the spinal cord\n\n\n\n\n\n\n\nContact Information\n\n\n\nPoh King (Histology) 346-4923 $16/hr Blocks under 2cm take 1–1&1/2hour\nDr. Kathy Snell Attending Veterinarian Animal Care Services 5218 University of Oregon Eugene, OR 97403-5218 P. 541-346-0998 F. 541-346-0588\nZIRC fish Vet Katrina N. Murray, DVM, Ph.D. Zebrafish International Resource Center Pathology and Health Services 5274 University of Oregon Eugene, OR 97403-5274 (541) 346-6028 ext. 14 Fax (541) 346-6151 fish_health@zebrafish.org",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stickleback Husbandry - Equipment Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "15-stickleback_husbandry_maintenance.html#sec-sump-maintenance",
+    "href": "15-stickleback_husbandry_maintenance.html#sec-sump-maintenance",
+    "title": "11  Stickleback Husbandry - Equipment Maintenance",
+    "section": "11.5 Sump Maintenance",
+    "text": "11.5 Sump Maintenance\n\n\n\n\n\n\nNote\n\n\n\nCreated: 5/21/08 by M Currey\n\n\n\n11.5.1 Materials\n\nPool vacuum\nClean building water with spray nozzle\n\n\n\n11.5.2 Procedure\n\n\n\n\n\n\nTip\n\n\n\nSumps are to be cleaned once a month or as needed.\n\n\n\nRemove black matted cover of biobucket and take it to the trough\nTurn on clean water and wash cover until clean\nReturn to sump and install drain cap and turn off valves to tanks of that rack\nUse the pool vacuum to clean debrie from bottom of sump\nWash front plastic of sump with sponge (if cleaning clear sumps). Close valve, remove drain plug, open valves to tanks and move to the next sump or clean up",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stickleback Husbandry - Equipment Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "15-stickleback_husbandry_maintenance.html#sec-ro-maintenance",
+    "href": "15-stickleback_husbandry_maintenance.html#sec-ro-maintenance",
+    "title": "11  Stickleback Husbandry - Equipment Maintenance",
+    "section": "11.6 RO Maintenance",
+    "text": "11.6 RO Maintenance\n\n\n\n\n\n\nNote\n\n\n\nCreated: December 14, 2011 m currey\n\n\n\n\n\n\n\n\nImportant\n\n\n\nFor start up and more detailed info please refer to the manual.\n\n\n\n11.6.1 Determination of run time/day\n\nRun RO unit into container with known units of volume and determine the amount of time to fill desired volume. Determine the gallon per minute flow rate. If using a liter vessel; 3.8 liters = 1 gallon\nThe system is ~ 2000 gallons. Ideally we will want to change 5-10% of the water each day. This is 100-200 gallons\nSet timer that RO unit is plugged into so that it is on the desired amount of time using the gallons/minute rate determined in step 1\n\n\n\n\n\n\n\nNote\n\n\n\nOn 111214 the RO flow rate is ½ gallon/3 minutes. The timer was set to come on 6 hours/day split so that the RO comes on ~ 3X for 2 hours each time.\n\n\n\n\n11.6.2 Maintenance\n\nOnce a month or as needed\n\nChange and discard the pre-filter (city supply side)\nChange and discard the first carbon block filter (middle position)\nMove the second carbon filter (closest to the machine) to the middle position\nInstall new carbon block in and put a new carbon block in third position\n\n\n\n\n\n\n\nWarning\n\n\n\nWhen the prefilter clogs the system will cycle on and off as the low pressure switch turns the unit off with low pressure but as soon as flow stops the pressure rebuilds and turns it back on. This will destroy your pump and or motor and is very bad for the contacts in the pressure switch.\n\n\n\n\n\n11.6.3 Notes on Parts\nI get the pump from Grainger ~$120\nProcon pump, membranes, prefilters and carbon blocks from Pacific RO. http://www.pacificro.com The guy’s name is Bob and his prices are significantly lower than anything else I’ve found. I just place a $2k order with him yesterday.\nApplied Membranes inc www.appliedmembranes.com is another source I’ve used.\nCraig from Oregon Water treatment just stopped buy and I’m buying new units from him. He’s matching Aquatic Eco’s low prices, he’s local and great to work with so I’m most likely going to be shifting all my business his way.\n\n\n\n\n\n\nTip\n\n\n\nThe tw30-2526 membranes for the hp 900 water factory is now a higher producing membrane twhp30-2526. Makes more water.",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stickleback Husbandry - Equipment Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "15-stickleback_husbandry_maintenance.html#sec-uv-filter-maintenance",
+    "href": "15-stickleback_husbandry_maintenance.html#sec-uv-filter-maintenance",
+    "title": "11  Stickleback Husbandry - Equipment Maintenance",
+    "section": "11.7 UV Filter Bulb Replacement and Maintenance",
+    "text": "11.7 UV Filter Bulb Replacement and Maintenance\n\n\n\n\n\n\nNote\n\n\n\nCreated: December 14, 2011 m currey\n\n\n\n11.7.1 Materials\n\nNew UV bulbs - Stickleback system – 120 Watt\nGloves\nHigh vacuum grease\nReplacement Seals\nCloth for cleaning bulb housing\nBucket\n\n\n\n11.7.2 Bulb Replacement\n\n\n\n\n\n\nWarning\n\n\n\nAlways wear gloves when handling UV bulbs as oils from your hands can ruin the bulb.\n\n\n\nTurn off power to UV filter\nRemove bulb by unscrewing plastic bulb bolt (grey threaded bolt at end of filter)\nUnplug bulb noting prong placement\nPlug in new bulb with same prong placement as old bulb\nScrew in bolt and UV\nTurn power back on by plugging filter back in\nCheck to see that UV is working by looking for light through “viewing window” at the end of the filter\nUpdate changed/next change needed sticker on outside of unit\n\n\n\n\n\n\n\nNotes\n\n\n\n\nIf bulb is not on it is probably because the prongs are incorrect. Take bulb back out and change the way the bulb is plugged in\nBulbs should be replaced once per year\n\n\n\n\n\n11.7.3 Maintenance\n\n\n\n\n\n\nTip\n\n\n\nThis should be done when changing the bulb.\n\n\n\nIsolate filter from main system by turning valves to shut off water to UV or turning off the water system\nRemove Bulb\nDrain UV filter by unscrewing bulb and other end caps from main housing\nRemove bulb housing and clean the outside of the hosing with a soft cloth\nReplace seals using grease on the seals\nRe-assemble bulb housing and install new bulb (see Section 11.7.2)\nStart unit and check to see that light is on and the unit is not leaking",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stickleback Husbandry - Equipment Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "15-stickleback_husbandry_maintenance.html#sec-carbon-filter",
+    "href": "15-stickleback_husbandry_maintenance.html#sec-carbon-filter",
+    "title": "11  Stickleback Husbandry - Equipment Maintenance",
+    "section": "11.8 Carbon Filter",
+    "text": "11.8 Carbon Filter\n\n\n\n\n\n\nNote\n\n\n\nCreated: December 14, 2011 m currey\n\n\n\n11.8.1 Backwashing\n\n\n\n\n\n\nTip\n\n\n\nThe black carbon filter is set to automatically backwash once every 99 days.\n\n\n\nFor the BLACK carbon filter (Manual backwash)\n\nPress and hold up and down arrows for 4+ sec. This will initiate the manual backwash\n\n\n\nFor the BLUE carbon filter\n\nPlug in filter\nTwist large dial clockwise to “Backwash” position. The filter will now take itself through the backwash cycle. This takes about 30–40 minutes. When the cycle is done, unplug the filter\nLabel front of filter with time of backwash and when next backwash is needed\n\n\n\n\n11.8.2 Filter Re-bed (activated carbon)\n\nMaterials\n\nWater hose to wash out used media\nMuck buckets\nFunnel\nGranular activated carbon (FilterWater.com, model #FM-GAC-01) 1 cu.\nSand (Quickcrete model # 115251, coarse and washed)\nDuct tape\n\n\n\nProcedure\nDisconnect Vessel\n\nTurn off water source\nOpen valve to relieve pressure\nDisconnect vessel\n\nRemove Carbon and Sand\n\nUnscrew head mechanism\nPosition vessel on side near water hose\nPosition muck bucket to catch media\nSpray water into vessel to remove carbon and sand\nCollect media and strain to remove water. Put used carbon into garbage sack and place in dumpster\n\nReplace carbon and sand\n\nDry top of riser and seal with duct tape\nUse funnel and add 4 inches of sand until top of riser is covered\nAdd carbon to 18” below top of riser giving room for backwash mode\n\nReconnect vessel\n\nRemover duct tape\nReconnect head control system (a little gasket grease may be needed to make a tight seal)\nReconnect vessel to plumbing\nFill with water and allow it to sit overnight so that the carbon absorbs water\nTurn water on and initiate backwash cycle",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stickleback Husbandry - Equipment Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "15-stickleback_husbandry_maintenance.html#sec-lighting-programming",
+    "href": "15-stickleback_husbandry_maintenance.html#sec-lighting-programming",
+    "title": "11  Stickleback Husbandry - Equipment Maintenance",
+    "section": "11.9 Programming Fish Room Lighting",
+    "text": "11.9 Programming Fish Room Lighting\n\n\n\n\n\n\nNote\n\n\n\nCreated: 3-20-2008 by M Currey\n\n\n\n11.9.1 Materials\n\nPC\nLiason software and manual\n\n\n\n11.9.2 Programming Overview\nProgramming of fish room lighting regimes is done using the wall unit Grafik Eye 3000 and a PC. The unit is programmed in terms of scenes. Each scene specifies a lighting event, e.g. turning on the lights in one room over a 1/2 hour time period. Scenes are set at the control unit following the directions in the manual. Four scenes have been set up to turn off or on lighting in the main room and the breeding room.\n\n\n11.9.3 Procedure\nScene Configuration:\n\nScene 1: Main room ON with 30 min dawn\nScene 2: Main room OFF with 30 min dusk\nScene 3: Breeding room ON with 30 min dawn\nScene 4: Breeding room OFF with 30 min dusk\n\nOnce the scenes are programmed you must tell the unit when to activate the scenes. This is done with a PC and Grafik Eye Liason software. If the software needs to be installed do so. Connect the PC to the control unit.\nIn EDIT MODE:\n\nSelect control unit (I think that this unit is GRX3105)\nGo to schedule (Not program)\nDrag scenes (upper right box) to desired times\nDrag control unit (lower right box) to each scene\nBe sure and copy schedule to the weekend\nGo to FILE and establish communications via Online Options\nAfter communications have been established go back to edit mode\nGo to Online Options and select transfer data. This should program the wall unit when to activate scenes",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stickleback Husbandry - Equipment Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "16-stickleback_husbandry_emergency.html",
+    "href": "16-stickleback_husbandry_emergency.html",
+    "title": "12  Stickleback Husbandry - Emergency",
+    "section": "",
+    "text": "12.1 Emergency Procedures",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Stickleback Husbandry - Emergency</span>"
+    ]
+  },
+  {
+    "objectID": "16-stickleback_husbandry_emergency.html#emergency-plan-and-phone-list",
+    "href": "16-stickleback_husbandry_emergency.html#emergency-plan-and-phone-list",
+    "title": "12  Stickleback Husbandry - Emergency",
+    "section": "12.2 Emergency Plan and Phone List",
+    "text": "12.2 Emergency Plan and Phone List\nHuestis Zebrafish Facility / Zebrafish International Resource Center (ZIRC) / Pacific Stickleback Facility Operations in Time of Crisis",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Stickleback Husbandry - Emergency</span>"
+    ]
+  },
+  {
+    "objectID": "16-stickleback_husbandry_emergency.html#sec-essential-staff",
+    "href": "16-stickleback_husbandry_emergency.html#sec-essential-staff",
+    "title": "12  Stickleback Husbandry - Emergency",
+    "section": "12.3 Essential Staff Contact Information",
+    "text": "12.3 Essential Staff Contact Information\n\n12.3.1 Essential Staff at Huestis\n\n\n\n\n\n\nHuestis Facility Contacts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nName\nPosition\nLocation\nEmail\nOffice\nHome\nCell\nAvailable\n\n\n\n\nTim Mason\nManager\nHuestis basement\ntmason@uoregon.edu\n541-346-4598\n-\n541-510-2091\nYes\n\n\nJavier Camoriano\nResearch Assistant\nHuestis basement\njcamoria@uoregon.edu\n541-346-4512 x25\n-\n-\n-\n\n\nAndy Kimm\nLab Animal Tech II\nHuestis basement\nandykimm@uoneuro.uoregon.edu\n541-346-4512 x12\n541-942-3720\n-\n-\n\n\nMarcie McFadden\nResearch Assistant\nHuestis basement\nmarcie@uoneuro.uoregon.edu\n541-346-4512 x24\n-\n541-521-2408\nYes\n\n\nRebecca Montgomery\nResearch Associate\nHuestis basement\nandrews@uoneuro.uoregon.edu\n541-346-4512 x13\n541-342-6604\n-\n-\n\n\nThom Montgomery\nResearch Assistant\nHuestis basement\nmontgom@uoneuro.uoregon.edu\n541-346-4512 x13\n541-342-6604\n-\n-\n\n\n\n\n\n\n\n12.3.2 Essential Staff at ZIRC\n\n\n\n\n\n\nZIRC Facility Contacts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nName\nPosition\nLocation\nEmail\nOffice\nHome\nCell\nAvailable\n\n\n\n\nZoltan Varga\nDir/Research Assoc\n1307 Franklin\nzoltan@zebrafish.org\n541-346-6099\n541-689-2347\n541-915-7336\nYes\n\n\nMonte Westerfield\nDir/PI\n337 Huestis\nmonte@uoregon.edu\n541-346-4607\n541-343-5637\n541-914-3813\nYes\n\n\nKatrina Murray\nVeterinarian\n1307 Franklin\nkaty@zebrafish.org\n541-346-6028\n541-343-2517\n541-579-1419\nYes\n\n\nApril Freeman\nManager\n1307 Franklin\napril@zebrafish.org\n541-346-6028\n541-461-7922\n541-514-8310\nYes\n\n\nDavid Lains\nAquaculturist\n1307 Franklin\ndavid@zebrafish.org\n541-346-6028\n541-344-7623\n541-228-4578\nYes\n\n\nRon Holland\nIT Admin\n1307 Franklin\nron@zebrafish.org\n541-346-6028\n541-683-6926\n-\nNo\n\n\nAnwar Adi\nIT Tech\n1307 Franklin\nanwar@zebrafish.org\n541-346-6028\n-\n541-513-7857\nYes\n\n\nJustin Bauer\nAnimal Tech\n1307 Franklin\njustin@zebrafish.org\n541-346-6028\n-\n541-255-5259\nYes\n\n\nCalvin Smith\nAnimal Tech\n1307 Franklin\ncalvin@zebrafish.org\n541-346-6028\n-\n541-953-8786\nYes\n\n\n\n\n\n\n\n12.3.3 Essential Staff at Pacific Stickleback Facility\n\n\n\n\n\n\nStickleback Facility Contacts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nName\nPosition\nLocation\nEmail\nOffice\nHome\nCell\nAvailable\n\n\n\n\nMark Currey\nManager\nPacific 324\nmcurrey@uoregon.edu\n541-346-5189\n541-685-1237\n541-505-0006\nYes\n\n\nBill Cresko\nPI\nPacific 312\nwcresko@uoregon.edu\n541-346-4779\n-\n541-285-5446\nYes\n\n\nSusie Bassham\nSenior Research Associate\nPacific 324\nsbassham@uoregon.edu\n541-346-5189\n541-461-9498\n541-915-9970\nYes",
+    "crumbs": [
+      "Stickleback Husbandry",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Stickleback Husbandry - Emergency</span>"
+    ]
+  },
+  {
+    "objectID": "17-pipefish_husbandry_protocols.html",
+    "href": "17-pipefish_husbandry_protocols.html",
+    "title": "13  Pipefish Husbandry - General",
+    "section": "",
+    "text": "13.1 Pipefish Feeding",
+    "crumbs": [
+      "Other Animal Protocols",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pipefish Husbandry - General</span>"
+    ]
+  },
+  {
+    "objectID": "17-pipefish_husbandry_protocols.html#sec-pipefish-feeding",
+    "href": "17-pipefish_husbandry_protocols.html#sec-pipefish-feeding",
+    "title": "13  Pipefish Husbandry - General",
+    "section": "",
+    "text": "Note\n\n\n\nCreated by: M Currey, 7/23/09\n\n\n\n13.1.1 Materials Needed\n\nDecapsualted Brine Shrimp (see artemia decapsulations SOP)\nAdult Brine Shrimp\nLive Moina\nFrozen myisid Shrimp\nLive mysid shrimp\nShrimp collector\nSquirt Bottle\n\n\n\n13.1.2 Fish foods for fry, juvenile and adults\n\n\n\n\n\n\nFeeding Schedule\n\n\n\n\nFry - newly hatched baby brine shrimp (see hatching brine shrimp SOP), salt water copepods. Fry are fed once per day\nAdult – newly hatched brine shrimp, Adult brine shrimp, Moina. Adults are fed once per day\n\n\n\nFeed adult brine shrimp when we have them. Use moina when we are out of adult brine shrimp. Adult brine shrimp are from a local fish store and are only available every two weeks. They last ~ one week and therefore adult pipefish are fed adult brine shrimp for one week and moina the next.\n\n\n13.1.3 Feeding Fry\n\n\n\n\n\n\nNote\n\n\n\nFry tanks are designated with an orange dot.\n\n\n\nNewly hatched brine: Collect newly hatched brine and place into a squirt bottle (see brine shrimp SOP). Feed all tanks with an orange dot.\n\n\n\n13.1.4 Feeding Adults\n\n\n\n\n\n\nNote\n\n\n\nAdult tanks are designated with a yellow dot.\n\n\n\nNewly hatched brine: Collect newly hatched brine and place into a squirt bottle (see brine shrimp SOP). Feed all tanks with an orange dot.\nFrozen Mysis: Obtain a quarter-sized piece of frozen mysis from the freezer. Place into squirt bottle and add water. Wait until mysis thaws and feed to all adult tanks.\nAdult Brine shrimp: Scoop out adult brine shrimp with net. Wash into a ball and place over the top of squirt bottle. Wash ball of brine into squirt bottle and feed all adult pipefish.\nMoina: Scoop out with net and wash into a ball. Invert ball over collection beaker and wash moina into beaker. Pour moina into squirt bottle and feed.\nLive Mysid: See live foods SOP",
+    "crumbs": [
+      "Other Animal Protocols",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pipefish Husbandry - General</span>"
+    ]
+  },
+  {
+    "objectID": "17-pipefish_husbandry_protocols.html#sec-moina-culture",
+    "href": "17-pipefish_husbandry_protocols.html#sec-moina-culture",
+    "title": "13  Pipefish Husbandry - General",
+    "section": "13.2 Live Food Culture - Moina",
+    "text": "13.2 Live Food Culture - Moina\n\n13.2.1 Materials\n\n10 gallon glass tanks\nCorner sponge filter\nAir supply\nRotifer diet\nPowdered nannochloropsis\n\n\n\n13.2.2 Procedure\n\nFill 10 gallon tank 3/4 full of stickleback system water\nAdd corner filter and activate with air\nAdd Moina\nChange water once every 2-3 weeks by removing half of the water and replacing with stickleback water\n\n\n\n\n\n\n\nWarning\n\n\n\nDO NOT break tank down and clean as moina do not respond well to this.\n\n\n\n\n13.2.3 Feeding\nAdd 15 drops of rotifer diet and 1/8 scoop of powdered nannochloropsis each day.\n\n\n13.2.4 Collection and feeding to fish\nSee Section 13.1.4",
+    "crumbs": [
+      "Other Animal Protocols",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pipefish Husbandry - General</span>"
+    ]
+  },
+  {
+    "objectID": "17-pipefish_husbandry_protocols.html#sec-mysid-culture",
+    "href": "17-pipefish_husbandry_protocols.html#sec-mysid-culture",
+    "title": "13  Pipefish Husbandry - General",
+    "section": "13.3 Live Food Culture - Mysid Shrimp",
+    "text": "13.3 Live Food Culture - Mysid Shrimp\n\n\n\n\n\n\nTip\n\n\n\nFor a description of the mysid generator please visit: http://www.mblaquaculture.com/assets/docs/MBL_AQ_Mysid_Generator.pdf\n\n\n\n13.3.1 Materials\n\n10 gallon tank generator system\nSalt water\n\n\n\n13.3.2 Feeding\nFeed newly hatched brine shrimp daily to both adults and juveniles.\n\n\n13.3.3 Water Change\n\n2-3 times per week empty 5 gallons of water from the system and replace with new make up water\nMake new water in 5 gallon bucket by adding DI water and 2 scoops of salt\n\n\n\n13.3.4 Juvenile Collection (Daily)\n\nTurn off water to tanks\nRemove collection cup, using mysid system water, rinse juveniles into plastic container\nPour juveniles into grow out tank\nReplace collection cup\nTurn water on and start siphon\n\n\n\n13.3.5 Adults collection and feeding to pipefish\n\n\n\n\n\n\nNote\n\n\n\nJuvenile will reach adult size in three weeks. At three weeks these new adults will replace old breeding adults. The old breeding adults that are being replaced are feed to the pipefish.\n\n\n\nLet juveniles grow to three weeks at which point they reach adult stage\nSiphon adults through a net and collect in a container\nSiphon old adults out of one of the 10 gallon tanks and feed to pipefish\nClean tank, fill with water and add new adult",
+    "crumbs": [
+      "Other Animal Protocols",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pipefish Husbandry - General</span>"
+    ]
+  },
+  {
+    "objectID": "18-stickleback_field_collection.html",
+    "href": "18-stickleback_field_collection.html",
+    "title": "14  Stickleback Field Collection",
+    "section": "",
+    "text": "14.1 Stickleback Wild Collections",
+    "crumbs": [
+      "Other Animal Protocols",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Stickleback Field Collection</span>"
+    ]
+  },
+  {
+    "objectID": "18-stickleback_field_collection.html#sec-wild-collections",
+    "href": "18-stickleback_field_collection.html#sec-wild-collections",
+    "title": "14  Stickleback Field Collection",
+    "section": "",
+    "text": "Note\n\n\n\nCreated by: M Currey, September 10, 2012\n\n\n\n14.1.1 Materials\nRequired:\n\nMinnow Traps\n95% ETOH\nMesab (see fish Euthanasia SOP)\nField Notebook\n500 and 1000ml Nalgene bottles\nBucket\nNet\nMouse cage\nGloves\nCrossing materials (see stickleback crossing SOP)\n\nOptional:\n\nWaders\nKayak\n\n\n\n14.1.2 Minnow trap collecting\n\n\n\n\n\n\nWarning\n\n\n\nCare should be taken when setting traps in tidally influenced waters as traps that are set above the low water line have the potential to leave fish without water resulting in fish fatality.\n\n\n\nPlace traps in areas with cover\nTether trap to shore or other non-movable object\nLeave traps up to but not over 24 hours. Traps may need to be checked more frequently depending on the tidal influence of water body being investigated\nPull traps looking for endangered species such as salmonids, Oregon chub, and/or Bull Trout. If an endangered species is noticed open trap under water and release all of the fish\nIf no endangered species are noticed, remove trap from the water and empty contents in a bucket filled 1/3 with water from where the trapping is taking place\nRemove, count, and record all stickleback and non-stickleback species. This will be used for ODFW reporting at the end of the year\nRecord (in field notebook); collecting location, GPS coordinates, water temp, water type, water condition, substrate condition, vegetation condition, pH (if possible), D.O. (if possible), and other environmental measurements\n\n\n\n14.1.3 Trap Disinfection\n\n\n\n\n\n\nImportant\n\n\n\nWhen trapping between watersheds or between different water bodies within a watershed that ODFW has requested that we disinfect our traps (see comments for current ODFW fish take permit) please do the following:\n\n\n\nLet minnow traps air dry for ~ 1 week between collecting locations\nFurther steps may be needed depending on the invasive species encountered. Updates will come soon",
+    "crumbs": [
+      "Other Animal Protocols",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Stickleback Field Collection</span>"
+    ]
+  },
+  {
+    "objectID": "18-stickleback_field_collection.html#sec-field-euthanize-storage",
+    "href": "18-stickleback_field_collection.html#sec-field-euthanize-storage",
+    "title": "14  Stickleback Field Collection",
+    "section": "14.2 Euthanize and Storage of Collected Fish",
+    "text": "14.2 Euthanize and Storage of Collected Fish\n\n\n\n\n\n\nNote\n\n\n\nThis should be done with fish that are to be used in phenotypic and genetic investigations.\n\n\n\nEuthanize fish using MS222 (see Fish Euthanasia and Anesthesia SOP)\nCollect fish by pouring fish through a net. MS222 can be collected by pouring solution into a secondary container\nPlace fish into a Nalgene container and fill with 95% ETOH\n\n\n\n\n\n\n\nWarning\n\n\n\nDo not fill bottle over half full with fish as fluids coming out of fish can dilute ETOH to the point that DNA/Tissue degradation can take place.\n\n\n\nReturn to lab and assign stock #\nAlternatively, euthanized fish can be flash frozen by placing in liquid nitrogen and stored in dry ice if high quality DNA is required",
+    "crumbs": [
+      "Other Animal Protocols",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Stickleback Field Collection</span>"
+    ]
+  },
+  {
+    "objectID": "18-stickleback_field_collection.html#sec-wild-crosses-intro",
+    "href": "18-stickleback_field_collection.html#sec-wild-crosses-intro",
+    "title": "14  Stickleback Field Collection",
+    "section": "14.3 Wild Crosses Introduction into the Lab",
+    "text": "14.3 Wild Crosses Introduction into the Lab\n\n\n\n\n\n\nTip\n\n\n\nCross-reference to related protocols for breeding and embryo handling.\n\n\n\nCrosses fish (see stickleback crossing SOP)\nBleach embryos (see embryo bleaching SOP)\nIntroduce into fish system (see stickleback crossing SOP)\nIf embryos are to be fixed and used for investigation fix embryos (see Embryo and larval euthanasia SOP)",
+    "crumbs": [
+      "Other Animal Protocols",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Stickleback Field Collection</span>"
+    ]
+  },
+  {
+    "objectID": "19-stickleback_manipulation.html",
+    "href": "19-stickleback_manipulation.html",
+    "title": "15  Stickleback Manipulations - General",
+    "section": "",
+    "text": "15.1 Live Fin Clipping of Stickleback",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Stickleback Manipulations - General</span>"
+    ]
+  },
+  {
+    "objectID": "19-stickleback_manipulation.html#sec-fin-clipping",
+    "href": "19-stickleback_manipulation.html#sec-fin-clipping",
+    "title": "15  Stickleback Manipulations - General",
+    "section": "",
+    "text": "Note\n\n\n\nCreated: April 06, 2010 by M Currey\n\n\n\n15.1.1 Materials\n\nMS-222 Anesthesia solution (see fish anesthesia and euthanasia SOP)\nBeakers of fish water\nForceps and scissors\nBucket of ice\n1.5ml tubes\nMelafix (antifungal and antibacterial agent)\n\n\n\n15.1.2 Procedure\n\n\n\n\n\n\nTip\n\n\n\nTo minimize fish’s exposure to MS-222, do all labeling of tubes and vials prior to fin clipping.\n\n\n\nTo minimize fish’s exposure to MS-222, do all labeling of tubes and vials prior to fin clipping\nPlace fish in beaker containing MS-222 anesthesia dose (168 mg/L)\nOnce the breathing of the fish slows take fish out of water and remove caudal fin with scissors and forceps\n\n\n\n\n\n\n\nNote\n\n\n\nNote: To observe slowed breathing watch the operculum movement. This movement will slow and the fish will turn on it’s side.\n\n\n\nPlace fin in labeled 1.5 ml tube on ice\nPut fish into clean system water and move gently to force water over gills\nOnce fish is revived and swimming upright, put fish into container back on the aquaculture system and add Melafix according to manufacturers recommendations",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Stickleback Manipulations - General</span>"
+    ]
+  },
+  {
+    "objectID": "19-stickleback_manipulation.html#sec-live-alizarin-staining",
+    "href": "19-stickleback_manipulation.html#sec-live-alizarin-staining",
+    "title": "15  Stickleback Manipulations - General",
+    "section": "15.2 Live Stickleback Alizarin Staining",
+    "text": "15.2 Live Stickleback Alizarin Staining\n\n\n\n\n\n\nNote\n\n\n\nCreated: 4/6/10 by M Currey Adapted from: protocol by Bonnie Ullmann\n\n\n\n15.2.1 Materials\n\nMS-222 Anesthesia solution (see fish anesthesia and euthanasia SOP)\nBeakers of fish water\nAlizarin Red S (sodium alizarin sulfonate)\n\n\n\n15.2.2 Solutions\nAlizarin stock solution: 0.5g Alizarin red/100ml in sterile water (SIGMA cat# A5533 Alizarin Red S, certified)\nFor 1 Liter:\n\n10 ml 1M HEPES\n980ml Embryo medium (Zebrafish Book, Westerfield, et al)\nAdd 10 ml 0.5% Alizarin Stock in sterile water\n\nFor 50 ml (enough for 100mm diameter petri dish):\n\n500 µl 1 M HEPES\n49 ml Embryo medium\nAdd 500 µl 0.5% Alizarin Stock in sterile water\n\n\n\n15.2.3 Procedures\n\nStain 1-2 hours for larvae to overnight for adult fish in the dark. Rinse thoroughly with embryo medium. Can observe right away, but background continues to go down with time\nBone fluorescence will decrease over time, so plan on imaging the same day if possible\nKeep fish in the dark as much as is reasonably convenient",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Stickleback Manipulations - General</span>"
+    ]
+  },
+  {
+    "objectID": "19-stickleback_manipulation.html#sec-embryo-injections",
+    "href": "19-stickleback_manipulation.html#sec-embryo-injections",
+    "title": "15  Stickleback Manipulations - General",
+    "section": "15.3 Embryo Injections",
+    "text": "15.3 Embryo Injections\n\n\n\n\n\n\nNote\n\n\n\nFrom: Zebrafish Book 4th addition chp 5 CHAPTER 5 - CELLULAR METHODS Source: E. Weinberg\n\n\nThis is an easy method for holding embryos while injecting DNA, lineage tracer dyes, etc., without removing their chorions. The embryos are held in wedged-shaped troughs made with a plastic mold in 1.5% agarose. Each trough can hold approximately 35 embryos (with chorions). Embryos can be aligned by gently tamping them down with forceps. Agarose is useful because pipette tips generally will not break if they accidently touch the surface. As the pipette penetrates the chorion, the embryo is forced against the rear vertical wall of the trough. The exact positioning of the pipette tip within the embryo is achieved by slight movement of the pipette with a micromanipulator or by movement of the stage.\n\n\n\n\n\n\nTip\n\n\n\nIf the pipette tip is thin and long enough, it can be withdrawn from the chorion without dragging the embryo out of the trough. A problem with thin pipettes, however, is that they lack the tensile strength to penetrate the chorion and bend when forced onto the chorion surface. Thicker pipettes do not easily slip out of the chorion, although the embryo can be held with forceps as the pipette is slowly withdrawn.\n\n\nAlternatively, a plastic cover can be used to impede the withdrawal of the embryo. The plastic cover fits snugly into the indentation in the agarose created by the plastic mold. The slits in the cover can be aligned with the somewhat narrower troughs in the agarose by sliding the cover from side to side. (The width of the cover is 2.0 mm less than that of the mold allowing one to achieve the desired position for injection.) The cover is 1.0 mm thick at the border, but only 0.7 mm thick between the openings so the embryos will slide off the pipette more readily.\n\n15.3.1 Making the chambers\n\nPour approximately 20 ml of hot 1.5% agarose in embryo medium into a 100 x 15 Petri dish on a level surface. Wait until completely solidified\nAdd an additional 20 ml of the 1.5% agarose to the dish. Set the plastic mold (teeth down) into the liquid agarose overlay, tapping to eliminate any bubbles\nAfter the agarose sets, add a small amount of medium, wrap the Petri dish in parafilm, and store in the refrigerator\n\n\n\n15.3.2 Injecting\n\nWarm the Petri dish to the temperature you prefer for injection (embryos can tolerate 18°C for about 1 hour, and the slower division rate allows more time to inject at the 1 and 2 cell stage)\nRemove the plastic mold\nPosition the dish on a microscope stage and adjust the angle of the pipette so that you can aim directly into the trough\nTransfer embryos into the troughs and set the plastic cover with slits into the depression in the agarose\nUsing forceps, align the embryos all in the same orientation. Add enough culture medium so that the level reaches the plastic edges of the slits. Gently tamp the embryos down into the trough\nUsing controls on the micromanipulator, force the pipette through the chorion and the yolk cell, entering the embryonic cell(s) from the yolk cell. (You might prefer to enter the embryonic cell directly; in this case, you would choose a different orientation of the embryo in the trough)\nAs the pipette goes through the yolk, move the Petri dish a bit so that the pipette is close to the plastic cover\nInject the desired volume of solution and then withdraw the pipette with a slow steady motion. The embryo will catch on the plastic cover and drop back into the trough\nTransfer the embryos into a dish with embryo medium and maintain at 28.5°C for further development\n\n\n\n\n\n\n\nNote\n\n\n\nTop view and cross-section of the plastic slot maker (A) and plastic cover piece (B). All dimensions are in mm. An enlarged view of a cross-section of the teeth is shown in the lower part of panel (A). The area within the dotted lines, in the diagram of the cover piece in panel (B), is 0.7 mm thick whereas the border area outside the dotted lines is 1.0 mm thick.",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Stickleback Manipulations - General</span>"
+    ]
+  },
+  {
+    "objectID": "19-stickleback_manipulation.html#sec-salinity-exposure",
+    "href": "19-stickleback_manipulation.html#sec-salinity-exposure",
+    "title": "15  Stickleback Manipulations - General",
+    "section": "15.4 Salinity Exposure",
+    "text": "15.4 Salinity Exposure\n\n\n\n\n\n\nNote\n\n\n\nCreated: August 8, 2011 by Ann Petersen\n\n\n\n15.4.1 Materials\n\nMS-222 Anesthesia solution (168 mg/L) (see fish anesthesia and euthanasia SOP)\nGlass containers of fish water of varying salinity ranging from 2 - 32 ppt\nGlass 1 gallon fish containers (not plastic due to endocrine disruptive properties)\nInstant Ocean saltwater mix at concentrations of\n\n2ppt “Freshwater” environment (40g Instant Ocean/ 20L Nanopure H20)\n15ppt “Brackish” environment (300g Instant Ocean/ 20L Nanopure H20)\n30ppt “Ocean” environment (600g Instant Ocean/ 20L Nanopure H20)\n\nStickleback fish feeding SOP supplies (artemia, dry flakes, etc.)\nStickleback fish crossing and rearing SOP supplies\n\n\n\n15.4.2 Procedure\n\nFollow stickleback crossing and rearing SOP to generate 100-200 fertilized embryos\nPlace petri dish with fertilized eggs and embryo medium (6ppt Instant Ocean) in common 20C incubator for 4 hours\nAfter 4 hours, remove any embryos that are arrested or deformed. Using a transfer pipette, transfer the healthy embryos to a petri dish containing the experimental treatment, freshwater, brackish water, or ocean water\nReturn the embryos to the 20C incubator\nOn a daily basis, check on development of embryos. Change water every day, making sure to replace with correct salinity treatment. Remove the dead or deformed\nAt 8 dpf, after the embryos have hatched, move them to a 1 gallon glass jar full of the appropriate salinity water\nOn 9dpf, feed each jar enough artemia so that it is consumed by the juveniles within 15-30 minutes\nFeed and change water every other day. Do not overcrowd as outlined in stickleback SOP. Check on fish at least twice EVERY DAY, and use the care checklist to denote daily health check, feeding, and water change. Look for sick or stressed fish (low rate of opercular fluttering, bad color, floating upside down, etc.)\n\n\n\n\n\n\n\nImportant\n\n\n\nCheck water quality on two random tanks in each treatment once every two days before water has been changed. If ammonia and/or nitrite are detected then change water more frequently, check water quality daily, and denote this on checklist. Ideal ammonia and nitrite levels are 0 ppm.\n\n\n\nAt designated time of interest up to 40 days post-fertilization, remove fish with a small clean net\nPlace fish in beaker containing MS-222 euthanasia dose (300 mg/L)\nWait for fish’s operculum to stop moving, wait 10 minutes and fix\nFix appropriately in liquid nitrogen, 4%PFA, or Bouin’s\nIf downstream application requires instantaneous, non stressed measurement of gene transcription, remove fish from water, rapidly blot, and sacrifice directly into liquid nitrogen or RNAlater",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Stickleback Manipulations - General</span>"
+    ]
+  },
+  {
+    "objectID": "19-stickleback_manipulation.html#sec-colchicine-injection",
+    "href": "19-stickleback_manipulation.html#sec-colchicine-injection",
+    "title": "15  Stickleback Manipulations - General",
+    "section": "15.5 Intraperitoneal Colchicine Injection into Adult Stickleback",
+    "text": "15.5 Intraperitoneal Colchicine Injection into Adult Stickleback\n\n\n\n\n\n\nNote\n\n\n\nCreated: July 12, 2013 by Susie Bassham\n\n\n\n15.5.1 Purpose\nColchicine causes dividing cells to accumulate in metaphase. Cells harvested from spleen and/or kidney of euthanized, colchicine-injected fish will be used for preparing metaphase chromosome spreads on slides. These slides will be used in Fluorescent In Situ Hybridization (FISH) experiments to detect chromosome structural variations. Every effort will be made to maximize the number FISH experiments that can be carried out from the tissue of each fish sacrificed.\n\n\n15.5.2 Materials\n\n168 mg/L MS-222\nSlit Sponge\nColchine in Cortland’s Salt Solution (see recipe below)\n35 G beveled steel needle\n300 mg/L MS-222\n\n\n\n15.5.3 Cortland’s Salt Solution\nFor 100 ml volume dissolve the following in distilled water:\n\n725 mg NaCl (124.1 mM)\n38 mg KCl (5.1 mM)\n41 mg Na2HPO4 (2.9 mM)\n24 mg MgSO4∙7H2O (1.9 mM)\n16 mg CaCL2∙2H2O (91.4 mM)\n100 mg NaHCO3 (11.9 mM)\n4 g Polyvinylpyrrolidone (PVP) (4%)\n1,000 USP units of Heparin\n\nFilter, sterilize and store at 4°C.\n\n\n15.5.4 Procedure\n\nAnesthetize adult stickleback in buffered 168 mg/L MS-222\nCradle anesthetized fish, ventral side up, in a slit sponge saturated with 168mg/L MS-222\nInject 10 µl of filter-sterilized 1% colchicine in Cortland’s salt solution into the peritoneal cavity using a 35G beveled steel needle inserted near the pelvic spines\nQuickly return fish to fish water for recovery from anesthesia\n12-14 hours later, euthanize fish with 300 mg/mL MS-222 until opercular movement stops (See Euthanization SOP)\n\n\n\n15.5.5 Citations\nUrton, J.R, McCann, S.R., and Peichel, C.L. (2011) Karyotype differentiation between two stickleback species (Gasterosteidae) Cytogenet Genome Res. 135(2): 150–159. doi: 10.1159/000331232\nKinkel, M. D., Eames, S. C., Philipson, L. H., Prince, V. E. Intraperitoneal Injection into Adult Zebrafish. J. Vis. Exp. (42), e2126, doi:10.3791/2126 (2010).\nPerry, S.F., Davie, P.S., Daxboeck, C., Ellis, A.G., & Smith, D.G. (1984). Perfusion methods for the study of gill physiology. In W.S. Hoar & D.J. Randall (Eds.), Gills: Part B. Ion and water transfer (series title: Fish physiology, vol. 10). Orlando: Academic Press.",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Stickleback Manipulations - General</span>"
+    ]
+  },
+  {
+    "objectID": "19-stickleback_manipulation.html#sec-edu-labeling",
+    "href": "19-stickleback_manipulation.html#sec-edu-labeling",
+    "title": "15  Stickleback Manipulations - General",
+    "section": "15.6 EdU Labeling of Young Threespine Stickleback",
+    "text": "15.6 EdU Labeling of Young Threespine Stickleback\n\n\n\n\n\n\nNote\n\n\n\nCreated: 10/22/2014 by Kristin Alligood\n\n\n\n15.6.1 Purpose\nThis protocol allows for visualization of proliferating cells. EdU (5-ethynyl-2’-deoxyuridine) is a small molecule that is incorporated into DNA during active DNA synthesis. Detection is based on a “click reaction”, a copper-catalyzed covalent reaction between and azide and an alkyne. Kit purchased from Invitrogen: Click-iT EdU Alexa Fluor Imaging Kit\n\n\n15.6.2 Materials\nNot provided in kit:\n\nPhosphate-buffered saline (PBS, pH 7.2-7.6)\n3% Bovine serum albumin (BSA) in PBS, pH 7.4\nDeionized water\nEmbryo Medium\n90 mm sterile petri dishes\n\n\n\n15.6.3 Procedure\n\nEdU labeling and fixation\n\nIncubate 9-11dpf larvae for 6-8 hours in 1mM EdU (5-ethynyl-2’-deoxyuridine) in embryo medium in 90mm disposable sterile petri dishes (standard)\nEuthanize larvae with MS-222 and fix overnight at 4C in 4% PFA (in PBS), (see embryo euthanasia and fixation protocol)\nWash fixed fish in PBSTx (1% Triton X-100 in 1x PBS)\nPrepare embryos for fluorescent in situ hybridization for probe of choice (Col10a1)\n\n\n\nEdU detection\n\nPrepare a 1X Click-iT EdU buffer additive by diluting the 10X stock solution 1:10 in nanopure water. Always prepare this fresh and use the solution on the same day (this is the last component to add in the table)\n\n\n\n\n\n\n\nTip\n\n\n\nTo make the 10X stock solution: Use Click-iT EdU buffer additive (Component F)— add 2mL of nano pure water to the bottle, then mix until fully dissolved. After the 10X solution is made, store the remaining stock solution in the -20 freezer.\n\n\n\nPrepare the 1X Click-iT reaction buffer. Prepare from Component D (10X solution)\nDilute 1:10 with nanopure water\nPrepare the Click-iT reaction cocktail. Add reagents in the order listed:\n\nWash embryos 4 x 3 min was in 3% BSA in PBST\nIncubate in reaction cocktail for 1 hr in dark\nWash with 3% BSA/PBS in dark\nMount on slide with vectashield (includes DAPI in medium)",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Stickleback Manipulations - General</span>"
+    ]
+  },
+  {
+    "objectID": "19-stickleback_manipulation.html#sec-perchlorate-exposure",
+    "href": "19-stickleback_manipulation.html#sec-perchlorate-exposure",
+    "title": "15  Stickleback Manipulations - General",
+    "section": "15.7 Perchlorate Exposure",
+    "text": "15.7 Perchlorate Exposure\n\n\n\n\n\n\nNote\n\n\n\nCreated: 8/1/11 by Ann Petersen\n\n\n\n15.7.1 Materials\n\nMS-222 Anesthesia solution (see fish anesthesia and euthanasia SOP)\n2 Glass containers of embryo medium (6ppt Instant Ocean), one with added 100ppm NaCLO4 (sodium perchlorate)\nGlass 1 gallon fish containers (not plastic due to endocrine disruptive properties) with loose fitting lids\nStickleback fish feeding SOP supplies (artemia, dry flakes, etc.)\nStickleback fish crossing and rearing SOP supplies\n\n\n\n15.7.2 Procedure\n\n\n\n\n\n\nWarning\n\n\n\nProperly dispose of all perchlorate treated water into carboy marked “perchlorate water”. Wear gloves and closed toe shoes.\n\n\n\nFollow stickleback crossing and rearing SOP to generate 100-200 fertilized embryos of both Boot Lake and Rabbit Slough populations\nPlace petri with fertilized eggs in embryo medium (6ppt Instant Ocean) and place in common 20C incubator in Pacific 324 for 4 hours\nAfter 4 hours, pipette off any embryos that are arrested or are deformed. Using a transfer pipette, transfer the healthy embryos to a petri dish containing the experimental treatment or the control. Properly dispose of all perchlorate treated water into carboy marked “perchlorate water”. Wear gloves and closed toe shoes\nReturn to 20C incubator marked “perchlorate experiment” for the perchlorate treated embryos. Return controls to common use incubator\nOn a daily basis, check on development of embryos. Change water every day, making sure to replace with correct perchlorate treatment. Remove the dead or deformed embryos\nAt 8 dpf, after the embryos have hatched, move them to a 1 gallon glass jar full of the appropriate salinity water\nOn 9dpf, feed the juveniles in each jar enough artemia so that it is consumed within 15-30 minutes\nFeed and change water every other day. Do not overcrowd as outlined in stickleback SOP. Check on fish at least twice EVERY DAY, and use the care checklist to denote daily health check, feeding, and water change. Look for sick or stressed fish (low rate of opercular fluttering, bad color, floating upside down, etc.)\nCheck water quality on two random tanks in each treatment once every two days before water has been changed. If ammonia and/or nitrite are detected then change water more frequently, check water quality daily, and denote this on checklist. Ideal ammonia and nitrite levels are 0ppm\nAt designated time of interest up to 40 days post-fertilization, remove fish with a small clean net\nPlace fish in beaker containing MS-222 euthanasia dose (300 mg/L)\nWait for fish’s operculum to stop moving, wait 10 minutes and fix\nFix appropriately in liquid nitrogen, 4%PFA, or Bouin’s\nIf downstream application requires instantaneous, non stressed measurement of gene transcription, remove fish from water, rapidly blot, and sacrifice directly into liquid nitrogen or RNAlater",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Stickleback Manipulations - General</span>"
+    ]
+  },
+  {
+    "objectID": "19-stickleback_manipulation.html#sec-blood-collection",
+    "href": "19-stickleback_manipulation.html#sec-blood-collection",
+    "title": "15  Stickleback Manipulations - General",
+    "section": "15.8 Fish Blood Collection",
+    "text": "15.8 Fish Blood Collection\n\n\n\n\n\n\nNote\n\n\n\nCreated: 8/1/11 by Ann Petersen Modified from: Canada Department of Fisheries and Oceans Animal-User Training Template\n\n\n\n15.8.1 Materials\n\nMS-222 (tricaine-methanosulfanate)\nGloves to be worn when handling fish, anaesthesia water, blood samples\nDisinfectant for cleaning after blood sample\nScalpal or sharp knife for tail ablation\nSterile needles or vacutainer needles from 14-30 gauge\nSyringe for collecting samples\nHematocrit tubes\nCritoseal\nSharps container for needles\nWhatman 903 Specimen collection paper\n\n\n\n15.8.2 Human Safety Measures",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Stickleback Manipulations - General</span>"
+    ]
+  },
+  {
+    "objectID": "19-stickleback_manipulation.html#safety-precautions",
+    "href": "19-stickleback_manipulation.html#safety-precautions",
+    "title": "15  Stickleback Manipulations - General",
+    "section": "15.9 Safety Precautions",
+    "text": "15.9 Safety Precautions\n\nWear gloves at all times when handling blood collection equipment. While this will not prevent accidents, it may reduce the risk of contamination\nNever attempt to re-sheath needles. Always discard them into a sharps container immediately after use\nNever overfill the sharps container\nPlace the sharps container in the area you are working to avoid transporting needles outside of your work area\nEnsure the work area is clean\nWash hands after handling fish blood",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Stickleback Manipulations - General</span>"
+    ]
+  },
+  {
+    "objectID": "20-stickleback_manipulation_gnotobiotic.html",
+    "href": "20-stickleback_manipulation_gnotobiotic.html",
+    "title": "16  Stickleback Manipulations - Gnotobiotic",
+    "section": "",
+    "text": "16.1 Derivation of Germ-Free Stickleback",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Stickleback Manipulations - Gnotobiotic</span>"
+    ]
+  },
+  {
+    "objectID": "20-stickleback_manipulation_gnotobiotic.html#sec-germ-free-derivation",
+    "href": "20-stickleback_manipulation_gnotobiotic.html#sec-germ-free-derivation",
+    "title": "16  Stickleback Manipulations - Gnotobiotic",
+    "section": "",
+    "text": "16.1.1 Purpose\nThis procedure describes the creation of germ-free threespine stickleback.\n\n\n16.1.2 Materials\n\nSolutions\nStickleback medium (SM):\n\n6g Instant Ocean (Aquqarium Systems)\n1L dH20\n\n\n\nDrug stocks\n\n\n\n\n\n\nNote\n\n\n\nAll stored at -20°C\n\n\n\n100mg/ml Ampicillin\n50mg/ml Kanamycin\n8mg/ml Amphotericin\n\n\n\nMake the following up fresh each time\nAntibiotic Stickleback Medium:\n\n250ul Ampicillin 100mg/ml (100ug/ml final)\n25ul Kanamycin 50mg/ml (5ug/ml final)\n7.8ul Amphotericin B 8mg/ml (250ng/ml final)\n250 ml Stickleback medium\nFilter sterilize\n\n0.003% Bleach solution:\n\n125ul 6.0% bleach solution\n250ml SM\nFilter sterilize\n\n0.2% PVP-I solution (Polyvinylpyrrolidone-iodine [0.01% free iodine] Western Chemical Inc.):\n\n5ml 10% PVP-I stock\n245ml SM\nFilter sterilize\n\n0.4% Tricaine (3-amino benzoic acidethylester):\n\n\n\n\n\n\nImportant\n\n\n\nTricaine must be pharmaceutical-grade. (We use tricaine purchased from Aquaic Ecosystems, manufactured by Western Chemical and FDA approved)\n\n\n\n400mg Tricaine\n97.9 ml SM\nAdjust to pH 7.0\nThis can be made ahead of time and stored for long periods at -20°C or for up to 2 weeks at 4°C\n\n\n\n\n16.1.3 Procedure\n\nA. Collect embryos as per approved protocol\n\n\n\n\n\n\nTip\n\n\n\nPlease see the Stickleback Crossing SOP with the following modifications:\n\n\n\nSqueeze eggs from females into sterile petri dishes\nEuthanize the male in freshly made tricaine with stickleback medium (SM)\nClean the surface of the dissection area, scissors and forceps with 70% or 95% ethanol\nSpray the outside of the euthanized male with 95% ethanol prior to dissection, and wipe body with Kimwipe\nWhen testes have been collected, use clean, new razor to cut up the testes\nFertilize eggs in filter sterilized antibiotic stickleback medium\nIncubate eggs at 20°C until eggs reach 2 cell stage ~2 hours post fertilization, remove non-viable embryos from 2 cell stage eggs, and rinse viable embryos with fresh antibiotic stickleback medium 2X\n\n\n\nB. About 6 hours post fertilization, transfer viable embryos into 50 ml beakers\n\n\n\n\n\n\nImportant\n\n\n\nTo increase the probability of maintaining sterility wear standard latex laboratory gloves for subsequent steps of protocol.\n\n\nTransfer viable embryos into sterile, autoclaved 50ml beaker containing ~40 ml filter sterilized stickleback medium.\n\n\nC. Clean embryos in hood\n\n\n\n\n\n\nNote\n\n\n\nTransfer into the hood to minimize number of times entering and exiting the hood (per 100 embryos cleaned)\n\n\nMaterials needed in hood:\n\n3 sterile 50ml beakers with foil tops\nIndividually wrapped, sterile transfer pipettes\n1L filter sterilized stickleback medium\n0.003% bleach\n0.2-0.4% PVP-I (some flasks may be contaminated with 0.2% PVP-I, but more fish are likely to die in the 0.4% PVP-I)\n10 sterile flasks – 250 or 500cm² with screw topped caps (in hood, add 48ml sterile stickleback medium per 250cm² flask or 98ml per 500cm² prior to adding embryos)\n25ml or 50ml pipettes, sterile, individually wrapped\nPipette aid\nEmbryos in 50ml covered beaker\nLarge beaker for collecting liquid waste\n\nProcedure:\n\nTransfer embryos to clean beaker:\n\nPour off all but ~10ml SM carefully into waste container\nTransfer remaining 10ml SM with eggs into clean 50ml beaker\nAdd ~20ml sterile SM to old beaker to get remaining eggs\nTransfer remaining eggs to beaker\nBring volume in new beaker up to 50ml with sterile SM\n\nRinse embryos 3X with 50ml filter sterilized SM\nImmerse embryos in ~50ml 0.2-0.4% PVP-I solution for 10 minutes\nRinse embryos with sterile SM 1X\nTransfer embryos to fresh beaker as in step 1\nRinse embryos in sterile SM additional 2X\nImmerse embryos in 0.003% bleach for 10 minutes\nRinse embryos in sterile SM 1X\nTransfer embryos to fresh beaker as in step 1\nRinse embryos additional 2X in sterile SM\nTransfer 20-40 embryos to flasks containing sterile SM using sterile, individually wrapped pipettes\n\n\n\nD. Incubate embryos at 20°C\nIncubate embryos at 20°C in incubator in the Cresko Lab, stickleback husbandry room 324 Pacific.\n\n\nE. At 9 dpf, upon yolk absorption, feed larva and change and test water for contamination\n\nOn the daily checklist record the number of fish dead or not moving in response to external stimuli. In tissue culture hood, remove dead or not responsive (sick) fish\nEuthanize sick fish with tricaine, as per approved euthanization protocol\nIn tissue culture hood, remove 70% of fish water with sterile pipette\nReplace water with sterile stickleback medium\nAdd one scoop of irradiated Ziegler dry food to flask\nPlate 50ul to 100ul of water on TSA plates to check for contamination of bacteria",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Stickleback Manipulations - Gnotobiotic</span>"
+    ]
+  },
+  {
+    "objectID": "20-stickleback_manipulation_gnotobiotic.html#sec-gnotobiotic-feeding",
+    "href": "20-stickleback_manipulation_gnotobiotic.html#sec-gnotobiotic-feeding",
+    "title": "16  Stickleback Manipulations - Gnotobiotic",
+    "section": "16.2 Feeding Gnotobiotic Stickleback",
+    "text": "16.2 Feeding Gnotobiotic Stickleback\n\n16.2.1 Purpose\nThis procedure describes the feeding of gnotobiotic threespine stickleback.\n\n\n16.2.2 Materials\n\nSterile Zeigler food\n1ul inoculation loop (Cat 12000-808)\nSterile fish media\n~5g ammo-carb (Aquarium Pharmaceuticals, Inc)\n\n\n\n16.2.3 Procedure\n\nSee Protocol for collecting and sterilizing embryos. Rear about 20 fish per 50ml sterile antibiotic embryo medium (SM) in 250ml flasks with filter caps (VWR cat 82050-856) or 40 fish per 100ml flasks\nAliquot sterile Zeigler food into sterile 1.5ml snap top tubes in the hood\nAt 9dpf, add 1 scoop of sterile Zeigler food using a VWR, 1ul inoculation loop (Cat 12000-808). Repeat each day until the end of study\nChange 70% of media each day\nAt 11dpf, add an autoclaved packet of ~5g ammo-carb (Aquarium Pharmaceuticals, Inc) to the water to neutralize toxins. This packet will remain in the flask until the end of the experiment and then disposed\n\n\n\n\n\n\n\nNote\n\n\n\nThe Zeigler food is derived from the following reference: Pham, Kanther, Semova and Rawls. Nature Protocols, 2008; 3(12):1862-1875.",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Stickleback Manipulations - Gnotobiotic</span>"
+    ]
+  },
+  {
+    "objectID": "20-stickleback_manipulation_gnotobiotic.html#sec-mono-associated",
+    "href": "20-stickleback_manipulation_gnotobiotic.html#sec-mono-associated",
+    "title": "16  Stickleback Manipulations - Gnotobiotic",
+    "section": "16.3 Mono-associated Protocol for Stickleback",
+    "text": "16.3 Mono-associated Protocol for Stickleback\n\n16.3.1 Purpose\nThis protocol is used to determine whether the microbial community of one strain of stickleback can colonize the gut of another strain that is evolutionarily different. This protocol has been adapted for use in stickleback from an established, approved zebrafish protocol.\n\n\n16.3.2 Procedure\n\n\n\n\n\n\nImportant\n\n\n\nThe bacterial inoculums should be determined empirically for each species used. For many bacteria 10⁴ Colony Forming Units (CFUs) per milliliter of stickleback medium will suffice for full colonization of the intestine and minimal toxicity to the fish.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nDead larvae in the flask will be removed as this will often result in increased bacterial growth that can ultimately be fatal to the remaining larvae.\n\n\nThe method below is used for several proteobacteria strains:\n\nRaise fish in a germ-free environment as described in Section 16.1\nIncubate bacteria for 16 hours in 50ml of growth medium in 250 ml flask at 25°C, 200 RPM. These bacteria will originate from the intestine of a healthy stickleback to ensure that the bacteria are not pathogens\nMeasure the Optical Density₆₀₀ (OD₆₀₀) of the culture\nCalculate the original culture density, assuming 1 OD₆₀₀ = 10⁹ CFU / ml\nDilute the culture to pre-determined concentration as needed in filter sterilized stickleback medium, and inoculate flask in tissue culture hood\n\n\n\n\n\n\n\nNote\n\n\n\nThe fish will be exposed to the bacteria in the water after their digestive system is open and they have been shown to consume food, which occurs between 9 and 13 days post fertilization. The inoculums will be determined in a manner similar to those already established for zebrafish and used regularly in the Guillemin laboratory. Germ-free fish water is inoculated between 1000 and 1000000 bacteria per milliliter so the concentration the concentration can be chosen that results in healthy fish surviving to three days post-exposure.\n\n\n\nPlate dilutions of the original bacterial culture in order to verify the CFU/ml of the inoculum\nMonitor fish daily for signs of illness, including lack of motility, response to external stimuli, rapid movement of opercular (gill) cover and any other sign of non-normal behavior\nIf a dead fish is found, remove fish and place in morgue (see Sick and Dead fish SOP), record on daily checklist and alert supervisor\nAt the end of the experiment, euthanize fish by established and approved protocols (see approved stickleback euthanasia protocol)",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Stickleback Manipulations - Gnotobiotic</span>"
+    ]
+  },
+  {
+    "objectID": "21-IACUC.html",
+    "href": "21-IACUC.html",
+    "title": "17  IACUC",
+    "section": "",
+    "text": "Willamette River - photo by Mark Currey\n\n\n\n\n\n\n\n\nInstitutional Animal Care and Use Committee (IACUC)\n\n\n\nThis section contains descriptions of animal care IACUC protocols and related documentation.\n\n\n\n\n\n\n\n\nPurpose\n\n\n\nThe Institutional Animal Care and Use Committee (IACUC) is responsible for overseeing and evaluating all aspects of the institution’s animal care and use program. This includes reviewing and approving protocols for animal research, ensuring compliance with federal regulations, and promoting the ethical treatment of animals in research.\n\n\n\n\n\n\n\n\nRelated Protocols\n\n\n\nFor specific animal care protocols, please refer to:\n\n?sec-stickleback-husbandry for general stickleback husbandry protocols\nChapter 12 for emergency procedures and contact information\nChapter 15 for experimental manipulation protocols\nChapter 16 for gnotobiotic fish protocols",
+    "crumbs": [
+      "Experimental Protocols",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>IACUC</span>"
+    ]
+  },
+  {
+    "objectID": "27-hist_protocols.html",
+    "href": "27-hist_protocols.html",
+    "title": "18  Histological Protocols",
+    "section": "",
+    "text": "18.1 Alizarin Staining",
+    "crumbs": [
+      "Laboratory Protocols",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Histological Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "27-hist_protocols.html#sec-alizarin-staining",
+    "href": "27-hist_protocols.html#sec-alizarin-staining",
+    "title": "18  Histological Protocols",
+    "section": "",
+    "text": "18.1.1 Purpose\nAlizarin staining of fixed adult stickleback.\n\n\n18.1.2 Materials\nAlizarin Solutions:\n\n0.5% Alizarin red S Stock: To make 50 mls add 0.25g alizarin red S powder to 50 ml water\n0.025% Alizarin Stain:\n\nTo make 100 mls: Add 500µl 0.5% alizarin red S (stock) to 99.5ml 1% KOH\n1 Liter: Add 5ml 0.5% alizarin red S (stock) to 9950ml (1 liter) 1%KOH\n\n\n3% H₂O₂/0.5%KOH:\nMix and keep at 4C; Before using, bring to room temperature to hold down introducing bubbles under the skin: 0.5ml 6%H₂O₂ & 0.5ml 1%KOH.\n\n\n18.1.3 MESAB\n\n\n\n\n\n\nNote\n\n\n\nTricaine: 3-amino benzoic acid ethyl ester from Sigma (Cat # A-5040)\n\n\nMix in fish safe container with a stir bar:\n\n400 mg tricaine powder\n800 mg Na₂HPO₄ (anhydrous)\n100 ml glass distilled water\n\nAdjust to ~pH 7 with a drop at a time of 1N NaOH or 1N HCl if needed but it’s usually right if you weigh the sodium phosphate carefully and measure the water with a graduated cylinder.\nFor storage: Aliquot into 6 x 25 ml fish safe plastic bottles and store at 4C. Label with date made and use within a couple of weeks.\n\n\n18.1.4 8% PFA\n\n8 g Pelleted PFA (Ted Pella, Inc.; cat# 18501)\n90 ml dH₂O\n25 drops 1N NaOH\n\nProcedure:\n\nHeat at very low heat and stir until solution clears\nAdd 25 drops 1N HCl. pH should be 7.0-7.2\nFilter and store at 4C not more than 1 week\nUse as 4% PFA: dilute 1:1 with 2X PBS, do not store solution more than a few hours\n\n\n\n18.1.5 2X PBS\n\n1.6% NaCl\n0.04% KCl\n0.04 M PO₄ pH 7.0- 7.3\n\n\n\n18.1.6 Procedure\n\n\n\n\n\n\nNote\n\n\n\nWild caught specimens are put in 100% EtOH in the field and then rehydrated and put into 4% when back in the lab.\n\n\n\n\n\n\n\n\n\n\n\nDay\nStep\nTime for Step\nDate and Time\n\n\n\n\n1\nFix in 4% PFA\n2h-8h at R/T depending on size on shaker\n\n\n\n1\nRinse in 1X PBS\n1h or longer at R/T on shaker\n\n\n\n1\nBleach in 3% H₂O₂/0.5%KOH\nWithout agitation and with lid open until eyes start to lighten and all skin pigment is gone (usually about an hour or more)\n\n\n\n2\nRinse in 1X PBS\n2 h to O/N at R/T on shaker\n\n\n\n2\nStain in 0.025% Alizarin/1%KOH\n2 h to overnight O/N at R/T on shaker. Check for bone staining.\n\n\n\n2\nRinse in 1X PBS\nR/T on shaker until excess stain in tissue is gone\n\n\n\n2\nStore in glycerol\nWithout agitation\n\n\n\n\n\n\n\n\n\n\nStorage and Observation\n\n\n\nCheck for bone staining during the staining step. Rinse until excess stain in tissue is gone before storing in glycerol.",
+    "crumbs": [
+      "Laboratory Protocols",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Histological Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "28-molecular_protocols.html",
+    "href": "28-molecular_protocols.html",
+    "title": "19  Molecular Protocols - General",
+    "section": "",
+    "text": "Willamette River - photo by Mark Currey\n\n\n\n\n\n\n\n\nPlaceholder for Molecular Protocols\n\n\n\nThis section is reserved for molecular biology protocols. Content will be added as protocols are developed and validated.\n\n\n\n\n\n\n\n\nRelated Sections\n\n\n\nFor related experimental protocols, see:\n\nChapter 15 for general manipulation protocols\nChapter 16 for gnotobiotic protocols\nChapter 18 for histological staining protocols",
+    "crumbs": [
+      "Laboratory Protocols",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Molecular Protocols - General</span>"
+    ]
+  },
+  {
+    "objectID": "30-Grant_Equipment.html",
+    "href": "30-Grant_Equipment.html",
+    "title": "20  Description of Key Laboratory Spaces and Research Equipment",
+    "section": "",
+    "text": "20.1 CRESKO RESEARCH LABORATORY",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Description of Key Laboratory Spaces and Research Equipment</span>"
+    ]
+  },
+  {
+    "objectID": "30-Grant_Equipment.html#sec-cresko-lab",
+    "href": "30-Grant_Equipment.html#sec-cresko-lab",
+    "title": "20  Description of Key Laboratory Spaces and Research Equipment",
+    "section": "",
+    "text": "20.1.1 Laboratory\nThe Cresko research group occupies one main lab (1050 sq. ft.), an adjacent stickleback aquatic facility (690 sq. ft.), and a shared fluorescence microscopy room, all on the third floor of Pacific Hall. On the same and adjoining floors, and contiguous with our space, are nine other labs studying evolutionary genetics The Cresko research group occupies one main lab (1050 sq. ft.), a cell culture facility with sterile hood (225 sq. ft.), an adjacent stickleback aquatic facility (690sq. ft.), and a shared fluorescence microscopy room, all on the third floor of Pacific Hall.\n\n\n20.1.2 Colleagues\n\n\n\n\n\n\nTip\n\n\n\nOne of the most important resources is colleagues.\n\n\nThe P.I.’s lab is adjacent to labs of six other evolutionary geneticists: N. Singh (evolutionary genomics in Drosophila), B. Bohannan (bacterial evolution), W. Bradshaw (genetic basis of evolutionary change in W. Smithii), M. Barber (protein evolution), K. McGuire (tropical ecology), P. Phillips (evolutionary genetics using Caenorhabditis), P. Ralph (population genomics), M.Streisfeld (evolutionary genetics of Mimulus), and also John Conery (computational biology of gene and genome evolution).\nIn addition, the Institutes of Molecular Biology (IMB) and Neuroscience (ION) contain numerous researchers with particular interest in the evolution and developmental mechanisms, including K. Guillemin (host-bacterial co-evolution), E. Johnson (genomics of stress response systems), C. Kimmel (developmental genetics), J. Postlethwait (genome evolution), J. Eisen (host-microbe developmental interactions), R. Parthasarathy (live imaging of host-microbe interactions), A. Powell (genomics and tissue modeling in gut development), and T. Ursell (cell mechanics, behavior, modeling).\nMonday morning research meetings, Monday IE2 seminars and META center meetings, Tuesday IMB and Thursday ION seminars, Wednesday IE2 tea time, Friday evo-devo biology and META center journal club meetings, and encounters in the hall all bring us and our students in frequent contact with one another.\n\n\n20.1.3 Offices\nDr. Cresko’s office (200 sq. ft.) is on the same hall as the lab and stickleback facility. Key personnel have dedicated desk space in the laboratory or adjoining offices.\n\n\n20.1.4 Computer\nThe Cresko Lab has several Macintosh, Windows and Linux computers, including a dedicated computer cluster (48 cores, 541GB of memory, 67TB local general purpose storage in a hardware RAID60 configuration, 64TB local backup storage in two hardware RAID6 configurations) for analyzing large data sets. All computers are networked to the university system via 100G connections.\n\n\n\n\n\n\nCommunity Accessible Services\n\n\n\nThe Cresko Lab also hosts several community accessible services:\n\nOMERO image server (http://omero.uoregon.edu) serves as a repository of cross-referenced stickleback microsopy images for the Cresko Lab and collaborators\nMetagenomics online database (http://metagenomics.uoregon.edu/metagenomicsdb), which was developed in house to serve the Microbial Ecology and Theory of Animals (META) Center for Systems Biology (http://meta.uoregon.edu/)\nStickleback Database (http://sticklebackdb.uoregon.edu:8080/sticklebackdb/) was developed in house to track stickleback crosses and collections from the wild\nRNA-seqlopedia (http://rnaseq.uoregon.edu) was written by the Cresko Lab and provides an overview of RNA-seq and of the experimental design choices necessary to carry out a successful RNA-seq project\n\n\n\n\n\n20.1.5 Animal Facility\nThe Cresko Lab operates a newly renovated stickleback aquatic facility (690 sq. ft.) capable of housing up to 4000 adult fish and 144 individualized genetic crosses, and contains experiment space specially designed for microscopy and microinjection of embryos for CRISPR, and production of gnotobiotic stickleback (i.e., fish with experimenter-defined microbial communities, including fish with no microbes, or with one or more microbial strains).\n\n\n\n\n\n\nTip\n\n\n\nThe facility is managed by Mark Currey (senior research assistant), who designed and maintains the husbandry systems and databases, and directs a staff of animal care technicians.\n\n\nThe facility, located in the Institute of Ecology and Evolution adjacent to the Cresko Lab, is completely enclosed allowing for the care and maintenance of multiple lines of stickleback that have been derived from natural populations. Most of these lines have been in continuous culture since 2003 with current stocks representing over 12 generations in the facility.\nTwo of the rooms are used to house animals and each room is outfitted with a dedicated recirculating aquaculture system. Lighting in these rooms is manipulated so that one room is set up for a summer lighting regime and the other a winter lighting regime. These lighting regimes allow for the conditioning of the fish to breed (summer regime) and for growing the fish from fry to adults (winter regime). These facilities allow for the ability to perform specific crosses in a controlled environment at precise times so that development can be standardized and quantified.\nThe third room is used for experiments, and to store and prepare food and husbandry supplies. Half of this room is dedicated for experimental manipulations such as the microinjection procedures of CRISPR or for generating gnotobiotic fish.\n\n\n\n\n\n\nImportant\n\n\n\nThis is one of several model fish facilities at the University of Oregon, and helps maintain compliance for the university’s AAALAC accreditation. UO, known as the birthplace of zebrafish research, has a full-time staffed zebrafish facility (see Aquatic Animal Care Services). Expertise in fish husbandry gathered by developing the zebrafish system at Oregon augments and supports the successful husbandry of stickleback.\n\n\n\n\n20.1.6 Equipment\nMicroscopes (fluorescent, compound, dissecting, confocal), centrifuges, sonication and bead beating apparatus, cold rooms, freezers, thermocyclers, spectrophotometers and fluorometers, -80C and liquid nitrogen freezers, and other equipment are either in our lab or available nearby as shared equipment.\n\n\n\n\n\n\nNote\n\n\n\nThe Cresko Lab has an Arcturus Laser Capture Microdissection (LCM) microscope that has both an Infrared (IR) and ultraviolet (UV) laser that can be used to ablate or to capture microdissected tissues or small numbers of cells, from fixed sections for downstream DNA and RNA analyses.\n\n\nThe Cresko Lab’s stickleback facility houses equipment for performing transgenic and gene knockout experiments: a microinjection needle puller and two microinjection systems, including dissection microscopes, micromanipulators, and electronic pressure injection controller.\nThe following equipment is available in the Cresko lab:\n\nMultiple microcentrifuges and swinging bucket centrifuges\nSonication and bead beating apparatus\nCold rooms, refrigerators, and freezers (-20, -80C, and liquid nitrogen)\nThermocyclers and gel electrophoresis equipment\nSpectrophotometers and fluorometers\nA shared microscopy facility with several compound and dissecting microscopes\nTissue culture facility equipped with laminar flow hood, incubators, culture media, and sterilizing facility\nSeveral Macintosh, Windows and Linux computers, including a cluster (48 cores, 541GB of memory, 67TB local general purpose storage in a hardware RAID60 configuration, 64TB local backup storage in two hardware RAID6 configurations)",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Description of Key Laboratory Spaces and Research Equipment</span>"
+    ]
+  },
+  {
+    "objectID": "30-Grant_Equipment.html#sec-psi-lab",
+    "href": "30-Grant_Equipment.html#sec-psi-lab",
+    "title": "20  Description of Key Laboratory Spaces and Research Equipment",
+    "section": "20.2 THE PREVENTION SCIENCE INSTITUTE RESEARCH LABORATORY",
+    "text": "20.2 THE PREVENTION SCIENCE INSTITUTE RESEARCH LABORATORY\nPSI is a multidisciplinary research institute in the UO’s Millrace Building at Riverfront Research Park. The PIs’ and Co-Is’ research teams has access to office spaces, treatment/assessment rooms wired with highly advanced audio/video recording equipment linked to a central monitoring room, social neuroscience lab, a waiting room/play area, interactive video conferencing, coding stations, work stations, and conference rooms.\nThe following equipment is available in the PSI space:\n\nNumerous computer workstations\n10 servers support data management, analysis, scientific writing, and general office work\nSoftware licenses for Noldus, SAS, SPSS, and Mplus\nMS Office Suite\nComplete setups for video and teleconferencing\nDocument disposal services through a material destruction firm",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Description of Key Laboratory Spaces and Research Equipment</span>"
+    ]
+  },
+  {
+    "objectID": "30-Grant_Equipment.html#sec-computer-security",
+    "href": "30-Grant_Equipment.html#sec-computer-security",
+    "title": "20  Description of Key Laboratory Spaces and Research Equipment",
+    "section": "20.3 COMPUTER SUPPORT AND SECURITY",
+    "text": "20.3 COMPUTER SUPPORT AND SECURITY\nUO operates a centralized data and authentication system. All faculty and staff have accounts and have direct access on campus or via VPN from off campus. Internet access is provided at no cost. Data access and transfer capacity are excellent. Computer support is available from the university’s Computing Center and from in-house IT staff at PSI. The Computing Center also employs statistical and computer consultants to assist faculty and staff with other computer needs.\n\n20.3.1 Computers\nThe Cresko Lab has several Macintosh, Windows and Linux computers, including a dedicated computer cluster (48 cores, 541GB of memory, 67TB local general purpose storage in a hardware RAID60 configuration, 64TB local backup storage in two hardware RAID6 configurations) for analyzing large data sets. All computers are networked to the university system via 100G connections. The Cresko laboratory also has a laboratory account on Talapas, UO’s top 500 computer cluster (see Section 20.7.2 below).\nServers: PSI’s primary data storage is held on an enterprise-grade 60TB, highly available, RAID 6 array configuration. Data backups are performed each evening. For usage and processing of data, PSI maintains several available workstations with ample software, from word processing to statistical programs. The PSI servers are port-restricted from the rest of the UO network using high-end network firewall appliances and are accessible only through secure means. All data files are protected by a strict access control rules, and access is provided to only a small group of trusted users who require it, thus reducing the exposure of sensitive data. If further data-security is needed, PSI has a special securely-encrypted storage area that has further restrictions in place to prevent any unauthorized data transmissions.\nZoom: UO faculty members, staff, and students have access to Zoom videoconferencing services. For UO Zoom users who handle HIPAA-regulated data, a HIPAA-compliant environment is available that includes Zoom, which establishes strict access control rules and strong AES256 encryption to prevent transmission of any PHI (protected health information).\nVPN: PSI and Cresko lab faculty and staff have access to a VPN connection, when off campus, to servers. The VPN utilizes Cisco AnyConnect platform and is secured with end-to-end strong AES256, and then TLS1.2 for any key exchange or authentication. VPN Users are placed into a specific network pool that is then further port restricted from any critical systems. This gives VPN users the benefit of still being able to access their data, where allowed, but prevents VPN users from accessing any critical administration items or underlying infrastructure.\nWorkstations: PSI has made available workstation and laptops available to its faculty and staff, so as to allow them to continue their work confidently and securely. All PSI-owned workstations are security controlled through a strong set of policies and authentication mechanisms that maintain security for the workstation when interfacing with PSI servers. Drive and transport encryption is employed on the workstations.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Description of Key Laboratory Spaces and Research Equipment</span>"
+    ]
+  },
+  {
+    "objectID": "30-Grant_Equipment.html#sec-clia-lab",
+    "href": "30-Grant_Equipment.html#sec-clia-lab",
+    "title": "20  Description of Key Laboratory Spaces and Research Equipment",
+    "section": "20.4 COVID-19-MAP CLIA TESTING LABORATORY",
+    "text": "20.4 COVID-19-MAP CLIA TESTING LABORATORY\nThis facility is housed in newly renovated laboratory spaces (1400 sq. ft.) and includes a BSL-2 molecular biology lab. The main lab room (1100 sq. ft) is use for all pre-PCR sample handling. An adjacent small lab (300 sq. ft) is dedicated to qPCR and post-PCR processes. A third room set up for freezer storage, with backup power and cooling and with constant monitoring, houses the -80 freezer.\nThe following equipment is dedicated to SARS-CoV-2 diagnostic testing:\n\nFour Hamilton Vantage 2.0 liquid handling robot with computer stations\nSixteen QuantStudio5 qPCR thermocycler with two 384-well heads\nTwo Proflex thermocyclers each with two 384-well heads\nHamilton DeCapper SL\nIntegra Biosciences 96-channel pipet\nQubit fluorometer\nTwo biosafety cabinets\nFume hood\nTwo Refrigerated Centrifuges (micro and swinging bucket)\nSterilizing oven\nRefrigerator\nFreezers: -20 and -80 degrees Celsius\nSeveral sets of single and multichannel micropipettors\nNumerous computer workstations with controlled access to the LIMS and instrumentation\n\n\n\n\n\n\n\nImportant\n\n\n\nThis facility is housed in newly renovated laboratory spaces, and includes a BSL-2 molecular biology lab equipped with a Hamilton Vantage 2.0 liquid handling robot capable of processing thousands of crude lysate samples from swabs and saliva into qPCR or PCR-ready reactions per day.\n\n\nThe lab is also equipped with two biosafety cabinets, fume hood, centrifuges, sterilizing oven, refrigerator and freezer. The lab is also acquiring a Hamilton DeCapper SL to further streamline handling of sample vials. An adjacent second lab is dedicated to running qPCR and post-PCR processes. This lab is physically and procedurally separate by design to eliminate possible contamination of the pre-PCR BSL2 lab space with PCR amplification products, a known source of false positive results.\nThis second lab is equipped with a QuantStudio5 qPCR thermocycler with two 384-well heads, two Proflex thermocyclers each with two 384-well heads, and an Integra Biosciences 96-channel pipet. A third room nearby houses a -80C freezer for storage of samples and reagents. This freezer room was built specifically for this purpose, and has redundant power and HVAC as well as continuous monitoring for freezer temperatures to be able to call out to laboratory staff.\n\n\n\n\n\n\nNote\n\n\n\nThe first lab is designed to be a CLIA-compliant workplace with unidirectional workflow. A Certificate of Conformity (#38D2184568, issued 5/20/2020) has been obtained with the oversight of clinical pathologist Dr. Denis McCarthy, MD, and the Laboratory Director. The activities of the CLIA laboratory are under the direction of Ariana White in her role as General and Technical Supervisor, a role she has had previously in other healthcare settings.\n\n\nAll laboratory processes meet the conditions of CLIA (2003) for molecular pathology, and it includes a custom LIMS built by L7 informatics (https://l7informatics.com/) that is fully HIPAA compliant and has user-specific controlled access. Staff are trained in compliance with HIPAA and reporting to state public health entities will be seamless and quick. The COVID-19-MAP CLIA testing laboratory is part of the multi-laboratory network of the Genetics and Cell Characterization Core Facility (GC3F), as further described below in Section 20.7.1.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Description of Key Laboratory Spaces and Research Equipment</span>"
+    ]
+  },
+  {
+    "objectID": "30-Grant_Equipment.html#sec-ovpri",
+    "href": "30-Grant_Equipment.html#sec-ovpri",
+    "title": "20  Description of Key Laboratory Spaces and Research Equipment",
+    "section": "20.5 The Office of the Vice President for Research and Innovation",
+    "text": "20.5 The Office of the Vice President for Research and Innovation\nThe Office of the Vice President for Research and Innovation (OVPRI) assists with the institution’s emphasis on research success, from development to execution of projects through its Research & Innovation Services. Relevant to this proposal, Research Development Services (services for faculty seeking support for research, performance, public service, and scholarly projects), Sponsored Project Services (proposal budget preparation, institutional clearances, and grant and contract administration) and Research Compliance Services (support and protection for university, faculty, staff, student, and participant interest in research compliance matters), which are divisions of OVPRI, work to support and enhance on-campus research.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Description of Key Laboratory Spaces and Research Equipment</span>"
+    ]
+  },
+  {
+    "objectID": "30-Grant_Equipment.html#sec-uo-research-environment",
+    "href": "30-Grant_Equipment.html#sec-uo-research-environment",
+    "title": "20  Description of Key Laboratory Spaces and Research Equipment",
+    "section": "20.6 University of Oregon Research Environment",
+    "text": "20.6 University of Oregon Research Environment\nThe University of Oregon (UO) is classified as a Carnegie Doctoral/Research University. It has an extensive history of substantial research, federal grant funding, and scientific inquiry. The College of Arts and Sciences comprises 40 departments and programs, with 463 tenure-track faculty. The research activity of the College of Arts and Sciences faculty is the basis for the UO’s status as a Carnegie Research I institution and its membership in the Association of American Universities.\nThe College of Education at the UO ranks 12th among all graduate institutions of education in the nation, ranks 4th among all public graduate institutions of education in the nation, and ranks 2nd overall for faculty productivity in funded research per faculty member, according to U.S. News & World Report’s 2016 website rankings.\nThe UO includes a network of interdisciplinary centers, research institutes, and outreach units that supports federal grant funding and direct community service. The three MPIs are members of research institutes, as are many of the additional PIs and key personnel. In the past five years, four UO faculty have been elected to the National Academy of Sciences, three named Sloan Research Fellows, six elected to the American Academy of Arts and Sciences, five named Guggenheim Fellows, seven elected as American Mathematical Society Fellows, and nine elected to the American Association for the Advancement of Science, with an additional faculty member elected as president of the AAAS.\nThe UO provides comprehensive instructional, research, and public service programs that advance scientific and humanistic knowledge. Research programs serve the educational, cultural, and economic needs of the region and the nation. Administrative units provide direct oversight and support for graduate programs, grant proposal submission, research compliance, contracts and grant administration, and research initiatives. The UO has collaborative research-based relationships with every school district in the state and in many other states in the United States.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Description of Key Laboratory Spaces and Research Equipment</span>"
+    ]
+  },
+  {
+    "objectID": "30-Grant_Equipment.html#sec-uo-core-facilities",
+    "href": "30-Grant_Equipment.html#sec-uo-core-facilities",
+    "title": "20  Description of Key Laboratory Spaces and Research Equipment",
+    "section": "20.7 UNIVERSITY OF OREGON RESEARCH CORE FACILITIES",
+    "text": "20.7 UNIVERSITY OF OREGON RESEARCH CORE FACILITIES\nThe University of Oregon is well known for integrative research, has broad collaborative expertise and houses many shared facilities. A network of Research Core Facilities (RCFs) are managed by the Office of the Vice President for Research and Innovation (OVPRI). This network provides infrastructure and services in many technological areas. Each RCF is staffed by a director and other personnel and are available to researchers from across all parts of the university, and those from outside the university. The RCFs are run in a research compliant fashion using subsidy from the OVPRI for the Director’s salary and the proportional salaries of members of Research Core Business Services who are well trained in finance and compliance. Below is a list of the salient RCFs for this project.\n\n20.7.1 Genomics and Cell Characterization Core Facility\nThis facility is directed by Dr. Doug Turnbull and staffed by top genomics personnel, including several full time laboratory technicians and the General and Technical Supervisor for the CLIA laboratory. In anticipation of the growing need to support SARS-CoV-2 testing, the facility is beginning searches for three additional laboratory technicians.\nThe main laboratory houses Illumina NovaSeq, NextSeq500 and MiSeq massively parallel sequencers and two systems for use in long molecule sequencing: 10x Genomics’s platform for producing short-read Illumina-compatible DNA- or RNA-seq libraries starting from nucleic acids or from single cells and a PacBio Sequel II. These platforms are run by Dr. Turnbull and his staff, who also provide sequencing library preparation services, particularly for the PacBio and 10x Genomics platforms. Output data are initially processed by computer scientist Nicholas Stiffler. The facility charges for reagents, personnel time, and service contract. The facility’s sequencing, fragment analysis and library preparation services will continue to be a critical part of our research program. This facility also oversees a dedicated biological imaging space that contains specialty microscopes including light sheet, confocals, and the expertise needed to effectively use them. The CLIA testing laboratory described is administratively part of GC3F.\nEquipment:\n\nIllumina HiSeq4000, NextSeq500 and MiSeq massively parallel sequencers\nPacBio Sequel2\n10x Genomics’ platforms\nTwo flow cytometers (Sony SH800 Cell Sorter and Applied Biosystems Attune Cytometer)\nEppendorf EPMotion 5075 TMX liquid handling robot\n128 thread primary analysis server for processing next generation sequencing data\nSuite of advanced light microscopes including a Zeiss Elyra and Nikon Sora for super-resolution imaging\nSequencing, fragment analysis, and library preparation services and equipment\n\n\n\n20.7.2 Research Advanced Computing Services (RACS) and Talapas high performance cluster\nTalapas is the University of Oregon’s primary supercomputer. It was built in 2017 and is managed by Director Dr. Nick Maggio and his staff. The Cresko laboratory has an unlimited membership to the cluster via a yearly membership. Talapas is a heterogeneous supercomputing cluster capable of performing over 1.2 quadrillion calculations per second and providing 1.5 petabytes (1,500 trillion bytes) of high performance, parallel data storage.\nTalapas makes three distinct classes of compute nodes available to researchers: standard compute nodes built around the Intel “Broadwell” and “Skylake” generations of processor, GPU compute nodes equipped with dual nVidia Tesla K80 accelerators, and large memory servers. This large compute cluster has over 200 standard nodes with at least 128GB of memory each, 24 GPU nodes with 256GB memory each, and 8 large memory nodes with 1TB to 4TB of memory each. Talapas computational and storage resources are networked together via EDR Infiniband and connected to Internet2 via a high-speed 100 GigE interconnect. Talapas is open to all UO researchers and students for scientific research.\nSpecifications:\n\nHeterogeneous supercomputing cluster capable of performing over 250 trillion calculations ever second and providing 1.5 petabytes (1,500 trillion bytes) of high performance, parallel data storage\nStandard compute nodes built around the Intel “Broadwell” generation of processor, GPU compute nodes equipped with dual nVidia Tesla K80 accelerators, and large memory servers\n96 standard nodes with 128GB of memory each, 24 GPU nodes with 256GB memory each, and 8 large memory nodes with 4TB of memory each\nThe cluster presently has 1.5 Petabytes of storage (soon to be 10 Petabytes)\n\n\n\n20.7.3 Aquatic Animal Care Services\nThis service, directed by Timothy Mason, provides cutting edge animal husbandry and experimental expertise for working with aquatic animals. The facility maintains housing and veterinary care for zebrafish stocks with a capacity of more than a million fish, husbandry training, and cryopreservation of sperm, and provides experiment rooms for microinjection and other research activities.\n\n\n\n\n\n\nImportant\n\n\n\nUO is the birthplace of zebrafish (Danio rerio) as a model vertebrate, having been pioneered by Dr. George Streisinger in the 1970s. The amassed expertise in zebrafish at this facility and in the many UO research labs it serves has greatly facilitated the development of other emerging aquatic models at the UO, including threespine stickleback and spotted gar.\n\n\n\n\n20.7.4 Zebrafish International Resource Center (ZIRC)\nZIRC, co-directed by Zoltan Varga and Monte Westerfield, is across the street from our lab, and it provides the world’s central repository for wild-type and mutant strains of zebrafish and for materials and information about zebrafish research. They distribute materials and zebrafish strains to the international research community. ZIRC provides pathology services for potentially diseased fish, including those from the Cresko Lab stickleback facility.\n\n\n20.7.5 Zebrafish Information Network (ZFIN)\nZFIN (http://zfin.org) is an online digital resource that contains and distributes information about zebrafish research to the world. These resources include information about zebrafish genetics, genomics, and development, among many other things. ZFIN also provides a clearing house for information on researchers to encourage collaboration networks. Having this vast repository of information and tools for fish developmental genetics easily accessible greatly enhances our ability to perform evolutionary developmental analysis.\n\n\n20.7.6 Biological Imaging Core\nThis facility brings together specialty microscopes including light sheet, laser capture microdissection, confocals, and the expertise needed to effectively use them. These resources will be critical in the three-dimensional visualization and documentation of transgene expression in living sticklebacks, as well as observation of living microbial endosymbionts in the stickleback gut. The light sheet microscope has already proven itself for studying interactions of microbes in the gut of living zebrafish larvae here at UO, and we will be able to adapt these methodologies to using stickleback larvae.\n\n\n20.7.7 Histology and Genetic Modification Core Facility\nThis facility, directed by Dr. Ute Hostick, offers cryo-, paraffin and plastic sectioning, and histological staining. These services will be useful for phenotyping of mutant stickleback strains, when characterization by in situ hybridization on cryosectioned tissue or histological staining of fixed, sectioned tissue is required. This cutting edge facility also provides many procedures for generating and strain storage of genetically modified mice, including pronuclear injection, embryo cryopreservation stem cell tissue culture and genotyping.\n\n\n20.7.8 Center for Advanced Materials Characterization in Oregon (CAMCOr)\nThis facility, directed by Kurt Langworthy, houses multiple TEM and SEM microscopes, and many apparatus for NMR, X-ray crystallography, and other specialized microscopy for life sciences, materials science and chemistry applications. In addition, the facility houses resource for nanofabrication and microfluidics. In addition, a new Zeiss Versa X-ray microscope housed in this facility produces exquisite 3-D high resolution scans of biological and non-biological subjects non-destructively.\n\n\n20.7.9 Technical Science Administration\nThis facility, directed by John Boosinger, houses professional machinists and electrical engineers who help design and build research instrumentation. For the Cresko research group, this has included such diverse things as fish husbandry and microinjection equipment.\n\n\n20.7.10 Lewis Center for Neuroimaging\nThis facility, directed by Fred Sabb, supports research in cognitive science and biological imaging and includes a Siemens Skyra functional MRI and staff who design and fabricate MR coils suited to a variety of projects.\n\n\n20.7.11 Molecular Biology Kitchen\nThis facility provides us with media, plates, sterilized pipette tips, buffers, and clean glassware for molecular biology and bacteriology needs.\n\n\n20.7.12 Lab Supply Stores\nLaboratory supplies and small equipment are available for purchase in a centralized store maintained by Thermofisher in a science building adjacent to ours.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Description of Key Laboratory Spaces and Research Equipment</span>"
+    ]
+  },
+  {
+    "objectID": "31-references.html",
+    "href": "31-references.html",
+    "title": "References",
+    "section": "",
+    "text": "Key References Cited in Protocols",
+    "crumbs": [
+      "Resources",
+      "References"
+    ]
+  },
+  {
+    "objectID": "31-references.html#sec-key-references",
+    "href": "31-references.html#sec-key-references",
+    "title": "References",
+    "section": "",
+    "text": "Gnotobiotic Fish Protocols\nPham, L.N., Kanther, M., Semova, I., & Rawls, J.F. (2008). Methods for generating and colonizing gnotobiotic zebrafish. Nature Protocols, 3(12), 1862-1875.\n\n\nChromosome Analysis\nUrton, J.R., McCann, S.R., & Peichel, C.L. (2011). Karyotype differentiation between two stickleback species (Gasterosteidae). Cytogenetic and Genome Research, 135(2), 150-159. doi: 10.1159/000331232\n\n\nIntraperitoneal Injection Methods\nKinkel, M.D., Eames, S.C., Philipson, L.H., & Prince, V.E. (2010). Intraperitoneal injection into adult zebrafish. Journal of Visualized Experiments, (42), e2126. doi:10.3791/2126\n\n\nFish Physiology\nPerry, S.F., Davie, P.S., Daxboeck, C., Ellis, A.G., & Smith, D.G. (1984). Perfusion methods for the study of gill physiology. In W.S. Hoar & D.J. Randall (Eds.), Gills: Part B. Ion and water transfer (Fish physiology, vol. 10). Orlando: Academic Press.\n\n\nZebrafish Methods\nWesterfield, M. (2000). The Zebrafish Book: A guide for the laboratory use of zebrafish (Danio rerio) (4th ed.). Eugene, OR: University of Oregon Press.",
+    "crumbs": [
+      "Resources",
+      "References"
+    ]
+  }
+]

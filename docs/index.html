@@ -1,484 +1,1041 @@
 <!DOCTYPE html>
-<html lang="" xml:lang="">
-<head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Cresko Laboratory Manual</title>
-  <meta name="description" content="This is the Cresko Laboratory Manual" />
-  <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.30">
 
-  <meta property="og:title" content="Cresko Laboratory Manual" />
-  <meta property="og:type" content="book" />
-  
-  
-  <meta property="og:description" content="This is the Cresko Laboratory Manual" />
-  
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Cresko Laboratory Manual" />
-  
-  <meta name="twitter:description" content="This is the Cresko Laboratory Manual" />
-  
+<meta name="dcterms.date" content="2025-11-22">
 
-
-
-<meta name="date" content="2021-05-13" />
-
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-  
-  
-
-<link rel="next" href="introduction-to-the-lab.html"/>
-<script src="libs/header-attrs-2.7/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
-<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+<title>Cresko Laboratory Manual</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
 
 
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./01-intro.html" rel="next">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2b3e328b71be8d25427581baeb23079b.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-485d01fc63b59abcd3ee1bf1e8e2748d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-7a339148c3b2635d23d0fec43941109e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-485d01fc63b59abcd3ee1bf1e8e2748d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
 
 
-
-
-
-
-
-<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
-<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
-
-
-
-
-<link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="stylesheet" href="style.css">
 </head>
 
-<body>
+<body class="nav-sidebar floating quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
-
-
-  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
-
-    <div class="book-summary">
-      <nav role="navigation">
-
-<ul class="summary">
-<li><a href="./">Cresko Lab Manual</a></li>
-
-<li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> The Purpose of this Manual</a></li>
-<li class="chapter" data-level="2" data-path="introduction-to-the-lab.html"><a href="introduction-to-the-lab.html"><i class="fa fa-check"></i><b>2</b> Introduction to the Lab</a></li>
-<li class="chapter" data-level="3" data-path="mission-and-vision.html"><a href="mission-and-vision.html"><i class="fa fa-check"></i><b>3</b> Mission and Vision</a></li>
-<li class="chapter" data-level="4" data-path="lab-expectations.html"><a href="lab-expectations.html"><i class="fa fa-check"></i><b>4</b> Lab Expectations</a>
-<ul>
-<li class="chapter" data-level="4.1" data-path="scientific-ethics-and-integrity.html"><a href="scientific-ethics-and-integrity.html"><i class="fa fa-check"></i><b>4.1</b> Scientific Ethics and Integrity</a></li>
-<li class="chapter" data-level="4.2" data-path="authorship-of-manuscripts.html"><a href="authorship-of-manuscripts.html"><i class="fa fa-check"></i><b>4.2</b> Authorship of Manuscripts</a></li>
-</ul></li>
-<li class="chapter" data-level="5" data-path="cresko-lab-safety-protocols.html"><a href="cresko-lab-safety-protocols.html"><i class="fa fa-check"></i><b>5</b> Cresko Lab Safety protocols</a>
-<ul>
-<li class="chapter" data-level="5.1" data-path="lone-worker-guidelines.html"><a href="lone-worker-guidelines.html"><i class="fa fa-check"></i><b>5.1</b> Lone Worker Guidelines</a>
-<ul>
-<li class="chapter" data-level="5.1.1" data-path="lone-worker-guidelines.html"><a href="lone-worker-guidelines.html#before-working-alone-you-should"><i class="fa fa-check"></i><b>5.1.1</b> Before working alone, you should:</a></li>
-<li class="chapter" data-level="5.1.2" data-path="lone-worker-guidelines.html"><a href="lone-worker-guidelines.html#specific-guidelines-for-the-cresko-lab"><i class="fa fa-check"></i><b>5.1.2</b> Specific Guidelines for the Cresko Lab</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="6" data-path="stickleback-husbandry-health.html"><a href="stickleback-husbandry-health.html"><i class="fa fa-check"></i><b>6</b> Stickleback Husbandry - Health</a>
-<ul>
-<li class="chapter" data-level="6.1" data-path="health-check-sick-and-dead-fish.html"><a href="health-check-sick-and-dead-fish.html"><i class="fa fa-check"></i><b>6.1</b> Health Check - Sick and Dead Fish</a></li>
-<li class="chapter" data-level="6.2" data-path="adult-fish-anesthesia-euthanasia-and-fixation.html"><a href="adult-fish-anesthesia-euthanasia-and-fixation.html"><i class="fa fa-check"></i><b>6.2</b> Adult fish Anesthesia, Euthanasia, and Fixation</a>
-<ul>
-<li class="chapter" data-level="6.2.1" data-path="adult-fish-anesthesia-euthanasia-and-fixation.html"><a href="adult-fish-anesthesia-euthanasia-and-fixation.html#material-needed"><i class="fa fa-check"></i><b>6.2.1</b> Material Needed:</a></li>
-<li class="chapter" data-level="6.2.2" data-path="adult-fish-anesthesia-euthanasia-and-fixation.html"><a href="adult-fish-anesthesia-euthanasia-and-fixation.html#mesab-stock-solution-4glfrom-zebrafish-book-4th-edition"><i class="fa fa-check"></i><b>6.2.2</b> Mesab Stock Solution (4g/L)(From Zebrafish Book 4th edition):</a></li>
-<li class="chapter" data-level="6.2.3" data-path="adult-fish-anesthesia-euthanasia-and-fixation.html"><a href="adult-fish-anesthesia-euthanasia-and-fixation.html#euthanasia-300-mgl"><i class="fa fa-check"></i><b>6.2.3</b> Euthanasia (300 mg/L):</a></li>
-<li class="chapter" data-level="6.2.4" data-path="adult-fish-anesthesia-euthanasia-and-fixation.html"><a href="adult-fish-anesthesia-euthanasia-and-fixation.html#anesthesia-168-mgl"><i class="fa fa-check"></i><b>6.2.4</b> Anesthesia (168 mg/L):</a></li>
-<li class="chapter" data-level="6.2.5" data-path="adult-fish-anesthesia-euthanasia-and-fixation.html"><a href="adult-fish-anesthesia-euthanasia-and-fixation.html#liquid-n2-freezing-and-fixation-in-rnalater"><i class="fa fa-check"></i><b>6.2.5</b> Liquid N2 freezing, and fixation in RNAlater:</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="7" data-path="stickleback-husbandry-general.html"><a href="stickleback-husbandry-general.html"><i class="fa fa-check"></i><b>7</b> Stickleback Husbandry - General</a>
-<ul>
-<li class="chapter" data-level="7.1" data-path="fish-density-standards.html"><a href="fish-density-standards.html"><i class="fa fa-check"></i><b>7.1</b> Fish Density Standards</a>
-<ul>
-<li class="chapter" data-level="7.1.1" data-path="fish-density-standards.html"><a href="fish-density-standards.html#fry-9dpf---2-months"><i class="fa fa-check"></i><b>7.1.1</b> Fry (9dpf - 2 months):</a></li>
-<li class="chapter" data-level="7.1.2" data-path="fish-density-standards.html"><a href="fish-density-standards.html#juvenile-2-months---4-months-grow-out"><i class="fa fa-check"></i><b>7.1.2</b> Juvenile (2 months - 4 months) Grow Out:</a></li>
-</ul></li>
-<li class="chapter" data-level="7.2" data-path="juvenile-collection-daily.html"><a href="juvenile-collection-daily.html"><i class="fa fa-check"></i><b>7.2</b> Juvenile Collection (Daily):</a></li>
-<li class="chapter" data-level="7.3" data-path="adult-mysid-collection-and-feeding.html"><a href="adult-mysid-collection-and-feeding.html"><i class="fa fa-check"></i><b>7.3</b> Adult mysid collection and feeding:</a></li>
-</ul></li>
-<li class="chapter" data-level="8" data-path="stickleback-husbandry-crossing.html"><a href="stickleback-husbandry-crossing.html"><i class="fa fa-check"></i><b>8</b> Stickleback Husbandry - Crossing</a>
-<ul>
-<li class="chapter" data-level="8.1" data-path="embryo-bleaching-for-disinfection.html"><a href="embryo-bleaching-for-disinfection.html"><i class="fa fa-check"></i><b>8.1</b> Embryo Bleaching for Disinfection</a>
-<ul>
-<li class="chapter" data-level="8.1.1" data-path="embryo-bleaching-for-disinfection.html"><a href="embryo-bleaching-for-disinfection.html#purpose"><i class="fa fa-check"></i><b>8.1.1</b> Purpose:</a></li>
-<li class="chapter" data-level="8.1.2" data-path="embryo-bleaching-for-disinfection.html"><a href="embryo-bleaching-for-disinfection.html#materials-needed"><i class="fa fa-check"></i><b>8.1.2</b> Materials needed:</a></li>
-</ul></li>
-<li class="chapter" data-level="8.2" data-path="solutions.html"><a href="solutions.html"><i class="fa fa-check"></i><b>8.2</b> Solutions</a></li>
-<li class="chapter" data-level="8.3" data-path="procedure.html"><a href="procedure.html"><i class="fa fa-check"></i><b>8.3</b> Procedure:</a></li>
-<li class="chapter" data-level="8.4" data-path="sop-testes-storage.html"><a href="sop-testes-storage.html"><i class="fa fa-check"></i><b>8.4</b> SOP – Testes Storage</a>
-<ul>
-<li class="chapter" data-level="8.4.1" data-path="sop-testes-storage.html"><a href="sop-testes-storage.html#purpose-storage-of-stickleback-testes-for-fertilization-up-to-1-2-months-post-extraction."><i class="fa fa-check"></i><b>8.4.1</b> Purpose: Storage of stickleback testes for fertilization up to 1-2 months post extraction.</a></li>
-<li class="chapter" data-level="8.4.2" data-path="sop-testes-storage.html"><a href="sop-testes-storage.html#procedure-1"><i class="fa fa-check"></i><b>8.4.2</b> Procedure:</a></li>
-</ul></li>
-<li class="chapter" data-level="8.5" data-path="egg-storage.html"><a href="egg-storage.html"><i class="fa fa-check"></i><b>8.5</b> Egg Storage</a>
-<ul>
-<li class="chapter" data-level="8.5.1" data-path="egg-storage.html"><a href="egg-storage.html#purpose-storage-of-eggs-for-fertilization-up-to-24-hours-post-stripping."><i class="fa fa-check"></i><b>8.5.1</b> Purpose: Storage of eggs for fertilization up to 24 hours post stripping.</a></li>
-<li class="chapter" data-level="8.5.2" data-path="egg-storage.html"><a href="egg-storage.html#procedure-2"><i class="fa fa-check"></i><b>8.5.2</b> Procedure:</a></li>
-</ul></li>
-<li class="chapter" data-level="8.6" data-path="stickleback-crossing.html"><a href="stickleback-crossing.html"><i class="fa fa-check"></i><b>8.6</b> Stickleback Crossing</a></li>
-<li class="chapter" data-level="8.7" data-path="incubator-use-and-care-of-stickleback-fry.html"><a href="incubator-use-and-care-of-stickleback-fry.html"><i class="fa fa-check"></i><b>8.7</b> Incubator Use and Care of Stickleback Fry</a>
-<ul>
-<li class="chapter" data-level="8.7.1" data-path="incubator-use-and-care-of-stickleback-fry.html"><a href="incubator-use-and-care-of-stickleback-fry.html#purpose-1"><i class="fa fa-check"></i><b>8.7.1</b> Purpose:</a></li>
-<li class="chapter" data-level="8.7.2" data-path="incubator-use-and-care-of-stickleback-fry.html"><a href="incubator-use-and-care-of-stickleback-fry.html#materials-needed-1"><i class="fa fa-check"></i><b>8.7.2</b> Materials needed:</a></li>
-<li class="chapter" data-level="8.7.3" data-path="incubator-use-and-care-of-stickleback-fry.html"><a href="incubator-use-and-care-of-stickleback-fry.html#procedure-3"><i class="fa fa-check"></i><b>8.7.3</b> Procedure:</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="9" data-path="stickleback-husbandry-feeding.html"><a href="stickleback-husbandry-feeding.html"><i class="fa fa-check"></i><b>9</b> Stickleback Husbandry - Feeding</a>
-<ul>
-<li class="chapter" data-level="9.1" data-path="stickleback-feeding.html"><a href="stickleback-feeding.html"><i class="fa fa-check"></i><b>9.1</b> Stickleback Feeding</a>
-<ul>
-<li class="chapter" data-level="9.1.1" data-path="stickleback-feeding.html"><a href="stickleback-feeding.html#materials"><i class="fa fa-check"></i><b>9.1.1</b> Materials:</a></li>
-<li class="chapter" data-level="9.1.2" data-path="stickleback-feeding.html"><a href="stickleback-feeding.html#fish-foods-for-fry-and-juvenileadults"><i class="fa fa-check"></i><b>9.1.2</b> Fish foods for fry and juvenile/adults:</a></li>
-<li class="chapter" data-level="9.1.3" data-path="stickleback-feeding.html"><a href="stickleback-feeding.html#food-storage-and-handling"><i class="fa fa-check"></i><b>9.1.3</b> Food Storage and Handling:</a></li>
-</ul></li>
-<li class="chapter" data-level="9.2" data-path="fish-food-mix.html"><a href="fish-food-mix.html"><i class="fa fa-check"></i><b>9.2</b> Fish Food Mix</a>
-<ul>
-<li class="chapter" data-level="9.2.1" data-path="fish-food-mix.html"><a href="fish-food-mix.html#materials-1"><i class="fa fa-check"></i><b>9.2.1</b> Materials:</a></li>
-<li class="chapter" data-level="9.2.2" data-path="fish-food-mix.html"><a href="fish-food-mix.html#dry-mix"><i class="fa fa-check"></i><b>9.2.2</b> Dry Mix:</a></li>
-<li class="chapter" data-level="9.2.3" data-path="fish-food-mix.html"><a href="fish-food-mix.html#juvenile-mix"><i class="fa fa-check"></i><b>9.2.3</b> Juvenile Mix:</a></li>
-<li class="chapter" data-level="9.2.4" data-path="fish-food-mix.html"><a href="fish-food-mix.html#adult-mix"><i class="fa fa-check"></i><b>9.2.4</b> Adult mix:</a></li>
-<li class="chapter" data-level="9.2.5" data-path="fish-food-mix.html"><a href="fish-food-mix.html#storage"><i class="fa fa-check"></i><b>9.2.5</b> Storage:</a></li>
-</ul></li>
-<li class="chapter" data-level="9.3" data-path="fish-food-storage-and-sources.html"><a href="fish-food-storage-and-sources.html"><i class="fa fa-check"></i><b>9.3</b> Fish Food: Storage and Sources</a>
-<ul>
-<li class="chapter" data-level="9.3.1" data-path="fish-food-storage-and-sources.html"><a href="fish-food-storage-and-sources.html#brine-shrimp"><i class="fa fa-check"></i><b>9.3.1</b> Brine Shrimp:</a></li>
-<li class="chapter" data-level="9.3.2" data-path="fish-food-storage-and-sources.html"><a href="fish-food-storage-and-sources.html#golden-pearl-larval-diet"><i class="fa fa-check"></i><b>9.3.2</b> Golden Pearl Larval Diet:</a></li>
-<li class="chapter" data-level="9.3.3" data-path="fish-food-storage-and-sources.html"><a href="fish-food-storage-and-sources.html#hikari-dry-foods"><i class="fa fa-check"></i><b>9.3.3</b> Hikari dry foods:</a></li>
-<li class="chapter" data-level="9.3.4" data-path="fish-food-storage-and-sources.html"><a href="fish-food-storage-and-sources.html#zeigler-larval-dry-food"><i class="fa fa-check"></i><b>9.3.4</b> Zeigler Larval dry food:</a></li>
-<li class="chapter" data-level="9.3.5" data-path="fish-food-storage-and-sources.html"><a href="fish-food-storage-and-sources.html#selcon-brine-shrimp-supplement"><i class="fa fa-check"></i><b>9.3.5</b> Selcon (brine shrimp supplement):</a></li>
-<li class="chapter" data-level="9.3.6" data-path="fish-food-storage-and-sources.html"><a href="fish-food-storage-and-sources.html#frozen-mysid-and-blood-worms"><i class="fa fa-check"></i><b>9.3.6</b> Frozen Mysid and Blood Worms:</a></li>
-</ul></li>
-<li class="chapter" data-level="9.4" data-path="hatching-and-feeding-brine-shrimp.html"><a href="hatching-and-feeding-brine-shrimp.html"><i class="fa fa-check"></i><b>9.4</b> Hatching and Feeding Brine Shrimp</a>
-<ul>
-<li class="chapter" data-level="9.4.1" data-path="hatching-and-feeding-brine-shrimp.html"><a href="hatching-and-feeding-brine-shrimp.html#materials-needed-2"><i class="fa fa-check"></i><b>9.4.1</b> Materials Needed:</a></li>
-<li class="chapter" data-level="9.4.2" data-path="hatching-and-feeding-brine-shrimp.html"><a href="hatching-and-feeding-brine-shrimp.html#procedure-4"><i class="fa fa-check"></i><b>9.4.2</b> Procedure:</a></li>
-</ul></li>
-<li class="chapter" data-level="9.5" data-path="artemia-decapsualtion.html"><a href="artemia-decapsualtion.html"><i class="fa fa-check"></i><b>9.5</b> Artemia Decapsualtion</a>
-<ul>
-<li class="chapter" data-level="9.5.1" data-path="artemia-decapsualtion.html"><a href="artemia-decapsualtion.html#materials-2"><i class="fa fa-check"></i><b>9.5.1</b> Materials:</a></li>
-</ul></li>
-<li class="chapter" data-level="9.6" data-path="solutions-1.html"><a href="solutions-1.html"><i class="fa fa-check"></i><b>9.6</b> Solutions:</a>
-<ul>
-<li class="chapter" data-level="9.6.1" data-path="solutions-1.html"><a href="solutions-1.html#procedure-5"><i class="fa fa-check"></i><b>9.6.1</b> Procedure:</a></li>
-</ul></li>
-<li class="chapter" data-level="9.7" data-path="moina.html"><a href="moina.html"><i class="fa fa-check"></i><b>9.7</b> Moina</a>
-<ul>
-<li class="chapter" data-level="9.7.1" data-path="moina.html"><a href="moina.html#procedure-6"><i class="fa fa-check"></i><b>9.7.1</b> Procedure:</a></li>
-<li class="chapter" data-level="9.7.2" data-path="moina.html"><a href="moina.html#feeding"><i class="fa fa-check"></i><b>9.7.2</b> <strong>Feeding</strong>:</a></li>
-</ul></li>
-<li class="chapter" data-level="9.8" data-path="mysid-shrimp.html"><a href="mysid-shrimp.html"><i class="fa fa-check"></i><b>9.8</b> Mysid Shrimp</a>
-<ul>
-<li class="chapter" data-level="9.8.1" data-path="mysid-shrimp.html"><a href="mysid-shrimp.html#materials-3"><i class="fa fa-check"></i><b>9.8.1</b> Materials:</a></li>
-<li class="chapter" data-level="9.8.2" data-path="mysid-shrimp.html"><a href="mysid-shrimp.html#feeding-1"><i class="fa fa-check"></i><b>9.8.2</b> Feeding:</a></li>
-<li class="chapter" data-level="9.8.3" data-path="mysid-shrimp.html"><a href="mysid-shrimp.html#water-change"><i class="fa fa-check"></i><b>9.8.3</b> Water Change:</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="10" data-path="stickleback-husbandry-cleaning.html"><a href="stickleback-husbandry-cleaning.html"><i class="fa fa-check"></i><b>10</b> Stickleback Husbandry - Cleaning</a>
-<ul>
-<li class="chapter" data-level="10.1" data-path="gallon-tank-cleaning.html"><a href="gallon-tank-cleaning.html"><i class="fa fa-check"></i><b>10.1</b> 20 gallon Tank Cleaning</a>
-<ul>
-<li class="chapter" data-level="10.1.1" data-path="gallon-tank-cleaning.html"><a href="gallon-tank-cleaning.html#material-needed-1"><i class="fa fa-check"></i><b>10.1.1</b> Material needed:</a></li>
-</ul></li>
-<li class="chapter" data-level="10.2" data-path="corner-filter-cleaning.html"><a href="corner-filter-cleaning.html"><i class="fa fa-check"></i><b>10.2</b> Corner filter cleaning:</a>
-<ul>
-<li class="chapter" data-level="10.2.1" data-path="corner-filter-cleaning.html"><a href="corner-filter-cleaning.html#procedure-7"><i class="fa fa-check"></i><b>10.2.1</b> Procedure:</a></li>
-</ul></li>
-<li class="chapter" data-level="10.3" data-path="fry-tank-cleaning.html"><a href="fry-tank-cleaning.html"><i class="fa fa-check"></i><b>10.3</b> Fry Tank Cleaning</a>
-<ul>
-<li class="chapter" data-level="10.3.1" data-path="fry-tank-cleaning.html"><a href="fry-tank-cleaning.html#materials-needed-3"><i class="fa fa-check"></i><b>10.3.1</b> Materials Needed:</a></li>
-<li class="chapter" data-level="10.3.2" data-path="fry-tank-cleaning.html"><a href="fry-tank-cleaning.html#procedure-8"><i class="fa fa-check"></i><b>10.3.2</b> Procedure:</a></li>
-</ul></li>
-<li class="chapter" data-level="10.4" data-path="dishwasher-use-to-sterilize-plastics-and-glassware.html"><a href="dishwasher-use-to-sterilize-plastics-and-glassware.html"><i class="fa fa-check"></i><b>10.4</b> Dishwasher use to sterilize plastics and glassware</a>
-<ul>
-<li class="chapter" data-level="10.4.1" data-path="dishwasher-use-to-sterilize-plastics-and-glassware.html"><a href="dishwasher-use-to-sterilize-plastics-and-glassware.html#loading-the-dishwasher"><i class="fa fa-check"></i><b>10.4.1</b> Loading the dishwasher:</a></li>
-<li class="chapter" data-level="10.4.2" data-path="dishwasher-use-to-sterilize-plastics-and-glassware.html"><a href="dishwasher-use-to-sterilize-plastics-and-glassware.html#running-the-dishwasher"><i class="fa fa-check"></i><b>10.4.2</b> Running the dishwasher:</a></li>
-<li class="chapter" data-level="10.4.3" data-path="dishwasher-use-to-sterilize-plastics-and-glassware.html"><a href="dishwasher-use-to-sterilize-plastics-and-glassware.html#large-tank-lids"><i class="fa fa-check"></i><b>10.4.3</b> Large tank lids:</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="11" data-path="stickleback-husbandry-recipes.html"><a href="stickleback-husbandry-recipes.html"><i class="fa fa-check"></i><b>11</b> Stickleback Husbandry - Recipes</a>
-<ul>
-<li class="chapter" data-level="11.1" data-path="embryo-medium.html"><a href="embryo-medium.html"><i class="fa fa-check"></i><b>11.1</b> Embryo Medium</a>
-<ul>
-<li class="chapter" data-level="11.1.1" data-path="embryo-medium.html"><a href="embryo-medium.html#material-needed-2"><i class="fa fa-check"></i><b>11.1.1</b> Material Needed:</a></li>
-<li class="chapter" data-level="11.1.2" data-path="embryo-medium.html"><a href="embryo-medium.html#embryo-medium-solution"><i class="fa fa-check"></i><b>11.1.2</b> Embryo Medium solution:</a></li>
-</ul></li>
-<li class="chapter" data-level="11.2" data-path="mesab.html"><a href="mesab.html"><i class="fa fa-check"></i><b>11.2</b> MESAB</a>
-<ul>
-<li class="chapter" data-level="11.2.1" data-path="mesab.html"><a href="mesab.html#material-needed-3"><i class="fa fa-check"></i><b>11.2.1</b> Material Needed:</a></li>
-<li class="chapter" data-level="11.2.2" data-path="mesab.html"><a href="mesab.html#mesab-stock-solution-4gl-tris-buffered"><i class="fa fa-check"></i><b>11.2.2</b> Mesab Stock Solution (4g/L) (tris buffered):</a></li>
-<li class="chapter" data-level="11.2.3" data-path="mesab.html"><a href="mesab.html#euthanasia-solution-300-mgl"><i class="fa fa-check"></i><b>11.2.3</b> Euthanasia Solution (300 mg/L):</a></li>
-<li class="chapter" data-level="11.2.4" data-path="mesab.html"><a href="mesab.html#anesthesia-168-mgl-1"><i class="fa fa-check"></i><b>11.2.4</b> Anesthesia (168 mg/L):</a></li>
-</ul></li>
-<li class="chapter" data-level="11.3" data-path="testes-storage-solution.html"><a href="testes-storage-solution.html"><i class="fa fa-check"></i><b>11.3</b> Testes Storage Solution</a>
-<ul>
-<li class="chapter" data-level="11.3.1" data-path="testes-storage-solution.html"><a href="testes-storage-solution.html#materials-needed-4"><i class="fa fa-check"></i><b>11.3.1</b> Materials Needed:</a></li>
-<li class="chapter" data-level="11.3.2" data-path="testes-storage-solution.html"><a href="testes-storage-solution.html#solutions-2"><i class="fa fa-check"></i><b>11.3.2</b> Solutions:</a></li>
-<li class="chapter" data-level="11.3.3" data-path="testes-storage-solution.html"><a href="testes-storage-solution.html#testes-solution-100ml"><i class="fa fa-check"></i><b>11.3.3</b> Testes solution (100ml)</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="12" data-path="stickleback-husbandry-equipment-maintenance.html"><a href="stickleback-husbandry-equipment-maintenance.html"><i class="fa fa-check"></i><b>12</b> Stickleback Husbandry - Equipment Maintenance</a>
-<ul>
-<li class="chapter" data-level="12.1" data-path="salt-vat-filling-and-maintenance-.html"><a href="salt-vat-filling-and-maintenance-.html"><i class="fa fa-check"></i><b>12.1</b> Salt Vat Filling and Maintenance.</a>
-<ul>
-<li class="chapter" data-level="12.1.1" data-path="salt-vat-filling-and-maintenance-.html"><a href="salt-vat-filling-and-maintenance-.html#purpose-2"><i class="fa fa-check"></i><b>12.1.1</b> Purpose:</a></li>
-<li class="chapter" data-level="12.1.2" data-path="salt-vat-filling-and-maintenance-.html"><a href="salt-vat-filling-and-maintenance-.html#materials-needed-5"><i class="fa fa-check"></i><b>12.1.2</b> Materials needed:</a></li>
-<li class="chapter" data-level="12.1.3" data-path="salt-vat-filling-and-maintenance-.html"><a href="salt-vat-filling-and-maintenance-.html#procedure-for-filling"><i class="fa fa-check"></i><b>12.1.3</b> Procedure for filling:</a></li>
-<li class="chapter" data-level="12.1.4" data-path="salt-vat-filling-and-maintenance-.html"><a href="salt-vat-filling-and-maintenance-.html#procedure-for-maintenance-should-be-performed-every-6-months-or-more-often-if-needed"><i class="fa fa-check"></i><b>12.1.4</b> Procedure for maintenance (Should be performed every 6 months or more often if needed):</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="13" data-path="stickleback-husbandry-emergency.html"><a href="stickleback-husbandry-emergency.html"><i class="fa fa-check"></i><b>13</b> Stickleback Husbandry - Emergency</a>
-<ul>
-<li class="chapter" data-level="13.1" data-path="emergency-procedures.html"><a href="emergency-procedures.html"><i class="fa fa-check"></i><b>13.1</b> Emergency Procedures</a>
-<ul>
-<li class="chapter" data-level="13.1.1" data-path="emergency-procedures.html"><a href="emergency-procedures.html#purpose-3"><i class="fa fa-check"></i><b>13.1.1</b> Purpose:</a></li>
-<li class="chapter" data-level="13.1.2" data-path="emergency-procedures.html"><a href="emergency-procedures.html#summary"><i class="fa fa-check"></i><b>13.1.2</b> Summary:</a></li>
-<li class="chapter" data-level="13.1.3" data-path="emergency-procedures.html"><a href="emergency-procedures.html#personnel-qualificationsresponsibilities"><i class="fa fa-check"></i><b>13.1.3</b> Personnel Qualifications/Responsibilities:</a></li>
-<li class="chapter" data-level="13.1.4" data-path="emergency-procedures.html"><a href="emergency-procedures.html#equipment-and-supplies"><i class="fa fa-check"></i><b>13.1.4</b> Equipment and Supplies:</a></li>
-<li class="chapter" data-level="13.1.5" data-path="emergency-procedures.html"><a href="emergency-procedures.html#procedure-9"><i class="fa fa-check"></i><b>13.1.5</b> Procedure:</a></li>
-<li class="chapter" data-level="13.1.6" data-path="emergency-procedures.html"><a href="emergency-procedures.html#essential-staff-at-huestis"><i class="fa fa-check"></i><b>13.1.6</b> Essential Staff at Huestis:</a></li>
-<li class="chapter" data-level="13.1.7" data-path="emergency-procedures.html"><a href="emergency-procedures.html#essential-staff-at-zirc"><i class="fa fa-check"></i><b>13.1.7</b> Essential Staff at ZIRC:</a></li>
-<li class="chapter" data-level="13.1.8" data-path="emergency-procedures.html"><a href="emergency-procedures.html#essential-staff-at-pacific-stickleback-facility"><i class="fa fa-check"></i><b>13.1.8</b> Essential Staff at Pacific Stickleback Facility</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="14" data-path="pipefish-husbandry-general.html"><a href="pipefish-husbandry-general.html"><i class="fa fa-check"></i><b>14</b> Pipefish Husbandry - General</a>
-<ul>
-<li class="chapter" data-level="14.1" data-path="pipefish-feeding.html"><a href="pipefish-feeding.html"><i class="fa fa-check"></i><b>14.1</b> Pipefish Feeding</a></li>
-<li class="chapter" data-level="14.2" data-path="live-food-culture-monia-and-mysid-shrimp.html"><a href="live-food-culture-monia-and-mysid-shrimp.html"><i class="fa fa-check"></i><b>14.2</b> <strong>Live Food Culture, Monia and Mysid Shrimp:</strong></a></li>
-<li class="chapter" data-level="14.3" data-path="live-food-culture-monia-and-mysid-shrimp-1.html"><a href="live-food-culture-monia-and-mysid-shrimp-1.html"><i class="fa fa-check"></i><b>14.3</b> Live Food Culture, Monia and Mysid Shrimp:</a></li>
-</ul></li>
-<li class="chapter" data-level="15" data-path="stickleback-field-collection.html"><a href="stickleback-field-collection.html"><i class="fa fa-check"></i><b>15</b> Stickleback Field Collection</a>
-<ul>
-<li class="chapter" data-level="15.1" data-path="stickleback-wild-collections.html"><a href="stickleback-wild-collections.html"><i class="fa fa-check"></i><b>15.1</b> Stickleback wild collections</a>
-<ul>
-<li class="chapter" data-level="15.1.1" data-path="stickleback-wild-collections.html"><a href="stickleback-wild-collections.html#materials-4"><i class="fa fa-check"></i><b>15.1.1</b> Materials:</a></li>
-<li class="chapter" data-level="15.1.2" data-path="stickleback-wild-collections.html"><a href="stickleback-wild-collections.html#minnow-trap-collecting"><i class="fa fa-check"></i><b>15.1.2</b> Minnow trap collecting:</a></li>
-</ul></li>
-<li class="chapter" data-level="15.2" data-path="euthanize-and-storage-of-collected-fish.html"><a href="euthanize-and-storage-of-collected-fish.html"><i class="fa fa-check"></i><b>15.2</b> Euthanize and Storage of Collected Fish</a></li>
-<li class="chapter" data-level="15.3" data-path="wild-crosses-introduction-into-the-lab.html"><a href="wild-crosses-introduction-into-the-lab.html"><i class="fa fa-check"></i><b>15.3</b> Wild crosses introduction into the lab</a></li>
-</ul></li>
-<li class="chapter" data-level="16" data-path="stickleback-manipulations-general.html"><a href="stickleback-manipulations-general.html"><i class="fa fa-check"></i><b>16</b> Stickleback Manipulations - General</a>
-<ul>
-<li class="chapter" data-level="16.1" data-path="live-fin-clipping-of-stickleback.html"><a href="live-fin-clipping-of-stickleback.html"><i class="fa fa-check"></i><b>16.1</b> Live fin clipping of stickleback</a>
-<ul>
-<li class="chapter" data-level="16.1.1" data-path="live-fin-clipping-of-stickleback.html"><a href="live-fin-clipping-of-stickleback.html#materials-5"><i class="fa fa-check"></i><b>16.1.1</b> Materials:</a></li>
-<li class="chapter" data-level="16.1.2" data-path="live-fin-clipping-of-stickleback.html"><a href="live-fin-clipping-of-stickleback.html#procedure-10"><i class="fa fa-check"></i><b>16.1.2</b> Procedure:</a></li>
-</ul></li>
-<li class="chapter" data-level="16.2" data-path="live-stickleback-alizarin-staining.html"><a href="live-stickleback-alizarin-staining.html"><i class="fa fa-check"></i><b>16.2</b> Live stickleback alizarin staining</a>
-<ul>
-<li class="chapter" data-level="16.2.1" data-path="live-stickleback-alizarin-staining.html"><a href="live-stickleback-alizarin-staining.html#materials-6"><i class="fa fa-check"></i><b>16.2.1</b> Materials:</a></li>
-<li class="chapter" data-level="16.2.2" data-path="live-stickleback-alizarin-staining.html"><a href="live-stickleback-alizarin-staining.html#solutions-3"><i class="fa fa-check"></i><b>16.2.2</b> Solutions:</a></li>
-<li class="chapter" data-level="16.2.3" data-path="live-stickleback-alizarin-staining.html"><a href="live-stickleback-alizarin-staining.html#procedures"><i class="fa fa-check"></i><b>16.2.3</b> Procedures:</a></li>
-</ul></li>
-<li class="chapter" data-level="16.3" data-path="embryo-injections.html"><a href="embryo-injections.html"><i class="fa fa-check"></i><b>16.3</b> Embryo Injections</a>
-<ul>
-<li class="chapter" data-level="16.3.1" data-path="embryo-injections.html"><a href="embryo-injections.html#making-the-chambers"><i class="fa fa-check"></i><b>16.3.1</b> Making the chambers:</a></li>
-<li class="chapter" data-level="16.3.2" data-path="embryo-injections.html"><a href="embryo-injections.html#injecting"><i class="fa fa-check"></i><b>16.3.2</b> Injecting:</a></li>
-</ul></li>
-<li class="chapter" data-level="16.4" data-path="salinity-exposure.html"><a href="salinity-exposure.html"><i class="fa fa-check"></i><b>16.4</b> Salinity Exposure</a>
-<ul>
-<li class="chapter" data-level="16.4.1" data-path="salinity-exposure.html"><a href="salinity-exposure.html#materials-7"><i class="fa fa-check"></i><b>16.4.1</b> Materials:</a></li>
-<li class="chapter" data-level="16.4.2" data-path="salinity-exposure.html"><a href="salinity-exposure.html#procedure-11"><i class="fa fa-check"></i><b>16.4.2</b> Procedure:</a></li>
-</ul></li>
-<li class="chapter" data-level="16.5" data-path="intraperitoneal-colchicine-injection-into-adult-stickleback-.html"><a href="intraperitoneal-colchicine-injection-into-adult-stickleback-.html"><i class="fa fa-check"></i><b>16.5</b> Intraperitoneal colchicine injection into adult stickleback.</a>
-<ul>
-<li class="chapter" data-level="16.5.1" data-path="intraperitoneal-colchicine-injection-into-adult-stickleback-.html"><a href="intraperitoneal-colchicine-injection-into-adult-stickleback-.html#purpose-4"><i class="fa fa-check"></i><b>16.5.1</b> Purpose:</a></li>
-<li class="chapter" data-level="16.5.2" data-path="intraperitoneal-colchicine-injection-into-adult-stickleback-.html"><a href="intraperitoneal-colchicine-injection-into-adult-stickleback-.html#materials-8"><i class="fa fa-check"></i><b>16.5.2</b> Materials:</a></li>
-<li class="chapter" data-level="16.5.3" data-path="intraperitoneal-colchicine-injection-into-adult-stickleback-.html"><a href="intraperitoneal-colchicine-injection-into-adult-stickleback-.html#procedure-12"><i class="fa fa-check"></i><b>16.5.3</b> Procedure:</a></li>
-<li class="chapter" data-level="16.5.4" data-path="intraperitoneal-colchicine-injection-into-adult-stickleback-.html"><a href="intraperitoneal-colchicine-injection-into-adult-stickleback-.html#citations"><i class="fa fa-check"></i><b>16.5.4</b> Citations:</a></li>
-</ul></li>
-<li class="chapter" data-level="16.6" data-path="edu-labeling-of-young-threespine-stickleback.html"><a href="edu-labeling-of-young-threespine-stickleback.html"><i class="fa fa-check"></i><b>16.6</b> EdU labeling of young threespine stickleback</a>
-<ul>
-<li class="chapter" data-level="16.6.1" data-path="edu-labeling-of-young-threespine-stickleback.html"><a href="edu-labeling-of-young-threespine-stickleback.html#purpose-5"><i class="fa fa-check"></i><b>16.6.1</b> Purpose:</a></li>
-<li class="chapter" data-level="16.6.2" data-path="edu-labeling-of-young-threespine-stickleback.html"><a href="edu-labeling-of-young-threespine-stickleback.html#materials-9"><i class="fa fa-check"></i><b>16.6.2</b> Materials:</a></li>
-<li class="chapter" data-level="16.6.3" data-path="edu-labeling-of-young-threespine-stickleback.html"><a href="edu-labeling-of-young-threespine-stickleback.html#procedure-13"><i class="fa fa-check"></i><b>16.6.3</b> Procedure:</a></li>
-</ul></li>
-<li class="chapter" data-level="16.7" data-path="perchlorate-exposure.html"><a href="perchlorate-exposure.html"><i class="fa fa-check"></i><b>16.7</b> Perchlorate Exposure</a>
-<ul>
-<li class="chapter" data-level="16.7.1" data-path="perchlorate-exposure.html"><a href="perchlorate-exposure.html#materials-10"><i class="fa fa-check"></i><b>16.7.1</b> Materials:</a></li>
-<li class="chapter" data-level="16.7.2" data-path="perchlorate-exposure.html"><a href="perchlorate-exposure.html#procedure-14"><i class="fa fa-check"></i><b>16.7.2</b> Procedure:</a></li>
-</ul></li>
-<li class="chapter" data-level="16.8" data-path="fish-blood-collection.html"><a href="fish-blood-collection.html"><i class="fa fa-check"></i><b>16.8</b> Fish Blood Collection</a>
-<ul>
-<li class="chapter" data-level="16.8.1" data-path="fish-blood-collection.html"><a href="fish-blood-collection.html#materials-11"><i class="fa fa-check"></i><b>16.8.1</b> Materials:</a></li>
-<li class="chapter" data-level="16.8.2" data-path="fish-blood-collection.html"><a href="fish-blood-collection.html#human-safety-measures"><i class="fa fa-check"></i><b>16.8.2</b> Human Safety Measures:</a></li>
-<li class="chapter" data-level="16.8.3" data-path="fish-blood-collection.html"><a href="fish-blood-collection.html#procedure-15"><i class="fa fa-check"></i><b>16.8.3</b> Procedure:</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="17" data-path="stickleback-manipulations-gnotobiotic.html"><a href="stickleback-manipulations-gnotobiotic.html"><i class="fa fa-check"></i><b>17</b> Stickleback Manipulations - Gnotobiotic</a>
-<ul>
-<li class="chapter" data-level="17.1" data-path="derivation-of-grem-free-stickleback.html"><a href="derivation-of-grem-free-stickleback.html"><i class="fa fa-check"></i><b>17.1</b> Derivation of Grem-Free Stickleback</a>
-<ul>
-<li class="chapter" data-level="17.1.1" data-path="derivation-of-grem-free-stickleback.html"><a href="derivation-of-grem-free-stickleback.html#purpose-6"><i class="fa fa-check"></i><b>17.1.1</b> Purpose:</a></li>
-<li class="chapter" data-level="17.1.2" data-path="derivation-of-grem-free-stickleback.html"><a href="derivation-of-grem-free-stickleback.html#materials-12"><i class="fa fa-check"></i><b>17.1.2</b> Materials:</a></li>
-<li class="chapter" data-level="17.1.3" data-path="derivation-of-grem-free-stickleback.html"><a href="derivation-of-grem-free-stickleback.html#procedure-16"><i class="fa fa-check"></i><b>17.1.3</b> Procedure:</a></li>
-</ul></li>
-<li class="chapter" data-level="17.2" data-path="feeding-gnotobiotic-stickleback.html"><a href="feeding-gnotobiotic-stickleback.html"><i class="fa fa-check"></i><b>17.2</b> Feeding Gnotobiotic Stickleback</a>
-<ul>
-<li class="chapter" data-level="17.2.1" data-path="feeding-gnotobiotic-stickleback.html"><a href="feeding-gnotobiotic-stickleback.html#purpose-7"><i class="fa fa-check"></i><b>17.2.1</b> Purpose:</a></li>
-<li class="chapter" data-level="17.2.2" data-path="feeding-gnotobiotic-stickleback.html"><a href="feeding-gnotobiotic-stickleback.html#materials-13"><i class="fa fa-check"></i><b>17.2.2</b> Materials:</a></li>
-<li class="chapter" data-level="17.2.3" data-path="feeding-gnotobiotic-stickleback.html"><a href="feeding-gnotobiotic-stickleback.html#procedure-17"><i class="fa fa-check"></i><b>17.2.3</b> Procedure:</a></li>
-</ul></li>
-<li class="chapter" data-level="17.3" data-path="mono-associated-protocol-for-stickleback.html"><a href="mono-associated-protocol-for-stickleback.html"><i class="fa fa-check"></i><b>17.3</b> Mono-associated Protocol for Stickleback</a>
-<ul>
-<li class="chapter" data-level="17.3.1" data-path="mono-associated-protocol-for-stickleback.html"><a href="mono-associated-protocol-for-stickleback.html#purpose-8"><i class="fa fa-check"></i><b>17.3.1</b> Purpose:</a></li>
-<li class="chapter" data-level="17.3.2" data-path="mono-associated-protocol-for-stickleback.html"><a href="mono-associated-protocol-for-stickleback.html#procedure-18"><i class="fa fa-check"></i><b>17.3.2</b> Procedure:</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="18" data-path="iacuc.html"><a href="iacuc.html"><i class="fa fa-check"></i><b>18</b> IACUC</a></li>
-<li class="chapter" data-level="19" data-path="histological-protocols.html"><a href="histological-protocols.html"><i class="fa fa-check"></i><b>19</b> Histological Protocols</a>
-<ul>
-<li class="chapter" data-level="19.1" data-path="alizarin-staining.html"><a href="alizarin-staining.html"><i class="fa fa-check"></i><b>19.1</b> Alizarin Staining</a>
-<ul>
-<li class="chapter" data-level="19.1.1" data-path="alizarin-staining.html"><a href="alizarin-staining.html#purpose-alizarin-staining-of-fixed-adult-stickleback."><i class="fa fa-check"></i><b>19.1.1</b> PURPOSE: Alizarin staining of fixed adult stickleback.</a></li>
-<li class="chapter" data-level="19.1.2" data-path="alizarin-staining.html"><a href="alizarin-staining.html#materials-14"><i class="fa fa-check"></i><b>19.1.2</b> MATERIALS:</a></li>
-<li class="chapter" data-level="19.1.3" data-path="alizarin-staining.html"><a href="alizarin-staining.html#procedure-19"><i class="fa fa-check"></i><b>19.1.3</b> Procedure:</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="20" data-path="molecular-protocols-general.html"><a href="molecular-protocols-general.html"><i class="fa fa-check"></i><b>20</b> Molecular Protocols - General</a>
-<ul>
-<li class="chapter" data-level="20.1" data-path="xxx.html"><a href="xxx.html"><i class="fa fa-check"></i><b>20.1</b> xxx</a></li>
-</ul></li>
-<li class="chapter" data-level="21" data-path="description-of-key-laboratory-spaces-and-research-equipment.html"><a href="description-of-key-laboratory-spaces-and-research-equipment.html"><i class="fa fa-check"></i><b>21</b> Description of Key Laboratory Spaces and Research Equipment</a>
-<ul>
-<li class="chapter" data-level="21.1" data-path="cresko-research-laboratory.html"><a href="cresko-research-laboratory.html"><i class="fa fa-check"></i><b>21.1</b> CRESKO RESEARCH LABORATORY:</a>
-<ul>
-<li class="chapter" data-level="21.1.1" data-path="cresko-research-laboratory.html"><a href="cresko-research-laboratory.html#laboratory"><i class="fa fa-check"></i><b>21.1.1</b> LABORATORY:</a></li>
-<li class="chapter" data-level="21.1.2" data-path="cresko-research-laboratory.html"><a href="cresko-research-laboratory.html#colleagues"><i class="fa fa-check"></i><b>21.1.2</b> COLLEAGUES:</a></li>
-<li class="chapter" data-level="21.1.3" data-path="cresko-research-laboratory.html"><a href="cresko-research-laboratory.html#offices"><i class="fa fa-check"></i><b>21.1.3</b> OFFICES:</a></li>
-<li class="chapter" data-level="21.1.4" data-path="cresko-research-laboratory.html"><a href="cresko-research-laboratory.html#computer"><i class="fa fa-check"></i><b>21.1.4</b> Computer</a></li>
-<li class="chapter" data-level="21.1.5" data-path="cresko-research-laboratory.html"><a href="cresko-research-laboratory.html#animal"><i class="fa fa-check"></i><b>21.1.5</b> ANIMAL:</a></li>
-<li class="chapter" data-level="21.1.6" data-path="cresko-research-laboratory.html"><a href="cresko-research-laboratory.html#equipment"><i class="fa fa-check"></i><b>21.1.6</b> Equipment</a></li>
-</ul></li>
-<li class="chapter" data-level="21.2" data-path="the-prevention-science-institute-research-laboratory.html"><a href="the-prevention-science-institute-research-laboratory.html"><i class="fa fa-check"></i><b>21.2</b> THE PREVENTION SCIENCE INSTITUTE RESEARCH LABORATORY:</a></li>
-<li class="chapter" data-level="21.3" data-path="computer-support-and-security.html"><a href="computer-support-and-security.html"><i class="fa fa-check"></i><b>21.3</b> COMPUTER SUPPORT AND SECURITY:</a>
-<ul>
-<li class="chapter" data-level="21.3.1" data-path="computer-support-and-security.html"><a href="computer-support-and-security.html#computers"><i class="fa fa-check"></i><b>21.3.1</b> COMPUTERS:</a></li>
-</ul></li>
-<li class="chapter" data-level="21.4" data-path="covid-19-map-clia-testing-laboratory.html"><a href="covid-19-map-clia-testing-laboratory.html"><i class="fa fa-check"></i><b>21.4</b> COVID-19-MAP CLIA TESTING LABORATORY:</a></li>
-<li class="chapter" data-level="21.5" data-path="the-office-of-the-vice-president-for-research-and-innovation.html"><a href="the-office-of-the-vice-president-for-research-and-innovation.html"><i class="fa fa-check"></i><b>21.5</b> The Office of the Vice President for Research and Innovation</a></li>
-<li class="chapter" data-level="21.6" data-path="university-of-oregon-research-environment.html"><a href="university-of-oregon-research-environment.html"><i class="fa fa-check"></i><b>21.6</b> University of Oregon Research Environment</a></li>
-<li class="chapter" data-level="21.7" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html"><i class="fa fa-check"></i><b>21.7</b> UNIVERSITY OF OREGON RESEARCH CORE FACILITIES:</a>
-<ul>
-<li class="chapter" data-level="21.7.1" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html#genomics-and-cell-characterization-core-facility"><i class="fa fa-check"></i><b>21.7.1</b> Genomics and Cell Characterization Core Facility:</a></li>
-<li class="chapter" data-level="21.7.2" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html#research-advanced-computing-services-racs-and-talapas-high-performance-cluster"><i class="fa fa-check"></i><b>21.7.2</b> Research Advanced Computing Services (RACS) and Talapas high performance cluster:</a></li>
-<li class="chapter" data-level="21.7.3" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html#aquatic-animal-care-services"><i class="fa fa-check"></i><b>21.7.3</b> Aquatic Animal Care Services:</a></li>
-<li class="chapter" data-level="21.7.4" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html#zebrafish-international-resource-center-zirc"><i class="fa fa-check"></i><b>21.7.4</b> Zebrafish International Resource Center (ZIRC):</a></li>
-<li class="chapter" data-level="21.7.5" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html#zebrafish-information-network-zfin-httpzfin.org"><i class="fa fa-check"></i><b>21.7.5</b> Zebrafish Information Network (ZFIN) (<span>http://zfin.org</span>):</a></li>
-<li class="chapter" data-level="21.7.6" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html#biological-imaging-core"><i class="fa fa-check"></i><b>21.7.6</b> Biological Imaging Core:</a></li>
-<li class="chapter" data-level="21.7.7" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html#histology-and-genetic-modification-core-facility"><i class="fa fa-check"></i><b>21.7.7</b> Histology and Genetic Modification Core Facility:</a></li>
-<li class="chapter" data-level="21.7.8" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html#center-for-advanced-materials-characterization-in-oregon-camcor"><i class="fa fa-check"></i><b>21.7.8</b> Center for Advanced Materials Characterization in Oregon (CAMCOr):</a></li>
-<li class="chapter" data-level="21.7.9" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html#technical-science-administration"><i class="fa fa-check"></i><b>21.7.9</b> Technical Science Administration:</a></li>
-<li class="chapter" data-level="21.7.10" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html#lewis-center-for-neuroimaging"><i class="fa fa-check"></i><b>21.7.10</b> Lewis Center for Neuroimaging:</a></li>
-<li class="chapter" data-level="21.7.11" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html#molecular-biology-kitchen"><i class="fa fa-check"></i><b>21.7.11</b> Molecular Biology Kitchen:</a></li>
-<li class="chapter" data-level="21.7.12" data-path="university-of-oregon-research-core-facilities.html"><a href="university-of-oregon-research-core-facilities.html#lab-supply-stores"><i class="fa fa-check"></i><b>21.7.12</b> Lab Supply Stores:</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
-<li class="divider"></li>
-<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with Bookdown</a></li>
-
-</ul>
-
-      </nav>
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Preface</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
     </div>
-
-    <div class="book-body">
-      <div class="body-inner">
-        <div class="book-header" role="navigation">
-          <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Cresko Laboratory Manual</a>
-          </h1>
-        </div>
-
-        <div class="page-wrapper" tabindex="-1" role="main">
-          <div class="page-inner">
-
-            <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Cresko Laboratory Manual</h1>
-<p class="author"><em></em></p>
-<p class="date" style="margin-top: 1.5em;"><em>2021-05-13</em></p>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Cresko Laboratory Manual</a> 
+        <div class="sidebar-tools-main">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
-<div id="the-purpose-of-this-manual" class="section level1" number="1">
-<h1><span class="header-section-number">Chapter 1</span> The Purpose of this Manual</h1>
-<div class="figure">
-<img src="images/Lab_logo.png" alt="" />
-<p class="caption">Illustration by Dr. Allison Fuiten</p>
-</div>
-<p>xxx Description of the purpose of the manual and how to use it XXX</p>
-
-</div>
-            </section>
-
-          </div>
-        </div>
+    </div>
       </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Preface</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Introduction</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./01-intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction to the Lab</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./02-mission_vision.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Mission and Vision</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Lab Policies and Safety</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./03-expectations.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Lab Expectations</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./04-lab_safety.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Cresko Lab Safety Protocols</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Stickleback Husbandry</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./09-stickleback_husbandry_health.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Stickleback Husbandry - Health</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./10-stickleback_husbandry_general.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Stickleback Husbandry - General</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./11-stickleback_crossing.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Stickleback Husbandry - Crossing</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./12-stickleback_husbandry_feeding.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Stickleback Husbandry - Feeding</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./13-stickleback_husbandry_cleaning.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Stickleback Husbandry - Cleaning</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./14-stickleback_husbandry_recipes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Stickleback Husbandry - Recipes</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./15-stickleback_husbandry_maintenance.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Stickleback Husbandry - Equipment Maintenance</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./16-stickleback_husbandry_emergency.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Stickleback Husbandry - Emergency</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">Other Animal Protocols</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./17-pipefish_husbandry_protocols.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Pipefish Husbandry - General</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./18-stickleback_field_collection.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Stickleback Field Collection</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
+ <span class="menu-text">Experimental Protocols</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./19-stickleback_manipulation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Stickleback Manipulations - General</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./20-stickleback_manipulation_gnotobiotic.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Stickleback Manipulations - Gnotobiotic</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./21-IACUC.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">IACUC</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true">
+ <span class="menu-text">Laboratory Protocols</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./27-hist_protocols.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Histological Protocols</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./28-molecular_protocols.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Molecular Protocols - General</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="true">
+ <span class="menu-text">Resources</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./30-Grant_Equipment.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Description of Key Laboratory Spaces and Research Equipment</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./31-references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#preface" id="toc-preface" class="nav-link active" data-scroll-target="#preface">Preface</a>
+  <ul class="collapse">
+  <li><a href="#the-purpose-of-this-manual" id="toc-the-purpose-of-this-manual" class="nav-link" data-scroll-target="#the-purpose-of-this-manual">The Purpose of this Manual</a></li>
+  <li><a href="#how-to-navigate" id="toc-how-to-navigate" class="nav-link" data-scroll-target="#how-to-navigate">How to Navigate</a></li>
+  <li><a href="#getting-help" id="toc-getting-help" class="nav-link" data-scroll-target="#getting-help">Getting Help</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
 
-<a href="introduction-to-the-lab.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Cresko Laboratory Manual</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">November 22, 2025</p>
     </div>
   </div>
-<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
-<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
-<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
-<script>
-gitbook.require(["gitbook"], function(gitbook) {
-gitbook.start({
-"sharing": {
-"github": false,
-"facebook": true,
-"twitter": true,
-"linkedin": false,
-"weibo": false,
-"instapaper": false,
-"vk": false,
-"whatsapp": false,
-"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
-},
-"fontsettings": {
-"theme": "white",
-"family": "sans",
-"size": 2
-},
-"edit": {
-"link": "https://github.com/rstudio/bookdown-demo/edit/master/index.Rmd",
-"text": "Edit"
-},
-"history": {
-"link": null,
-"text": null
-},
-"view": {
-"link": null,
-"text": null
-},
-"download": ["Cresko Laboratory Manual.pdf", "Cresko Laboratory Manual.epub"],
-"toc": {
-"collapse": "subsection"
-}
-});
-});
-</script>
+  
+    
+  </div>
+  
 
-</body>
 
-</html>
+</header>
+
+
+<section id="preface" class="level1 unnumbered">
+<h1 class="unnumbered">Preface</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/Lab_logo.png" class="img-fluid figure-img"></p>
+<figcaption>Illustration by Dr.&nbsp;Allison Fuiten</figcaption>
+</figure>
+</div>
+<section id="the-purpose-of-this-manual" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="the-purpose-of-this-manual">The Purpose of this Manual</h2>
+<p>This manual serves as a comprehensive guide for all members of the Cresko Laboratory. It contains essential information about:</p>
+<ul>
+<li>Laboratory policies and expectations</li>
+<li>Safety protocols and procedures</li>
+<li>Animal husbandry guidelines</li>
+<li>Experimental protocols</li>
+<li>Resources and equipment</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Using This Manual
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This manual is a living document that is regularly updated. All lab members are expected to familiarize themselves with its contents and refer to it regularly. If you notice any information that needs updating or have suggestions for improvements, please contact the PI or lab manager.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Safety First
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Before beginning any work in the laboratory, ensure you have read and understand all relevant safety protocols in <a href="04-lab_safety.html" class="quarto-xref"><span>4&nbsp; Cresko Lab Safety Protocols</span></a>.</p>
+</div>
+</div>
+</section>
+<section id="how-to-navigate" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-navigate">How to Navigate</h2>
+<p>Use the table of contents on the left to navigate between chapters. Each section includes:</p>
+<ul>
+<li><strong>Cross-references</strong> to related sections</li>
+<li><strong>Callout boxes</strong> highlighting important information</li>
+<li><strong>Step-by-step protocols</strong> for procedures</li>
+<li><strong>Contact information</strong> for questions</li>
+</ul>
+</section>
+<section id="getting-help" class="level2">
+<h2 class="anchored" data-anchor-id="getting-help">Getting Help</h2>
+<p>If you have questions not addressed in this manual:</p>
+<ol type="1">
+<li>Consult with your supervisor or lab manager</li>
+<li>Contact the PI, Dr.&nbsp;William Cresko</li>
+<li>Refer to external resources listed in <span class="quarto-unresolved-ref">?sec-references</span></li>
+</ol>
+<hr>
+<p><em>Last updated: <code>r Sys.Date()</code></em></p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            // default icon
+            link.classList.add("external");
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./01-intro.html" class="pagination-link" aria-label="Introduction to the Lab">
+        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction to the Lab</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

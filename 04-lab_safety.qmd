@@ -1,0 +1,179 @@
+# Cresko Lab Safety Protocols {#sec-lab-safety}
+
+![Lily Lake - photo by Mark Currey](images/lily_lake_header.jpg)
+
+::: {.callout-warning}
+## FOR YOUR OWN SAFETY AND THE SAFETY OF OTHERS, HEED THE FOLLOWING RULES!
+
+**EMERGENCY CONTACT**: Dial **911** first, AND **6-2919** (EHS) | Mark Cell: **541-505-0006**
+:::
+
+## Safety Equipment {#sec-safety-equipment}
+
+### Safety Showers, Eyewashes, and Fire Extinguishers
+
+::: {.callout-important}
+## Required Maintenance
+
+- **Eyewashes** must be flushed weekly
+- **Undergraduate research assistants** are responsible for flushing the safety showers each week
+- **Each lab member** is responsible for knowing the locations of safety showers and fire extinguishers in the lab
+- Safety showers and fire extinguishers are tested annually by EHS
+:::
+
+## Personal Protective Equipment (PPE) {#sec-ppe}
+
+### Lab Coats and Footwear
+
+::: {.callout-warning}
+## Required PPE
+
+**Wear a lab coat and closed-toed shoes when working with the following chemicals:**
+
+- Organics (e.g., phenol/chloroform, Trizol, DNAzol, formaldehyde, formamide, methanol)
+- Strong acids and bases
+:::
+
+### Eye Protection
+
+::: {.callout-warning}
+## Eye Protection Required
+
+**Wear eye protection when working with:**
+
+- UV light (UV opaque glasses/face shield)
+- Phenol/chloroform, strong acids/bases
+- Any splash hazard with hazardous materials
+:::
+
+### Glove Use
+
+::: {.callout-important}
+## Glove Safety
+
+**Wear safety gloves when working with ANY of the reagents above.**
+
+**The "One Glove Rule"**: Remove one glove when moving between rooms to avoid touching doorknobs with a contaminated glove.
+
+**Note**: Glove materials differ in their permeability to different reagents. Standard nitrile gloves are adequate for our lab's standard procedures. However, if you are planning experiments that involve more dangerous reagents, consult with Luke Sitts at EHS to select appropriate gloves.
+:::
+
+## Chemical Handling and Disposal {#sec-chemical-disposal}
+
+::: {.callout-note}
+## EHS Disposal Contact
+
+For questions about disposal: **6-3192**
+:::
+
+### Disposal Guidelines
+
+| Material | Disposal Method |
+|----------|-----------------|
+| E. coli plates and recombinant materials | Autoclave buckets or EHS biohazard incineration boxes |
+| E. coli flasks/liquids | Bleach, rinse, drain |
+| Used alcohols, formaldehyde, and kit waste | Waste containers under the thermocyclers |
+| Organic solvents | Waste bottles in hood |
+
+: Common Hazardous Reagent Disposal {#tbl-disposal}
+
+### Storage of Hazardous Liquids
+
+::: {.callout-warning}
+## Storage Requirements
+
+**Store flammables and strong acids in a latched METAL SAFETY CABINET UNDER THE HOOD.**
+:::
+
+## Equipment Safety {#sec-equipment-safety}
+
+### Microwave Oven Use
+
+::: {.callout-warning}
+## Heating Liquids in the Microwave
+
+- Triple check that the cap is **very** loose or (better) remove it entirely
+- **Remelting of gels with DNA binding dyes is FORBIDDEN**
+:::
+
+### Bunsen Burner Safety
+
+::: {.callout-warning}
+## Bunsen Burner Rules
+
+- Triple check that the gas is shut completely off before you leave the bench/hood
+- Keep burners far away from any flammable liquids
+:::
+
+### Liquid Nitrogen and Dry Ice
+
+::: {.callout-danger}
+## Cryogen Safety
+
+**Use only in well-ventilated spaces to avoid asphyxiation**
+
+**Safety Requirements:**
+
+- Never store in sealed containers to avoid explosions
+- Wear lab coat, gloves, and goggles
+- In case of frostbite or burn, soak affected part in tepid water and seek medical attention
+:::
+
+## Lone Worker Guidelines {#sec-lone-worker}
+
+The UO Laboratory Safety Advisory Committee (LSAC) recognizes that working alone in laboratories should be discouraged but acknowledges that a prohibition would hinder research and education missions.
+
+::: {.callout-important}
+## Primary Danger
+
+The primary danger in working alone is that if an accident should occur, there will be delays in rendering aid.
+:::
+
+### Before Working Alone, You Should:
+
+1. Ensure that you have been trained on the procedures, reviewed the safety data sheets for all associated materials, and know the emergency procedures for your lab
+2. Consider whether the risk outweighs the benefits of working alone
+3. Consider whether this work can be done at a time when others are around
+4. Consider using a buddy system with individuals in other labs nearby
+
+::: {.callout-tip}
+## Check-In System
+
+If you decide to proceed with hazardous procedures on your own, please use a check-in or text-in system with supervisors or peers, ensuring that they know where and when this work is done and that they have contact information readily available for campus safety personnel.
+:::
+
+### Specific Guidelines for the Cresko Lab
+
+::: {.callout-warning}
+## Prohibited Lone Work Activities
+
+**Building & Room**: Pacific 310 & 324
+**Supervisor**: Dr. William Cresko
+
+**The following will NOT be done while working alone:**
+
+- The use of phenol chloroform
+- The movement of glass aquariums
+:::
+
+### Emergency Contacts
+
+::: {.callout-important}
+## In Case of Emergency
+
+- **Emergencies**: Dial **911**
+- **Lab Safety Coordinator**: Contact through department
+- **Safety and Risk Services/EHS**: **541-346-3192**
+:::
+
+## Additional Safety Resources
+
+- Always review Safety Data Sheets (SDS) before working with new chemicals
+- Complete all required safety training before beginning lab work
+- Report any accidents, injuries, or near-misses immediately
+- If unsure about a procedure, ask before proceeding
+
+For animal-specific safety protocols, see:
+
+- Stickleback handling: @sec-stickleback-health
+- Field work safety: @sec-field-collection

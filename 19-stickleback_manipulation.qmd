@@ -1,0 +1,322 @@
+# Stickleback Manipulations - General {#sec-stickleback-manipulations}
+
+![Willamette River - photo by Mark Currey](images/willamette_header.jpg)
+
+## Live Fin Clipping of Stickleback {#sec-fin-clipping}
+
+::: {.callout-note}
+**Created:** April 06, 2010 by M Currey
+:::
+
+### Materials {#sec-fin-clipping-materials}
+
+- MS-222 Anesthesia solution (see fish anesthesia and euthanasia SOP)
+- Beakers of fish water
+- Forceps and scissors
+- Bucket of ice
+- 1.5ml tubes
+- Melafix (antifungal and antibacterial agent)
+
+### Procedure {#sec-fin-clipping-procedure}
+
+::: {.callout-tip}
+To minimize fish's exposure to MS-222, do all labeling of tubes and vials prior to fin clipping.
+:::
+
+1. To minimize fish's exposure to MS-222, do all labeling of tubes and vials prior to fin clipping
+2. Place fish in beaker containing MS-222 anesthesia dose (168 mg/L)
+3. Once the breathing of the fish slows take fish out of water and remove caudal fin with scissors and forceps
+
+::: {.callout-note}
+**Note:** To observe slowed breathing watch the operculum movement. This movement will slow and the fish will turn on it's side.
+:::
+
+4. Place fin in labeled 1.5 ml tube on ice
+5. Put fish into clean system water and move gently to force water over gills
+6. Once fish is revived and swimming upright, put fish into container back on the aquaculture system and add Melafix according to manufacturers recommendations
+
+## Live Stickleback Alizarin Staining {#sec-live-alizarin-staining}
+
+::: {.callout-note}
+**Created:** 4/6/10 by M Currey
+**Adapted from:** protocol by Bonnie Ullmann
+:::
+
+### Materials {#sec-alizarin-materials}
+
+- MS-222 Anesthesia solution (see fish anesthesia and euthanasia SOP)
+- Beakers of fish water
+- Alizarin Red S (sodium alizarin sulfonate)
+
+### Solutions {#sec-alizarin-solutions}
+
+**Alizarin stock solution:** 0.5g Alizarin red/100ml in sterile water (SIGMA cat# A5533 Alizarin Red S, certified)
+
+**For 1 Liter:**
+
+- 10 ml 1M HEPES
+- 980ml Embryo medium (Zebrafish Book, Westerfield, et al)
+- Add 10 ml 0.5% Alizarin Stock in sterile water
+
+**For 50 ml (enough for 100mm diameter petri dish):**
+
+- 500 µl 1 M HEPES
+- 49 ml Embryo medium
+- Add 500 µl 0.5% Alizarin Stock in sterile water
+
+### Procedures {#sec-alizarin-procedures}
+
+1. Stain 1-2 hours for larvae to overnight for adult fish in the dark. Rinse thoroughly with embryo medium. Can observe right away, but background continues to go down with time
+2. Bone fluorescence will decrease over time, so plan on imaging the same day if possible
+3. Keep fish in the dark as much as is reasonably convenient
+
+## Embryo Injections {#sec-embryo-injections}
+
+::: {.callout-note}
+**From:** Zebrafish Book 4th addition chp 5
+**CHAPTER 5 - CELLULAR METHODS**
+**Source:** E. Weinberg
+:::
+
+This is an easy method for holding embryos while injecting DNA, lineage tracer dyes, etc., without removing their chorions. The embryos are held in wedged-shaped troughs made with a plastic mold in 1.5% agarose. Each trough can hold approximately 35 embryos (with chorions). Embryos can be aligned by gently tamping them down with forceps. Agarose is useful because pipette tips generally will not break if they accidently touch the surface. As the pipette penetrates the chorion, the embryo is forced against the rear vertical wall of the trough. The exact positioning of the pipette tip within the embryo is achieved by slight movement of the pipette with a micromanipulator or by movement of the stage.
+
+::: {.callout-tip}
+If the pipette tip is thin and long enough, it can be withdrawn from the chorion without dragging the embryo out of the trough. A problem with thin pipettes, however, is that they lack the tensile strength to penetrate the chorion and bend when forced onto the chorion surface. Thicker pipettes do not easily slip out of the chorion, although the embryo can be held with forceps as the pipette is slowly withdrawn.
+:::
+
+Alternatively, a plastic cover can be used to impede the withdrawal of the embryo. The plastic cover fits snugly into the indentation in the agarose created by the plastic mold. The slits in the cover can be aligned with the somewhat narrower troughs in the agarose by sliding the cover from side to side. (The width of the cover is 2.0 mm less than that of the mold allowing one to achieve the desired position for injection.) The cover is 1.0 mm thick at the border, but only 0.7 mm thick between the openings so the embryos will slide off the pipette more readily.
+
+### Making the chambers {#sec-injection-chambers}
+
+1. Pour approximately 20 ml of hot 1.5% agarose in embryo medium into a 100 x 15 Petri dish on a level surface. Wait until completely solidified
+2. Add an additional 20 ml of the 1.5% agarose to the dish. Set the plastic mold (teeth down) into the liquid agarose overlay, tapping to eliminate any bubbles
+3. After the agarose sets, add a small amount of medium, wrap the Petri dish in parafilm, and store in the refrigerator
+
+### Injecting {#sec-injection-procedure}
+
+1. Warm the Petri dish to the temperature you prefer for injection (embryos can tolerate 18°C for about 1 hour, and the slower division rate allows more time to inject at the 1 and 2 cell stage)
+2. Remove the plastic mold
+3. Position the dish on a microscope stage and adjust the angle of the pipette so that you can aim directly into the trough
+4. Transfer embryos into the troughs and set the plastic cover with slits into the depression in the agarose
+5. Using forceps, align the embryos all in the same orientation. Add enough culture medium so that the level reaches the plastic edges of the slits. Gently tamp the embryos down into the trough
+6. Using controls on the micromanipulator, force the pipette through the chorion and the yolk cell, entering the embryonic cell(s) from the yolk cell. (You might prefer to enter the embryonic cell directly; in this case, you would choose a different orientation of the embryo in the trough)
+7. As the pipette goes through the yolk, move the Petri dish a bit so that the pipette is close to the plastic cover
+8. Inject the desired volume of solution and then withdraw the pipette with a slow steady motion. The embryo will catch on the plastic cover and drop back into the trough
+9. Transfer the embryos into a dish with embryo medium and maintain at 28.5°C for further development
+
+::: {.callout-note}
+Top view and cross-section of the plastic slot maker (A) and plastic cover piece (B). All dimensions are in mm. An enlarged view of a cross-section of the teeth is shown in the lower part of panel (A). The area within the dotted lines, in the diagram of the cover piece in panel (B), is 0.7 mm thick whereas the border area outside the dotted lines is 1.0 mm thick.
+:::
+
+## Salinity Exposure {#sec-salinity-exposure}
+
+::: {.callout-note}
+**Created:** August 8, 2011 by Ann Petersen
+:::
+
+### Materials {#sec-salinity-materials}
+
+- MS-222 Anesthesia solution (168 mg/L) (see fish anesthesia and euthanasia SOP)
+- Glass containers of fish water of varying salinity ranging from 2 - 32 ppt
+- Glass 1 gallon fish containers (not plastic due to endocrine disruptive properties)
+- Instant Ocean saltwater mix at concentrations of
+  - 2ppt "Freshwater" environment (40g Instant Ocean/ 20L Nanopure H20)
+  - 15ppt "Brackish" environment (300g Instant Ocean/ 20L Nanopure H20)
+  - 30ppt "Ocean" environment (600g Instant Ocean/ 20L Nanopure H20)
+- Stickleback fish feeding SOP supplies (artemia, dry flakes, etc.)
+- Stickleback fish crossing and rearing SOP supplies
+
+### Procedure {#sec-salinity-procedure}
+
+1. Follow stickleback crossing and rearing SOP to generate 100-200 fertilized embryos
+2. Place petri dish with fertilized eggs and embryo medium (6ppt Instant Ocean) in common 20C incubator for 4 hours
+3. After 4 hours, remove any embryos that are arrested or deformed. Using a transfer pipette, transfer the healthy embryos to a petri dish containing the experimental treatment, freshwater, brackish water, or ocean water
+4. Return the embryos to the 20C incubator
+5. On a daily basis, check on development of embryos. Change water every day, making sure to replace with correct salinity treatment. Remove the dead or deformed
+6. At 8 dpf, after the embryos have hatched, move them to a 1 gallon glass jar full of the appropriate salinity water
+7. On 9dpf, feed each jar enough artemia so that it is consumed by the juveniles within 15-30 minutes
+8. Feed and change water every other day. Do not overcrowd as outlined in stickleback SOP. Check on fish at least twice EVERY DAY, and use the care checklist to denote daily health check, feeding, and water change. Look for sick or stressed fish (low rate of opercular fluttering, bad color, floating upside down, etc.)
+
+::: {.callout-important}
+Check water quality on two random tanks in each treatment once every two days before water has been changed. If ammonia and/or nitrite are detected then change water more frequently, check water quality daily, and denote this on checklist. **Ideal ammonia and nitrite levels are 0 ppm.**
+:::
+
+9. At designated time of interest up to 40 days post-fertilization, remove fish with a small clean net
+10. Place fish in beaker containing MS-222 euthanasia dose (300 mg/L)
+11. Wait for fish's operculum to stop moving, wait 10 minutes and fix
+12. Fix appropriately in liquid nitrogen, 4%PFA, or Bouin's
+13. If downstream application requires instantaneous, non stressed measurement of gene transcription, remove fish from water, rapidly blot, and sacrifice directly into liquid nitrogen or RNAlater
+
+## Intraperitoneal Colchicine Injection into Adult Stickleback {#sec-colchicine-injection}
+
+::: {.callout-note}
+**Created:** July 12, 2013 by Susie Bassham
+:::
+
+### Purpose {#sec-colchicine-purpose}
+
+Colchicine causes dividing cells to accumulate in metaphase. Cells harvested from spleen and/or kidney of euthanized, colchicine-injected fish will be used for preparing metaphase chromosome spreads on slides. These slides will be used in Fluorescent In Situ Hybridization (FISH) experiments to detect chromosome structural variations. Every effort will be made to maximize the number FISH experiments that can be carried out from the tissue of each fish sacrificed.
+
+### Materials {#sec-colchicine-materials}
+
+- 168 mg/L MS-222
+- Slit Sponge
+- Colchine in Cortland's Salt Solution (see recipe below)
+- 35 G beveled steel needle
+- 300 mg/L MS-222
+
+### Cortland's Salt Solution {#sec-cortlands-solution}
+
+For 100 ml volume dissolve the following in distilled water:
+
+- 725 mg NaCl (124.1 mM)
+- 38 mg KCl (5.1 mM)
+- 41 mg Na2HPO4 (2.9 mM)
+- 24 mg MgSO4∙7H2O (1.9 mM)
+- 16 mg CaCL2∙2H2O (91.4 mM)
+- 100 mg NaHCO3 (11.9 mM)
+- 4 g Polyvinylpyrrolidone (PVP) (4%)
+- 1,000 USP units of Heparin
+
+Filter, sterilize and store at 4°C.
+
+### Procedure {#sec-colchicine-procedure}
+
+1. Anesthetize adult stickleback in buffered 168 mg/L MS-222
+2. Cradle anesthetized fish, ventral side up, in a slit sponge saturated with 168mg/L MS-222
+3. Inject 10 µl of filter-sterilized 1% colchicine in Cortland's salt solution into the peritoneal cavity using a 35G beveled steel needle inserted near the pelvic spines
+4. Quickly return fish to fish water for recovery from anesthesia
+5. 12-14 hours later, euthanize fish with 300 mg/mL MS-222 until opercular movement stops (See Euthanization SOP)
+
+### Citations {#sec-colchicine-citations}
+
+Urton, J.R, McCann, S.R., and Peichel, C.L. (2011) Karyotype differentiation between two stickleback species (Gasterosteidae) Cytogenet Genome Res. 135(2): 150–159. doi: 10.1159/000331232
+
+Kinkel, M. D., Eames, S. C., Philipson, L. H., Prince, V. E. Intraperitoneal Injection into Adult Zebrafish. J. Vis. Exp. (42), e2126, doi:10.3791/2126 (2010).
+
+Perry, S.F., Davie, P.S., Daxboeck, C., Ellis, A.G., & Smith, D.G. (1984). Perfusion methods for the study of gill physiology. In W.S. Hoar & D.J. Randall (Eds.), Gills: Part B. Ion and water transfer (series title: Fish physiology, vol. 10). Orlando: Academic Press.
+
+## EdU Labeling of Young Threespine Stickleback {#sec-edu-labeling}
+
+::: {.callout-note}
+**Created:** 10/22/2014 by Kristin Alligood
+:::
+
+### Purpose {#sec-edu-purpose}
+
+This protocol allows for visualization of proliferating cells. EdU (5-ethynyl-2'-deoxyuridine) is a small molecule that is incorporated into DNA during active DNA synthesis. Detection is based on a "click reaction", a copper-catalyzed covalent reaction between and azide and an alkyne. Kit purchased from Invitrogen: **Click-iT EdU Alexa Fluor Imaging Kit**
+
+### Materials {#sec-edu-materials}
+
+**Not provided in kit:**
+
+- Phosphate-buffered saline (PBS, pH 7.2-7.6)
+- 3% Bovine serum albumin (BSA) in PBS, pH 7.4
+- Deionized water
+- Embryo Medium
+- 90 mm sterile petri dishes
+
+### Procedure {#sec-edu-procedure}
+
+#### EdU labeling and fixation {#sec-edu-labeling-fixation}
+
+1. Incubate 9-11dpf larvae for 6-8 hours in 1mM EdU (5-ethynyl-2'-deoxyuridine) in embryo medium in 90mm disposable sterile petri dishes (standard)
+2. Euthanize larvae with MS-222 and fix overnight at 4C in 4% PFA (in PBS), (see embryo euthanasia and fixation protocol)
+3. Wash fixed fish in PBSTx (1% Triton X-100 in 1x PBS)
+4. Prepare embryos for fluorescent in situ hybridization for probe of choice (Col10a1)
+
+#### EdU detection {#sec-edu-detection}
+
+1. Prepare a 1X Click-iT EdU buffer additive by diluting the 10X stock solution 1:10 in nanopure water. Always prepare this fresh and use the solution on the same day (this is the last component to add in the table)
+
+::: {.callout-tip}
+To make the 10X stock solution: Use Click-iT EdU buffer additive (Component F)— add 2mL of nano pure water to the bottle, then mix until fully dissolved. After the 10X solution is made, store the remaining stock solution in the -20 freezer.
+:::
+
+2. Prepare the 1X Click-iT reaction buffer. Prepare from Component D (10X solution)
+3. Dilute 1:10 with nanopure water
+4. Prepare the Click-iT reaction cocktail. Add reagents in the order listed:
+   - Wash embryos 4 x 3 min was in 3% BSA in PBST
+   - Incubate in reaction cocktail for 1 hr in dark
+   - Wash with 3% BSA/PBS in dark
+   - Mount on slide with vectashield (includes DAPI in medium)
+
+## Perchlorate Exposure {#sec-perchlorate-exposure}
+
+::: {.callout-note}
+**Created:** 8/1/11 by Ann Petersen
+:::
+
+### Materials {#sec-perchlorate-materials}
+
+- MS-222 Anesthesia solution (see fish anesthesia and euthanasia SOP)
+- 2 Glass containers of embryo medium (6ppt Instant Ocean), one with added 100ppm NaCLO4 (sodium perchlorate)
+- Glass 1 gallon fish containers (not plastic due to endocrine disruptive properties) with loose fitting lids
+- Stickleback fish feeding SOP supplies (artemia, dry flakes, etc.)
+- Stickleback fish crossing and rearing SOP supplies
+
+### Procedure {#sec-perchlorate-procedure}
+
+::: {.callout-warning}
+Properly dispose of all perchlorate treated water into carboy marked "perchlorate water". Wear gloves and closed toe shoes.
+:::
+
+1. Follow stickleback crossing and rearing SOP to generate 100-200 fertilized embryos of both Boot Lake and Rabbit Slough populations
+2. Place petri with fertilized eggs in embryo medium (6ppt Instant Ocean) and place in common 20C incubator in Pacific 324 for 4 hours
+3. After 4 hours, pipette off any embryos that are arrested or are deformed. Using a transfer pipette, transfer the healthy embryos to a petri dish containing the experimental treatment or the control. Properly dispose of all perchlorate treated water into carboy marked "perchlorate water". Wear gloves and closed toe shoes
+4. Return to 20C incubator marked "perchlorate experiment" for the perchlorate treated embryos. Return controls to common use incubator
+5. On a daily basis, check on development of embryos. Change water every day, making sure to replace with correct perchlorate treatment. Remove the dead or deformed embryos
+6. At 8 dpf, after the embryos have hatched, move them to a 1 gallon glass jar full of the appropriate salinity water
+7. On 9dpf, feed the juveniles in each jar enough artemia so that it is consumed within 15-30 minutes
+8. Feed and change water every other day. Do not overcrowd as outlined in stickleback SOP. Check on fish at least twice EVERY DAY, and use the care checklist to denote daily health check, feeding, and water change. Look for sick or stressed fish (low rate of opercular fluttering, bad color, floating upside down, etc.)
+9. Check water quality on two random tanks in each treatment once every two days before water has been changed. If ammonia and/or nitrite are detected then change water more frequently, check water quality daily, and denote this on checklist. Ideal ammonia and nitrite levels are 0ppm
+10. At designated time of interest up to 40 days post-fertilization, remove fish with a small clean net
+11. Place fish in beaker containing MS-222 euthanasia dose (300 mg/L)
+12. Wait for fish's operculum to stop moving, wait 10 minutes and fix
+13. Fix appropriately in liquid nitrogen, 4%PFA, or Bouin's
+14. If downstream application requires instantaneous, non stressed measurement of gene transcription, remove fish from water, rapidly blot, and sacrifice directly into liquid nitrogen or RNAlater
+
+## Fish Blood Collection {#sec-blood-collection}
+
+::: {.callout-note}
+**Created:** 8/1/11 by Ann Petersen
+**Modified from:** Canada Department of Fisheries and Oceans Animal-User Training Template
+:::
+
+### Materials {#sec-blood-collection-materials}
+
+- MS-222 (tricaine-methanosulfanate)
+- Gloves to be worn when handling fish, anaesthesia water, blood samples
+- Disinfectant for cleaning after blood sample
+- Scalpal or sharp knife for tail ablation
+- Sterile needles or vacutainer needles from 14-30 gauge
+- Syringe for collecting samples
+- Hematocrit tubes
+- Critoseal
+- Sharps container for needles
+- Whatman 903 Specimen collection paper
+
+### Human Safety Measures {#sec-blood-collection-safety}
+
+::: {.callout-danger}
+## Safety Precautions
+
+- Wear gloves at all times when handling blood collection equipment. While this will not prevent accidents, it may reduce the risk of contamination
+- **Never attempt to re-sheath needles.** Always discard them into a sharps container immediately after use
+- Never overfill the sharps container
+- Place the sharps container in the area you are working to avoid transporting needles outside of your work area
+- Ensure the work area is clean
+- Wash hands after handling fish blood
+:::
+
+### Procedure {#sec-blood-collection-procedure}
+
+#### Tail ablation {#sec-tail-ablation}
+
+1. Place fish in beaker containing MS-222 euthanasia dose (300 mg/L)
+2. Wait for fish to slow and become unresponsive to taps on the container to ensure it is fully euthanized
+3. Sever the caudal peduncle with a scalpel blade or sharp knife
+4. Fill a heparnized hematocrit tube/capillary tube with the blood as it flows from the caudal vein. Plug one end of the hematocrit tube with critoseal. Spin on microhematocrit centrifuge to separate plasma from red blood cells. Measure hematocrit volume %, Use a pipette or break the capillary to extract the plasma or packed cells as needed
+5. Alternatively, collect a 25μL drop of blood at the tail and allow it to drop onto Whatman specimen collection filter paper for some endocrinological downstream applications. Blood spotted filter paper must be dried for 4 hours on the bench away from heat and light, and then may be stored at -20C in a sealed bag with desiccant packs
+6. Dispose of fish soma and tail in fish morgue as outlined in Stickleback SOP
+7. Clean and disinfect area where blood was collected

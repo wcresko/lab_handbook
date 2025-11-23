@@ -1,0 +1,101 @@
+# Stickleback Husbandry - General {#sec-stickleback-general}
+
+![Tyee Slough - photo by Mark Currey](images/tyee_slough_header.jpg)
+
+This chapter covers general husbandry practices for threespine stickleback. For health-related protocols, see @sec-stickleback-health, and for crossing protocols, see @sec-stickleback-crossing.
+
+---
+
+## Fish Density Standards {#sec-density-standards}
+
+::: {.callout-note}
+Created by M Currey, August 25, 2011, updated by mcc 151125
+:::
+
+These standards for fish densities are what we in the Cresko lab have determined optimal after 12 years of keeping threespine stickleback in a recirculating aquaculture system.
+
+### Fry (9 dpf - 2 months) {#sec-fry-density}
+
+::: {.callout-tip}
+## Density Guidelines
+
+- Fry are kept in **2.8 L tanks** at an ideal density of **20 fish per container**
+- Fry can be kept in densities of up to **40 fish per tank**
+- If fish densities are near 40 per tank, fish are transferred or thinned after 1 month of age
+:::
+
+### Juvenile (2 months - 4 months) Grow Out {#sec-juvenile-density}
+
+- Juvenile fish are transferred from fry tanks into **9.5 L tanks** and kept at a density of **20 fish per container**
+
+### Grow Out, Adult, and Breeding Conditioning {#sec-adult-density}
+
+**Grow Out (4 months – 1 year):**
+
+- Juvenile fish are transferred to **20 gallon tanks** in the Winter room at an ideal density of **20 fish per container**
+- Fish can be kept at a density of **40 fish per tank** if space is needed
+
+**Adult (1 year - 1.5 years):**
+
+- Maintained in 20 gallon tanks
+- Ideal density of 20 fish per container
+
+**Breeding Conditioning:**
+
+::: {.callout-important}
+## Breeding Preparation
+
+- Once fish are **1 year of age (or older)**, transfer adult fish to the Summer room
+- **Males** become sexually mature **2-6 weeks** after experiencing Summer conditions
+- **Females** become sexually mature **4-6 weeks** after experiencing Summer conditions
+- Conditioned fish can stay in the Summer room for **up to 5 months**
+:::
+
+---
+
+## Juvenile Collection (Daily) {#sec-juvenile-collection}
+
+::: {.callout-note}
+## Procedure
+
+1. Turn off water to tanks
+2. Remove collection cup, using mysid system water, rinse juveniles into plastic container
+3. Pour juveniles into grow out tank
+4. Replace collection cup
+5. Turn water on and start siphon
+:::
+
+---
+
+## Adult Mysid Collection and Feeding {#sec-mysid-collection}
+
+Mysids are used as live food for stickleback and pipefish. For more information on live food culture, see @sec-stickleback-feeding.
+
+::: {.callout-tip}
+## Mysid Lifecycle
+
+1. Juveniles will reach adult size in three weeks
+2. At three weeks these new adults will replace old breeding adults
+3. The old breeding adults that are being replaced are fed to the pipefish
+:::
+
+### Procedure
+
+1. Let juveniles grow to three weeks at which point they reach adult stage
+2. Siphon adults through a net and collect in a container
+3. Siphon old adults out of one of the 10 gallon tanks and feed to fish
+4. Clean tank, fill with water, and add new adult mysids
+
+---
+
+## Related Protocols
+
+For comprehensive stickleback husbandry information, see:
+
+- Health monitoring: @sec-stickleback-health
+- Crossing protocols: @sec-stickleback-crossing
+- Feeding protocols: @sec-stickleback-feeding
+- Cleaning protocols: @sec-stickleback-cleaning
+- System maintenance: @sec-stickleback-maintenance
+- Emergency procedures: @sec-stickleback-emergency
+- Solution recipes: @sec-stickleback-recipes

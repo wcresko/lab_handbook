@@ -1,0 +1,119 @@
+# Pipefish Husbandry - General {#sec-pipefish-husbandry}
+
+![Photo by Mark Currey](images/pipefish_embryos.jpg)
+
+## Pipefish Feeding {#sec-pipefish-feeding}
+
+::: {.callout-note}
+**Created by:** M Currey, 7/23/09
+:::
+
+### Materials Needed {#sec-pipefish-feeding-materials}
+
+- Decapsualted Brine Shrimp (see artemia decapsulations SOP)
+- Adult Brine Shrimp
+- Live Moina
+- Frozen myisid Shrimp
+- Live mysid shrimp
+- Shrimp collector
+- Squirt Bottle
+
+### Fish foods for fry, juvenile and adults {#sec-pipefish-food-types}
+
+::: {.callout-tip}
+## Feeding Schedule
+
+- **Fry** - newly hatched baby brine shrimp (see hatching brine shrimp SOP), salt water copepods. Fry are fed once per day
+- **Adult** – newly hatched brine shrimp, Adult brine shrimp, Moina. Adults are fed once per day
+:::
+
+Feed adult brine shrimp when we have them. Use moina when we are out of adult brine shrimp. Adult brine shrimp are from a local fish store and are only available every two weeks. They last ~ one week and therefore adult pipefish are fed adult brine shrimp for one week and moina the next.
+
+### Feeding Fry {#sec-pipefish-feeding-fry}
+
+::: {.callout-note}
+Fry tanks are designated with an **orange dot**.
+:::
+
+1. Newly hatched brine: Collect newly hatched brine and place into a squirt bottle (see brine shrimp SOP). Feed all tanks with an orange dot.
+
+### Feeding Adults {#sec-pipefish-feeding-adults}
+
+::: {.callout-note}
+Adult tanks are designated with a **yellow dot**.
+:::
+
+1. **Newly hatched brine:** Collect newly hatched brine and place into a squirt bottle (see brine shrimp SOP). Feed all tanks with an orange dot.
+2. **Frozen Mysis:** Obtain a quarter-sized piece of frozen mysis from the freezer. Place into squirt bottle and add water. Wait until mysis thaws and feed to all adult tanks.
+3. **Adult Brine shrimp:** Scoop out adult brine shrimp with net. Wash into a ball and place over the top of squirt bottle. Wash ball of brine into squirt bottle and feed all adult pipefish.
+4. **Moina:** Scoop out with net and wash into a ball. Invert ball over collection beaker and wash moina into beaker. Pour moina into squirt bottle and feed.
+5. **Live Mysid:** See live foods SOP
+
+## Live Food Culture - Moina {#sec-moina-culture}
+
+### Materials {#sec-moina-materials}
+
+- 10 gallon glass tanks
+- Corner sponge filter
+- Air supply
+- Rotifer diet
+- Powdered nannochloropsis
+
+### Procedure {#sec-moina-procedure}
+
+1. Fill 10 gallon tank 3/4 full of stickleback system water
+2. Add corner filter and activate with air
+3. Add Moina
+4. Change water once every 2-3 weeks by removing half of the water and replacing with stickleback water
+
+::: {.callout-warning}
+**DO NOT** break tank down and clean as moina do not respond well to this.
+:::
+
+### Feeding {#sec-moina-feeding}
+
+Add 15 drops of rotifer diet and 1/8 scoop of powdered nannochloropsis each day.
+
+### Collection and feeding to fish {#sec-moina-collection}
+
+See @sec-pipefish-feeding-adults
+
+## Live Food Culture - Mysid Shrimp {#sec-mysid-culture}
+
+::: {.callout-tip}
+For a description of the mysid generator please visit:
+<http://www.mblaquaculture.com/assets/docs/MBL_AQ_Mysid_Generator.pdf>
+:::
+
+### Materials {#sec-mysid-materials}
+
+- 10 gallon tank generator system
+- Salt water
+
+### Feeding {#sec-mysid-feeding}
+
+Feed newly hatched brine shrimp daily to both adults and juveniles.
+
+### Water Change {#sec-mysid-water-change}
+
+- 2-3 times per week empty 5 gallons of water from the system and replace with new make up water
+- Make new water in 5 gallon bucket by adding DI water and 2 scoops of salt
+
+### Juvenile Collection (Daily) {#sec-mysid-juvenile-collection}
+
+1. Turn off water to tanks
+2. Remove collection cup, using mysid system water, rinse juveniles into plastic container
+3. Pour juveniles into grow out tank
+4. Replace collection cup
+5. Turn water on and start siphon
+
+### Adults collection and feeding to pipefish {#sec-mysid-adult-collection}
+
+::: {.callout-note}
+Juvenile will reach adult size in three weeks. At three weeks these new adults will replace old breeding adults. The old breeding adults that are being replaced are feed to the pipefish.
+:::
+
+1. Let juveniles grow to three weeks at which point they reach adult stage
+2. Siphon adults through a net and collect in a container
+3. Siphon old adults out of one of the 10 gallon tanks and feed to pipefish
+4. Clean tank, fill with water and add new adult

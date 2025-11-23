@@ -1,0 +1,76 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Cresko Laboratory Manual"
+  author: ""
+  date: today
+  chapters:
+    - index.qmd
+    - part: "Introduction"
+      chapters:
+        - 01-intro.qmd
+        - 02-mission_vision.qmd
+    - part: "Lab Policies and Safety"
+      chapters:
+        - 03-expectations.qmd
+        - 04-lab_safety.qmd
+    - part: "Stickleback Husbandry"
+      chapters:
+        - 09-stickleback_husbandry_health.qmd
+        - 10-stickleback_husbandry_general.qmd
+        - 11-stickleback_crossing.qmd
+        - 12-stickleback_husbandry_feeding.qmd
+        - 13-stickleback_husbandry_cleaning.qmd
+        - 14-stickleback_husbandry_recipes.qmd
+        - 15-stickleback_husbandry_maintenance.qmd
+        - 16-stickleback_husbandry_emergency.qmd
+    - part: "Other Animal Protocols"
+      chapters:
+        - 17-pipefish_husbandry_protocols.qmd
+        - 18-stickleback_field_collection.qmd
+    - part: "Experimental Protocols"
+      chapters:
+        - 19-stickleback_manipulation.qmd
+        - 20-stickleback_manipulation_gnotobiotic.qmd
+        - 21-IACUC.qmd
+    - part: "Laboratory Protocols"
+      chapters:
+        - 27-hist_protocols.qmd
+        - 28-molecular_protocols.qmd
+    - part: "Resources"
+      chapters:
+        - 30-Grant_Equipment.qmd
+        - 31-references.qmd
+
+bibliography:
+  - book.bib
+  - packages.bib
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: style.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    number-depth: 3
+    code-link: true
+    link-external-newwindow: true
+    link-external-icon: true
+    link-citations: true
+    citations-hover: true
+    footnotes-hover: true
+    fig-cap-location: bottom
+    tbl-cap-location: top
+    callout-appearance: default
+    callout-icon: true
+
+crossref:
+  chapters: true
+  fig-title: "Figure"
+  tbl-title: "Table"
+  sec-prefix: "Section"

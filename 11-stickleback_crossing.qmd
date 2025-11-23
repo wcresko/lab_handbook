@@ -1,0 +1,348 @@
+# Stickleback Husbandry - Crossing {#sec-stickleback-crossing}
+
+![Willamette River - photo by Mark Currey](images/willamette_header.jpg)
+
+This chapter covers protocols for crossing stickleback, storing gametes, and raising embryos. For density standards referenced in these protocols, see @sec-density-standards.
+
+---
+
+## Embryo Bleaching for Disinfection {#sec-embryo-bleaching}
+
+::: {.callout-note}
+Created by M Currey, August 25, 2011, updated 151201 by mcc
+:::
+
+### Purpose
+
+This protocol allows the removal of ecto-parasites from embryos produced from wild-caught stickleback.
+
+::: {.callout-important}
+## When to Use
+
+Use this protocol whenever:
+
+- New fish are added to a pre-existing stickleback rearing system
+- Stocks are transferred between labs
+:::
+
+### Materials Needed
+
+- Wash bottle and petri dishes
+- Timer
+
+### Solutions
+
+- 6% sodium hypochlorite (standard bleach)
+- Working stock of bleach – 500 µl of bleach into 1 liter of embryo medium (see @sec-stickleback-recipes)
+
+### Procedure
+
+1. Raise embryos according to standard crossing and rearing protocols (see @sec-crossing-protocol)
+2. At 48-60 hours post-fertilization (@ 20°C – at this point most organogenesis is complete) remove embryo medium from petri dishes and rinse embryos once with fresh embryo medium
+3. Fill petri dish with working stock solution of bleach. Swirl and let sit for 1.5 min
+
+::: {.callout-warning}
+## Timing Critical
+
+Do not bleach embryos for longer than 1.5 minutes as chorions can thicken and it becomes difficult for embryos to hatch.
+:::
+
+4. Drain bleach solution from embryos, and wash them three times with fresh embryo medium. **This is really important.**
+5. Replace embryo medium daily
+
+### Shipping Embryos
+
+If crosses are done in the field, embryos can be shipped from day 3 to day 6 post-fertilization.
+
+::: {.callout-tip}
+## Shipping Protocol
+
+1. Rinse once with embryo medium
+2. Place embryos into a 50 ml conical tube (~100 embryos/tube) and fill with fresh embryo medium
+3. Place tubes in a shipping container with wet ice
+4. Separate the tubes from the ice with bubble-wrap and newspapers
+5. Ship the embryos overnight
+:::
+
+**Upon Arrival:**
+
+1. Rinse the outside of the containers well before moving into the lab
+2. Allow them to equilibrate to room temp (~20°C)
+3. Place the embryos into petri dishes, rinse once, and add new embryo medium
+4. Rear according to standard protocol
+
+---
+
+## Testes Storage {#sec-testes-storage}
+
+::: {.callout-note}
+Created by M Currey, August 25, 2011, updated 151201 by mcc
+:::
+
+### Purpose
+
+Storage of stickleback testes for fertilization up to 1-2 months post extraction.
+
+### Materials Needed
+
+- Testes solution (see @sec-stickleback-recipes)
+- 15 ml falcon tube
+- 4°C refrigerator
+
+### Procedure
+
+1. Dissect testes (see @sec-crossing-protocol)
+2. Place testes in 15 ml tube with ~ 10 ml of testes solution
+3. Label tube with stock number and date of testes dissection and place tube with testes in 4°C refrigerator
+4. Change testes solution once per week
+
+::: {.callout-note}
+Testes can be used up to ~ 1 month when stored this way.
+:::
+
+---
+
+## Egg Storage {#sec-egg-storage}
+
+::: {.callout-note}
+Created by M Currey, August 25, 2011, updated 151201 by mcc
+:::
+
+### Purpose
+
+Storage of eggs for fertilization up to 24 hours post stripping.
+
+### Materials Needed
+
+- NaCl
+- KCl
+- CaCl₂
+- NaHCO₃
+- Tris, pH 7.2
+- npH₂O
+- Streptomycin & Penicillin Solution (PenStrep) from Sigma (P-0906) Stock – 100%
+- 50 ml sterile polypropylene conical tubes
+- 90 mm petri dish
+
+### Holtfreiter's Solution Recipe {#sec-holtfreiters}
+
+::: {.callout-tip}
+## Preparation
+
+**Make stock of Holtfreiter's Solution, store at 4°C**
+
+Mix solids into 750 ml of npH₂O:
+
+- 3.5 gm NaCl
+- 0.05 gm KCl
+- 0.1 gm CaCl₂
+- 0.02 gm NaHCO₃
+- 1.0 ml Tris
+
+Bring to 1 liter with npH₂O
+
+Add PenStrep to a final concentration of 1% (10 ml into 1 liter), store at 4°C.
+:::
+
+### Procedure
+
+1. Strip eggs from ripe female into a conical tube with 25 ml cold Holtfreiter's
+2. Eggs can be transported on ice and fertilized up to 24 hours later (maybe longer)
+3. To fertilize, move eggs to 90 mm petri dish and allow temperature to equilibrate to 20°C
+4. Remove Holtfreiter's solution, and rinse eggs once with embryo medium
+
+::: {.callout-important}
+It is important to make sure that salt concentration is low enough for sperm to be optimally activated.
+:::
+
+5. Add macerated testis as in @sec-crossing-protocol and cover eggs with embryo medium
+
+---
+
+## Stickleback Crossing Protocol {#sec-crossing-protocol}
+
+::: {.callout-note}
+Created 4/1/08 by M. Currey
+:::
+
+### Materials Needed
+
+- 25, 45 and 90 mm disposable sterile petri dishes (standard)
+- Sterile Ginzburg's Fish Ringers solution containing antibiotic and antimycotics for testes (see @sec-stickleback-recipes)
+- MS222 Tricaine Methanesulfonate (see @sec-mesab-stock)
+- 100% ethanol
+- Fine scissors and forceps
+- Wide-blade entomology forceps
+- Sterile Embryo medium (6 ml of Instant Ocean into 1L npH₂O)
+- Squeeze wash bottles
+- Stress coat (standard from pet store)
+- Sterile flat razor blades
+- Sterile disposable large bore transfer pipettes (VWR cat# 691)
+- Dissecting microscope
+
+### Procedure
+
+**1. Squeeze Female**
+
+Cover fingers with stress coat and gently squeeze gravid female. Gravid females have extended abdomens and their eggs have "dropped".
+
+::: {.callout-tip}
+If eggs do not emerge with very slight pressure the female is not quite ready.
+:::
+
+Squeeze eggs with motion from pectoral girdle posterior to the cloaca into a 25 mm sterile petri dish. The small size of petri dish allows the sperm to be concentrated on the eggs.
+
+**2. Dissect Testes From Male**
+
+::: {.callout-warning}
+Follow all safety protocols from @sec-lab-safety when handling sharp instruments and chemicals.
+:::
+
+1. Euthanize male by placing him into a finger bowl of embryo medium containing a lethal volume of MS-222
+2. Clean a large glass sheet (30 cm × 60 cm or similar size), fine scissors, and forceps with 100% ethanol
+3. When male is motionless, remove and rinse fish with clean water and sever spinal cord behind skull using a razor to ensure euthanization
+4. Use scissors to make incision just posterior to the cloaca and cut from there anteriorly to the pelvic girdle making an incision along the mid line of the fish
+5. Make another cut to each side of the fish from the cloaca dorsally approximately 15 mm so that the body cavity is easily accessed
+
+::: {.callout-important}
+## Careful Dissection
+
+Incisions should be made just deep enough to cut the skin and body wall muscle while being wary to not cut into the stomach and intestines that are located just below the skin surface.
+:::
+
+6. Locate paired testes and vas deferens (testes are variable in shape and coloration, but are usually long and pigmented, usually having the same pigmentation as the skin surface, and sit in the dorsal part of the coelom near the kidneys. The vas deferens are threadlike and are usually as long as the testis to which it connects)
+7. Use fine forceps to grab vas deferens, sever near the cloaca, and remove one (or often) both testes
+
+::: {.callout-note}
+Doing so keeps the testes intact, allowing them to contain viable sperm for up to 1 month at 4°C in Testes Solution.
+:::
+
+**3. Storing of Testes**
+
+If only a single cross is to be made with a male, proceed to step 4. Otherwise, place testes into 45 mm petri dish filled with cold Testes Solution. Store testes at 4°C. To store testes for extended periods, change out medium once a week. See @sec-testes-storage for details.
+
+**4. Prepare Testis**
+
+If multiple crosses are to be performed from a single pair of male's testes, remove one testis and place on the inside lid of the 25 mm petri dish into which a female's eggs have been squeezed.
+
+::: {.callout-tip}
+## Testis Usage
+
+Using a sterile razor, slice off a small piece of testis. We've found a large testis can be used to fertilize approximately 5 clutches.
+
+Make cuts as perpendicular as possible to the major axis of the testis and perform multiple cuts from the same end. This allows as much of the sperm to remain packaged and inactivated at the center of the testis.
+:::
+
+1. Use blade to macerate testis
+2. Under a dissecting scope swimming sperm should cause a 'sparkling' refraction
+3. Add approximately 1.0 ml of sterile embryo medium to testis prep with disposable pipette, mix, and then add to the eggs one drop at a time
+4. Use same disposable pipette, dispersing drops between petri dishes so that all eggs are covered with sperm mixture
+
+**5. Fertilization (time = 0)**
+
+Fertilization of most eggs will occur almost instantaneously. However, leave the sperm on the eggs for about 5-10 minutes.
+
+1. At this point cover embryos with embryo medium
+2. Mark fertilization time (this is the time that the initial drops of sperm were added) on the surface of the petri dish
+3. Place in incubator at 20°C
+
+**6. Separation of Embryos and Second Cleaning (t = 2 hr)**
+
+The animal pole of the embryo is established at the site of sperm entry, and at 20°C the first cell syncitium is usually visible within 45 minutes. The first cell division usually occurs approximately 25 minutes later, and the two cell stage is fully visible approximately 1.5 hr after fertilization.
+
+::: {.callout-note}
+## Chorion Development
+
+During this time, the chorion thickens and attaches to the petri dish as well as to other embryos.
+:::
+
+**At or after 2 hours post fertilization:**
+
+1. Use the wide blade entomological forceps to detach the embryos from one another, as well as to dislodge embryos from the bottom of the petri dish
+2. Remove all of the unfertilized eggs to limit mold contamination, and record the total number of eggs and embryos
+3. Rinse embryos 3 to 4 more times then distribute embryos to 90 mm petri dishes (30-50 embryos per dish) filled half way with fresh embryo medium
+4. Enter cross information into database, print labels for dishes, and place embryos into incubator at 20°C
+
+**7. Raise Embryos (check daily)**
+
+::: {.callout-important}
+## Developmental Timeline
+
+Embryos will develop at approximately **2.5 times zebrafish time** (see [http://zfin.org/zf_info/zfbook/stages/index.html](http://zfin.org/zf_info/zfbook/stages/index.html)), and hatch at approximately **7 days**.
+
+Key developmental milestones:
+
+- **48 hr**: Most major morphogenetic processes complete, melanic pigment cells just starting to migrate
+- **~72 hr**: Beating heart can be seen
+- **7-8 days**: Hatching occurs
+:::
+
+**Daily care:**
+
+- Check petri dishes daily and remove embryos that have arrested development
+- A change of embryo medium may help at some point during the first 7 days as water quality may decline
+
+---
+
+## Incubator Use and Care of Stickleback Fry {#sec-incubator-use}
+
+::: {.callout-note}
+Created 4/1/08 by M. Currey
+:::
+
+### Purpose
+
+Researchers are responsible for monitoring and caring for their research animals while in the incubator. This includes water changes, removing "deads", fixing, euthanizing and any other procedures regarding the fish.
+
+::: {.callout-important}
+## Before Using Incubator
+
+- If the fish are to be raised past hatching, please contact Mark **prior to hatching** to make arrangements for putting fish into system
+- Please see Mark prior to initial use of incubator for brief training
+:::
+
+### Materials Needed
+
+- Petri Dishes
+- Embryo Medium (found above incubator)
+- Incubator
+- Fry food
+- Checklist
+
+### Procedure
+
+**Raise Embryos (check daily):**
+
+As described in @sec-crossing-protocol, embryos develop at approximately 2.5 times zebrafish time and hatch at approximately 7 days. 48hr stickleback embryos have completed most major morphogenetic processes, and the melanic pigment cells are just starting to migrate. A beating heart can be seen after ~72hr.
+
+- Check petri dishes daily and remove deads and those with arrested development
+- A change of embryo medium may help at some point during the first 7 days as water quality may decline
+
+**Hatching, Begin Feeding Brine Shrimp, and Move to System (t = 7-8 days post fertilization):**
+
+::: {.callout-tip}
+## Post-Hatching Protocol
+
+1. After hatching at 7-8 days post fertilization, remove chorions and allow young to absorb yolk (2-3 days)
+2. At approximately day 2 post hatching take petri dish containing fry out of incubator and place dishes on a table
+3. To each petri dish add approximately the same volume of system water as there is embryo medium; this will double the volume of liquid in the dish. This acclimates the fry to the system water
+4. Allow the fry to acclimate for 6-10 hours, the longer the better
+5. Then transfer fry to small aquaria on the system
+6. Feed newly hatched brine shrimp once daily and fry food once daily according to directions posted in the fish room
+:::
+
+**Documentation:**
+
+- Initial checklist and add what type of check was done to checklist
+
+---
+
+## Related Protocols
+
+For comprehensive stickleback husbandry information, see:
+
+- Density standards: @sec-density-standards
+- Solution recipes: @sec-stickleback-recipes
+- Health monitoring: @sec-stickleback-health
+- Feeding protocols: @sec-stickleback-feeding
+- General husbandry: @sec-stickleback-general

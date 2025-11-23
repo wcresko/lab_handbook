@@ -1,0 +1,43 @@
+# References {#sec-references .unnumbered}
+
+::: {.callout-note}
+## Bibliography
+
+This section will be automatically populated with references cited throughout the handbook when using Quarto's citation system.
+:::
+
+::: {.callout-tip}
+## Using Citations in Quarto
+
+To add citations to your documents:
+
+1. Create a `.bib` file with your references
+2. Add `bibliography: references.bib` to your `_quarto.yml` or document YAML header
+3. Cite works using `[@citation-key]` syntax
+4. References will automatically appear in this section
+:::
+
+## Key References Cited in Protocols {#sec-key-references}
+
+### Gnotobiotic Fish Protocols
+
+Pham, L.N., Kanther, M., Semova, I., & Rawls, J.F. (2008). Methods for generating and colonizing gnotobiotic zebrafish. *Nature Protocols*, 3(12), 1862-1875.
+
+### Chromosome Analysis
+
+Urton, J.R., McCann, S.R., & Peichel, C.L. (2011). Karyotype differentiation between two stickleback species (Gasterosteidae). *Cytogenetic and Genome Research*, 135(2), 150-159. doi: 10.1159/000331232
+
+### Intraperitoneal Injection Methods
+
+Kinkel, M.D., Eames, S.C., Philipson, L.H., & Prince, V.E. (2010). Intraperitoneal injection into adult zebrafish. *Journal of Visualized Experiments*, (42), e2126. doi:10.3791/2126
+
+### Fish Physiology
+
+Perry, S.F., Davie, P.S., Daxboeck, C., Ellis, A.G., & Smith, D.G. (1984). Perfusion methods for the study of gill physiology. In W.S. Hoar & D.J. Randall (Eds.), *Gills: Part B. Ion and water transfer* (Fish physiology, vol. 10). Orlando: Academic Press.
+
+### Zebrafish Methods
+
+Westerfield, M. (2000). *The Zebrafish Book: A guide for the laboratory use of zebrafish (Danio rerio)* (4th ed.). Eugene, OR: University of Oregon Press.
+
+::: {#refs}
+:::
